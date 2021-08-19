@@ -1,0 +1,968 @@
+@charset "utf-8";
+/* CSS Document */
+body{font-family: 'Dosis', sans-serif;}
+@font-face {
+  font-family: "Flaticon";
+  src: url("../fonts/Flaticon.eot");
+  src: url("../fonts/Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Flaticon.woff") format("woff"),
+       url("../fonts/Flaticon.ttf") format("truetype"),
+       url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+.social-header{font:14px/40px 'Dosis';background:#720606;}
+.folow-us{color:#FFF;}
+.phone-num{float:left;padding-right:10px;}
+.phone-num:before{/*content:url(../images/mobile-phone.png);*/padding-right:10px;float:left;}
+.emailaddress{float:left;}
+.aff-no{ float:left; font:14px/40px 'Dosis';color:#FFF; font-weight:600; margin:0; padding:0; padding-left:10px; }
+
+.conatct-detail{font:14px/40px 'Dosis';color:#FFF;float:right;}
+.emailaddress a{text-decoration:none;font:14px/40px 'Dosis';color:#FFF;}
+.emailaddress:before{/*content:url(../images/inbox.png);*/padding-right:10px;float:left;}
+.folow-us img{padding:3px;}
+.navbar-inverse {
+    background: none;
+    border: none;
+}
+.banner img{ width:100%;}
+.downloads:before{content: url(../images/download-icon.png);padding-right:10px;float:left; padding-top: 4px;}
+.flwus{float:left;padding-right:10px;}
+.downloads{float:left;padding-right:10px; }
+.downloads a{text-decoration:none;font:14px/40px 'Dosis';color:#FFF;}
+
+
+.Parents-login:before{content:url(../images/parents-login.png);padding-right:10px;float:left;}
+.Parents-login{float:left;padding-right:10px;}
+.Parents-login a{text-decoration:none;font:14px/40px 'Dosis';color:#FFF;}
+.small-dev-logo{padding:0px;}
+.no-pad-menu{padding:0px;}
+.navbar-inverse .navbar-nav .open .dropdown-menu > li > a{text-align: center;color:#fff;font:14px/24px 'Dosis'; text-transform: uppercase;font-weight:600;}
+.dropdown-menu{ background-color:#720606; border-radius:0;padding:0px;margin:0px;}
+ ul.dropdown-menu{ background-color:#720606; border-radius:0;}
+.dropdown-submenu{position:relative;}
+.dropdown-submenu >.dropdown-menu{top:100%;margin-top: 8px;left:0%;margin-left:-1px;-webkit-border-radius:0;-moz-border-radius:0;border-radius:0;}
+.dropdown-submenu:hover > a:after{border-left-color:#555;}
+.dropdown-submenu.pull-left{float:none;}.dropdown-submenu.pull-left >.dropdown-menu{left:-100%;margin-left:10px;}
+.nav .open > a, .nav .open > a:focus, .nav .open > a:hover{ background:#ed008c;color:#000 !important;}
+.dropdown-menu > li > a:hover{ background:#ffffff !important;color:#121212 !important;}
+.dropdown-menu > li > a:focus{ background:#fff !important;color:#fff !important;}
+.dropdown-menu > li > a.active{ background:#ffffff !important;color:#121212 !important;}
+.dropdown-menu > li {margin-bottom:1px;border-bottom: solid 1px #35302b;}
+.dropdown-menu > li:last-child{border:none;}
+.dropdown-menu a:after {
+    display: block;
+    content: " ";
+    float: right;
+    width: 0;
+    height: 0;
+    border-color: transparent;
+    border-style: solid;
+    border-width: 5px 0 5px 5px;
+    border-left-color: #cccccc;
+    margin-top: 8px;
+    margin-right: -13px;
+}
+.dropdown-menu a:hover:after {
+    border-left-color:#000;
+}
+.dropdown-menu a:focus:after {
+    border-left-color:#000;
+}
+.dropdown-submenu >.dropdown-menu a:after {
+    display: block;
+    content: " ";
+    float: right;
+    width: 0;
+    height: 0;
+    border-color: transparent;
+    border-style: solid;
+    border-width:0px;
+    margin-top: 5px;
+    margin-right: -13px;
+}
+.dropdown-menu > .active > a, .dropdown-menu > .active > a:hover, .dropdown-menu > .active > a:focus {
+    background: #ffffff !important;
+    color: #060606 !important;
+    outline: 0;
+}
+
+.navbar-inverse .navbar-toggle {
+    border-color:transparent;
+}
+
+.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
+    background-color: transparent;
+    color: #151515;
+ 
+}
+.navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus {
+    background-color: transparent;
+    color: #151515;
+    background: url(../images/active-strip.jpg) center center;
+    background-repeat: no-repeat;
+    background-position: center 62px;
+}
+.navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus{transition: all 1s ease 0s;
+    -webkit-transition: all 1s ease 0s;
+    -moz-transition: all 1s ease 0s;color:#720606 !important;background:url(../images/border-btm-str.jpg) no-repeat;background-position:center bottom 0px;}
+.navbar-nav > li > a {
+    padding-top: 15px;color:#151515;
+    padding-bottom: 15px;line-height:60px;
+    text-transform: uppercase;font-family: 'Dosis', sans-serif;font-size:14px;font-weight:500;
+}
+.navbar-nav li.active a{color:#720606 !important;background:url(../images/border-btm-str.jpg) no-repeat;background-position:center bottom 0px;transition: all 1s ease 0s;
+    -webkit-transition: all 1s ease 0s;
+    -moz-transition: all 1s ease 0s;}
+.navbar-nav > li > .dropdown-menu li a{
+color:#fff !important;
+}	
+.navbar-nav > li > .dropdown-menu li.active a {
+    color: #151515 !important;
+}
+.navbar-nav > li > .dropdown-menu li:hover a {
+    color: #151515 !important;
+}
+	
+.quick-text li a:hover{color:#720606 !important;transition: all 1s ease 0s;
+    -webkit-transition: all 1s ease 0s;
+    -moz-transition: all 1s ease 0s;}
+
+.slide img{width:100%;}
+.navbar-inverse .navbar-nav > li > a {
+    color: #151515;
+}
+.navbar {
+     margin-bottom:0px;float: right;
+    border: 0px solid transparent;
+}
+.mobile-db-logo{display:none;}
+
+.nav > li > a {
+	margin:31px 0 0 0;
+    padding:6px 14px;
+	outline:0;
+}
+.navbar-nav > li:last-child {
+    background-image:none;
+}
+.nav > li:last-child > a {
+    padding: 6px 0px;
+}
+.no-pad-sd{padding:0px;}
+header{position:absolute;z-index:999;width:100%;}
+.menu-part {
+    background: #fff;
+    -webkit-box-shadow: 0 8px 6px -6px #b7b7b7;
+    -moz-box-shadow: 0 8px 6px -6px #b7b7b7;
+    box-shadow: 0 8px 6px -6px #b7b7b7;
+}
+.bx-wrapper .bx-controls-direction a {
+    z-index:111 !important;
+}
+.slider-portion{border-bottom:solid 5px #720606; min-height:250px; background:#720606;}
+.slider-portion h1{font:19px/26px 'Dosis';color:#FFF;text-transform:uppercase;text-align:right; margin-bottom:20px; margin: 0px 0 0 0;}
+.wisinsli h1{font:47px/13px 'Dosis';
+    font-weight: 700;
+	color:#FFF;text-transform:uppercase;
+	text-align:center; margin-bottom:20px; 
+	margin: 189px 0 0 0;}
+.slider-portion img {
+    bottom: -2px;
+    position: relative;
+}
+.slider-caption{text-align:right;position:absolute;bottom:10%;z-index:999;width:100%;padding-right:0px;}
+.slider-caption h3{margin-bottom:0px;font:33px/24px 'Dosis';text-transform:uppercase;font-weight:300;color:#ffffff;}
+.slider-caption h1{margin-bottom:20px;font:43px/36px 'Dosis';text-transform:uppercase;font-weight:600;color:#00baff;}
+.slider-caption a{padding:6px 25px;background:#ffffff;color:#000;text-decoration:none;border-radius:5px;}
+.heading span{font-weight:600;color:#3b3b3b;}
+.slider-caption h3 {
+    margin-bottom: 0px;
+    font: 26px/24px 'Dosis';
+}
+
+.slider-caption h1 span{
+   background:#720606; color:#FFF; padding:0px 10px;
+}
+.welcome-content{width:80%;margin:0 auto;}
+.heading h1{font:19px/26px 'Dosis';color:#3b3b3b;text-transform:uppercase;text-align:center; margin-bottom:20px;}
+.heading h2{font:19px/26px 'Dosis';color:#fff; font-weight:600; text-transform:uppercase;text-align:center; background-color:#720606; width: 40%; margin: 0 auto; padding:5px; margin-top: 30px; margin-bottom: 50px; border-radius: 5px;}
+.heading h1:before{content:url(../images/heading-before-strip.png);position:relative;top:-5px;padding-right:10px;}
+.heading h1:after{content:url(../images/heading-before-strip.png);position:relative;top:-5px;padding-left:10px;}
+.welcome-content p{font:18px/30px 'Dosis';text-align:center;color:#3b3b3b;}
+.read-welcome{text-align:center;margin-top:30px;}
+.read-welcome a{padding:10px 25px;background:#720606;color:#fff;text-decoration:none;}
+.wisewoods-content{padding:10px 0px 30px 0px;}
+.headinggallery ul{ margin:0; padding:0 10px;}
+.headinggallery ul li{font:15px/26px 'Dosis';color:#3b3b3b; font-weight:600; text-transform:uppercase;
+text-align:center;  margin: 0 auto;  margin-top: 30px; margin-bottom: 50px;  display:inline-block; list-style:none; padding:0 5px;}
+.headinggallery ul li a{ color:#3b3b3b; padding:5px; text-decoration:none; }
+.headinggallery ul li a.active{ background-color:#720606; color:#fff; border-radius: 5px; padding:10px 10px;}
+.headinggallery ul li a:hover{ color:#720606;}
+
+
+/*font icon*/
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  }
+}
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+font-size:36px;
+font-style: normal;
+margin-left:0px;
+}
+.flaticon-like:before { content: "\f100"; }
+.flaticon-maths:before { content: "\f101"; }
+.flaticon-open-book:before { content: "\f102"; }
+.flaticon-sports:before { content: "\f103"; }
+/*font icon*/
+.wise-woods-icon {
+    margin-top:60px;
+}
+
+
+#owl-demo .owl-nav .owl-prev {
+    left: -4%;
+    top: 54%;
+    position: absolute;
+    background: none;
+}
+#owl-demo .owl-nav .owl-next {
+    right:-4%;
+    top: 54%;
+    position: absolute;
+    background: none;
+}
+.apply-for-admission{background:#4e0808;padding:30px 0px 30px 0px;}
+.admi-head h4{color:#fff;}
+.admi-head h4:before{content:url(../images/admission-before.png);}
+.admi-head h4:after{content:url(../images/admission-before.png);}
+.admi-head{text-align:center;}
+.admi-head p{font:16px/25px 'Dosis';color:#cacaca;text-transform:uppercase;}
+.admission-enqu{width:100%;}
+.form-admision{padding-top:20px;}
+input.form-control.submit.btm-ntm {
+    width: 150px;
+    margin: 0 auto;margin-top:10px;background:#fff;color:#000;text-transform:uppercase;border-radius:5px;
+}
+input.form-control {
+	 width: 100%;
+    height: 40px;
+    background: none;
+    box-shadow: none;color:#720606;
+    border: solid 1px #720606;
+    border-radius: 0px;
+}
+select.form-control{
+	 width: 100%;
+    height: 40px;color:#720606;
+    background: none;
+    box-shadow: none;
+    border: solid 1px #720606;
+    border-radius: 0px;
+	background: url(../images/drob-down-arrow.png) no-repeat 97%;
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+}
+.news-heading h5{font:17px/25px 'Dosis';font-weight:600;color:#828282;}
+.news-heading h5 span{color:#720606;font-weight:400;}
+.wise-woods-news{padding:50px 0px 0px 0px;}
+.date-time span{display:block;font:14px/24px 'Dosis';    font-weight: 600;background:#f6f6f6;border:solid 1px #ededed;}
+.date-time{width:73px;height:73px;border:solid 1px #ededed;text-align:center;font:21px/27px 'Dosis';margin-right: 20px;float:left;background:#fcfcfc;border-top:solid 1px #720606;}
+.date-time p{padding:10px 0px 0px 0px;border-top:solid 1px #720606;}
+.annual-day{
+    margin-left: 20px;
+    float: left;color:#828282;font:14px/25px 'Dosis';
+}
+.date-wise{margin-top:20px;}
+.panel-default > .panel-heading {
+    color: #333;
+    background-color: #fcfcfc;
+    border-color: #fcfcfc;
+}
+.panel-group .panel {
+    margin-bottom: 0;
+    border-radius: 0px;
+}
+.panel-group .panel + .panel {
+    margin-top: -2px;
+}
+.panel-title > a, .panel-title > small, .panel-title > .small, .panel-title > small > a, .panel-title > .small > a {
+text-decoration:none;outline:0;font-weight: 600;font-size:15px;
+}
+.glyphicon-chevron-down::before {
+position: Absolute;
+    padding-left: 56px;
+    top: -18px;
+}
+.wisewood-cont-abt p{text-align:justify;}
+.glyphicon-chevron-down::before {
+    position: Absolute;
+    padding-left: 56px;
+    top: -18px;
+}
+
+.panel-collapse.in {
+    display: block;    margin-left: -1px;
+    background:#720606;color:#fff;
+}
+.panel-heading.actives{background:#720606;color:#fff;}
+.panel-default > .panel-heading + .panel-collapse > .panel-body {
+    border-top-color:transparent;
+}
+.panel-default > .panel-heading + .panel-collapse > .panel-body {
+    border-top-color: transparent;
+    padding: 0px 15px 0px 15px;
+}
+.panel-group {
+    margin-bottom: 20px;
+    border-left: solid 2px #720606;
+}
+.panel-title p{color:#828282;}
+.date-wise p{color:#828282;}
+.wise-woods-news p{font:16px/27px 'Dosis';color:#9d9d9d;}
+.panel-body p {color:#ffffff;}
+.date-time p{font:21px/24px 'Dosis';}
+.img-testi img{display:block;margin-left:auto;}
+.img-testi{float:right;}
+
+.image-wrapper{width:100%;height:100%;position:relative;overflow:hidden;}
+.image-wrapper img{width:100%;}
+.image-overlay-content {
+    text-align: center;
+    position: absolute;
+    width:96%;
+    opacity: 0;
+    background: rgba(24,70,100,0.8);
+    height:95%;left:7px;right:7px;top:7px;bottom:7px;
+}
+.overlay-fade-in:hover .image-overlay-content{opacity:1; transition:0.5s;}
+.overlay img{width:auto;}
+.overlay img {
+    position: Absolute;
+    top: 50%;
+    display:inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.no-pad-img-gallery{padding:0px;margin:0px;}
+.overlay {
+    margin-left: -31px;
+}
+.image-wrapper a{outline:0;}
+.name-cont span{font:16px/24px 'Dosis';color:#9b59b6;}
+.contactus-enqu{width:100%;}
+.no-pad-img-gallery-sli {
+    padding: 20px 0 0 0;
+}
+.footer-logo {
+    text-align: center;
+    padding: 50px 0px 24px 0px;
+}
+footer{background:url(../img/footer-bg.jpg) no-repeat;padding:30px 0px 0px 0px;background-size:cover; }
+.footer-logo img{padding:50p}
+ul.quick-text li {
+    list-style: none;
+    clear: both;
+}
+ul.quick-text {
+    padding: 0px;
+    margin: 0px;
+}
+ul.quick-text li:before {
+   /* content: url(../img/before-arrow-footer.png);*/
+    float: left;
+    padding-right: 7px;
+    padding-top: 3px;
+}
+ul.quick-text li a {
+    text-decoration: none;
+    color: #ffffff;
+    font: 14px/28px 'Dosis';
+    outline: 0;
+}
+.quick-links h4 {
+    font: 17px/24px 'Dosis';
+    font-weight:400;color:#ff9a00;
+    text-transform: uppercase;
+}
+.quick-links h4:after {
+    /*content: url(../img/footer-strip.jpg);*/
+    display: block;
+    top: -10px;
+    position: relative;
+}
+.no-pad-cxs{padding:0px;}
+.address-fotter:before {
+    content: url(../images/location-footer.png);
+    float: left;
+    padding-right: 15px;
+    padding-bottom: 25px;
+}
+.phone-fotter:before {
+    content: url(../images/phone-footer.png);
+    float: left;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+.phone-fotter p {
+    font: 14px/24px 'Dosis';
+    color: #ffffff;
+}
+.address-fotter p {
+    font: 14px/24px 'Dosis';
+    color: #ffffff;
+}
+.social img{padding:4px;}
+.copyright a {
+    text-decoration: none;
+    font: 13px/24px 'Dosis';
+    color: #ffffff;
+}
+.copyright p {
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    line-height:43px;
+}
+.copyright {
+    text-align: center;border-radius: 5px;
+    color: #ffffff;
+}
+.news-letter{width:100%;margin:20px 0px 20px 0px;}
+input.form-control1 {
+    height: 40px;
+    width: 84%;
+    border: 0px;
+    height: 40px;
+    width: 94%;
+    border: 0px;
+    color: #aeaeae;
+    padding-left: 20px;
+	border: solid 1px #f2f2f2;
+}
+input.form-control1.submit1.btm-ntm {
+    border: solid 1px #d4d4d4;
+    background: transparent;color:#aeaeae; font: 17px/24px 'Dosis';
+}
+.years-exper{text-align:center;display:inline-block;width:200px;margin:0 auto;background:url(../img/right-strip-br.jpg) no-repeat;background-position:right;margin-top: 50px;}
+.years-exper h5 span{display:block;font: 34px/28px 'Dosis';padding-bottom:10px;color:#1e8ed1;font-weight:600;}
+.years-exper h5{font: 15px/26px 'Dosis';color:#272727;text-transform:uppercase;}
+.year-strip-exp{text-align:center;}
+.br-none{background:none;}
+input.form-control1.submit1.btm-ntm:hover{background:#720606;color:#fff;}
+.about-photo-img{padding:50px 0px 20px 0px;}
+.about-content p{text-align:justify;font: 18px/30px 'Dosis';color:#272727;}
+.about-content p span{ font-weight:600;}
+.about-content ul{ margin:0 20px; padding:0;}
+.about-content ul li{text-align:justify;font: 18px/30px 'Dosis';color:#272727; line-height:24px;}
+.about-content p.dwnd:before{ content:url(../images/download-ico.png); padding-right: 13px;}
+.about-content p a{color:#272727;}
+.about-content p.emp{ font: 18px/30px 'Dosis';color:#720606; font-style:italic; margin:10px 0; padding:0; text-align:center; font-weight:600;}
+.about-content h1{text-align:justify;font: 18px 'Dosis'; color:#720606; padding:10px 0; margin:0; text-transform: uppercase; font-weight:500;}
+.parallel-cont{width:89%;margin:0 auto;}
+.parallel-cont p{text-align:center;font:16px/24px 'Dosis';}
+.study-bg{width:90%;margin:0 auto;}
+.border-cont{ background:#f7f7f7;}
+.social{padding:10px 0px 10px 0px;}
+.no-pad-img{padding:0px;}
+.border-cont-br {
+    border: solid 1px #720606;
+    min-height: 225px;
+    margin: 20px 0px 20px 0px;
+    width: 104%;
+    position: relative;
+    margin-left: -5px;
+    padding:10px 0px 10px 10px;
+}
+.border-cont-br-right {
+    border: solid 1px #1685c7;
+    min-height: 225px;
+    margin: 20px 0px 20px 0px;
+    width: 100%;
+    position: relative;
+    margin-left: -20px;
+    padding: 14px 10px 10px 50px;
+}
+.no-pad-img-img {
+	padding:0px;
+    position: relative;
+    z-index:1;
+}
+.right-imag-show {
+    margin-left: -15px;
+}
+.no-pad-img-img img {
+    padding: 0px;
+    position: relative;
+    z-index: 999;
+    display: block;
+    margin-left: auto;
+}
+
+.border-cont-br:after {
+    content: 'CHAIRMAN';
+    position: absolute;
+    right:-80px;
+    background: #fff;
+    font: 23px/24px 'Dosis';text-transform:uppercase;
+    padding:0px 35px;
+    transform: rotate(270deg);
+    color: #720606;
+    top: 43%;
+}
+.border-cont-rightco:after {
+    content: 'TEACHER';right: -100px;
+} 
+.border-cont-br p{padding-right:8%; font:18px/30px 'Dosis';text-align:justify;}  
+
+.border-cont-br img{width:300px;}  
+
+.study-bg{margin-top:40px;}
+.border-cont-rt {
+    right: -36px;
+}
+
+
+.t-shaped-learning{background:#f7f7f7;padding:50px 0px 50px 0px;}
+.t-shape-cont p{font:16px/24px 'Dosis'; color:#444444;text-align:justify;}
+.full-t-shape p{width:70%;margin:0 auto;text-align:center;}
+.right-imag-disp{display:none;}
+.contact-information{text-align:center;}
+.br-addr{background:url(../img/address-icon.png) no-repeat;background-position:right center;}
+.conta-addr img{display:block;margin-left:auto;margin-right:auto;margin-bottom:10px;}
+.conta-addr{color:#0e0e0e;font:16px/28px 'Dosis';min-height: 90px;}
+.conta-addr a{text-decoration:none;color:#0e0e0e;}
+.contact-information {
+    width: 85%;
+    padding: 30px 0px 30px 0px;
+    position: relative;
+    background: #fff;
+    margin: 0 auto;
+    margin-top:20px;
+    margin-bottom: -2%;
+    -webkit-box-shadow: -2px 6px 19px 0px rgba(189,189,189,1);
+    -moz-box-shadow: -2px 6px 19px 0px rgba(189,189,189,1);
+    box-shadow: -2px 6px 19px 0px rgba(189,189,189,1);
+}
+.contact-enqu {
+    width: 100%;padding-top:30px;
+    min-height: 250px;
+}
+
+
+.contact_enq .form-control {
+    height: 45px;
+    text-transform: uppercase;
+    color: #717171;
+    font-weight: 600;border-color:#cfcfcf;
+    font-family: 'Dosis';
+}
+.txt_area {
+    height: 105px !important;
+}
+.contact_enq .form-group1 {
+    padding: 0;
+}
+input.form-control.submit2{
+    background: #720606;
+    color: #FFF !important;
+    font-size: 12px;
+    font-weight: 400;
+    border: none;
+}
+span#txtCaptchaDiv{
+    top: 12px;color:#720606;font:14px/24px 'Dosis';
+    position: relative;font-weight:600;
+}
+.contact-form{margin:50px 0px 0px 0px;}
+.map-heth{height:400px;}
+.slide-test {
+    position: relative;
+    margin-top: -22px;
+    z-index: 999;
+    color: #fff;
+    background:#720606;
+    -webkit-box-shadow: 0 8px 6px -6px #bfbfbf;
+    -moz-box-shadow: 0 8px 6px -6px #bfbfbf;
+    box-shadow: 0 8px 6px -6px #bfbfbf;
+    width:228px;
+    margin: 0 auto; font-weight:500;
+    font: 21px/24px'Dosis';
+    margin-top: -20px;
+    text-align: center;
+    padding:10px 0px 10px 0px;
+}
+.slide-test a{color: #fff;text-decoration:none;}
+.wise-woods-icon img {
+    width: 88% !important;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.name-profile h2{font: 19px/24px'Dosis';color:#3b3b3b;font-weight:600;padding-left:15px;text-transform:uppercase;}
+.name-profile h2 span{font:17px/24px'Dosis';color:#720606;font-weight:600;padding-left:10px;text-transform:none;}
+.our-legacy-bg {
+    background: #720606;
+    padding: 30px 0px 30px 0px;
+    margin-top: 20px;
+    border-radius: 4px;
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 100px;margin-bottom:150px;
+}
+.our-legacy-bg p{font:18px/30px'Dosis';color:#ffffff;text-align:justify;}
+.img-bg-abt {
+    text-align: center;
+    position: absolute;
+    top: -57px;
+}
+.img-bg-abt img{display:block;margin-left:auto;margin-right:auto;}
+.left-legacy-pad .img-bg-abt{padding-left:10px;}
+.our-legacy-bg:last-child {
+    margin-bottom:50px;
+}
+.heading-vison h2{font:17px/24px'Dosis';font-weight:600;color:#3b3b3b;margin-top:30px;}
+.heading-vison h2 span{font-weight:400;}
+.visionvalues p{font:18px/30px'Dosis';}
+.vision-value{}
+.vision-detail {
+    margin: 0 auto;
+    margin-top:20px;margin-bottom:20px;
+    display:inline-block;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.vision-detail p{text-align: left;}
+.vision-detail h3{font:16px/24px'Dosis';color:#595959;font-weight:600;}
+.vision-detail:last-child {
+    position: relative;
+}
+.campus-wtdh {
+    width:90%;
+    margin: 0 auto;
+}
+.block-big-img{margin-top:30px;}
+.block-big-img a{ text-decoration: none; outline: none;}
+.block-big-img img{margin-bottom:20px;display:block;margin-left:auto;margin-right:auto;}
+.block-big-img p{font:18px/30px'Dosis'; color:#101010; width:90%;margin:0 auto;text-align:center;}
+.no-pad-school{padding:0px;}
+.school-blk{margin-top:30px;}
+.school-blk p {
+    font: 18px/32px'Dosis';
+    color: #101010;
+    font-weight: 400;
+}
+.school-blk p span{
+    margin-bottom:5px;
+}
+.block-img{margin-top:30px;}
+.block-img img{margin-bottom:20px;}
+.school-blk p:before{float:left;content:url(../images/before-campus.png);width:3%;}
+.school-blk p span{width:96%;float:left;}
+.block-img img {
+    margin-bottom: 20px;
+    margin-right: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.fees-session h2{color:#595959; font: 19px/24px'Dosis';text-transform:uppercase;font-weight:600;text-align:center;}
+.onetime-payment h3{font: 16px/24px'Dosis';color:#0277bd;text-transform:uppercase;text-align:center;margin-top:40px;}
+.table-fees tr td {
+    width: 50%;
+    text-align: center;
+    padding: 2px;
+}
+.table-fees tr td:nth-child(1) {
+    background: #d6d6d6;
+    color: #101010;
+    font: 15px/24px'Dosis';
+    text-transform: uppercase;
+    border: solid 1px #fff;
+}
+.table-fees tr td:nth-child(2) {
+    background: #e3e3e3;
+    color: #101010;
+    font: 15px/40px'Dosis';
+    text-transform: uppercase;
+    border: solid 1px #fff;
+}
+.no-padfees{padding:0px;}
+table.table-fees {
+    margin: 0 auto;
+}
+.note-fees-text{text-align:center;margin-top:20px;color:#d50909;font: 15px/24px'Dosis';text-transform:uppercase;}
+.fees-instruction{border:solid 1px #dddddd;min-height:410px;width:85%;margin:0 auto;margin-top:60px;}
+.fees-instruction h4 {
+    text-align: center;
+    background: #0277bd;
+    display: table;padding:10px 20px;
+    margin: 0 auto;font: 17px/24px'Dosis';font-weight:600;
+    top:-20px;color:#fff;
+    position: relative;text-transform:uppercase;
+}
+ul.fees-instr-deta {
+    margin: 0px;
+    padding: 0px 30px 0px 30px;
+}
+ul.fees-instr-deta li{list-style:none; font: 17px/29px'Dosis';clear: both;}
+ul.fees-instr-deta li:before{content:url(../images/fees-detail-before.png);float:left;width:10px; }
+ul.fees-instr-deta li span{width:96%;float:left;margin-bottom: 10px;padding-left:5px;}
+ul.fees-instr-deta li span b{ font: 16px/26px'Dosis';color:#565656;font-weight:600;}
+.note-bg-cont p{padding-left:20px;text-transform:uppercase;}
+.note-bg{background:#0277bd;color:#fff;padding:20px 0px 20px 25px;font: 16px/26px'Dosis';font-weight:600;}
+ul.note-bg-cont li:before{content:url(../images/note-fees-before.png);}
+ul.note-bg-cont li{font-weight:600;text-transform:uppercase;}
+.campus-wtdh h5{font: 18px/30px'Dosis';color:#505050;margin:30px 0px 0px 0px;text-align:center;}
+.process-colr p{color:#720606; font-weight:400px;font: 16px/26px'Dosis';text-transform:uppercase;}
+.process-colr{text-align:center;margin-top:20px;}
+.class-join{text-align:center;clear:both;}
+.class-join a {
+    text-decoration: none;
+    font: 15px/24px'Dosis';
+    color: #ffffff;
+    padding:5px 20px;
+    background: #720606;
+    border-radius: 5px;
+    margin: 10px 5px 10px 5px;
+    display: inline-block;
+}
+.processa-form a{text-transform:uppercase;font-weight:600;padding:5px 50px;}
+.withdrawal{width:80%;margin:0 auto;}
+.withdrawal span{text-align:center;display:block;}
+.withdrawal p{color:#101010; font:18px/30px'Dosis';}
+.table-widthdrawl tr td {
+    text-align: center;
+    padding: 2px;
+}
+.table-widthdrawl tr td:nth-child(1) {
+    background: #e3e3e3;
+    color: #101010;width:250px;
+    font: 15px/24px'Dosis';
+    text-transform: uppercase;
+    border: solid 1px #fff;
+}
+.table-widthdrawl tr td:nth-child(2) {
+    background: #e3e3e3;
+    color: #101010;width:250px;
+    font: 15px/40px'Dosis';
+    text-transform: uppercase;
+    border: solid 1px #fff;
+}
+.table-widthdrawl tr td:nth-child(3) {
+    background: #e3e3e3;
+    color: #101010;width:280px;
+    font: 15px/40px'Dosis';
+    text-transform: uppercase;
+    border: solid 1px #fff;
+}
+table.table-widthdrawl {
+    margin: 0 auto;margin-top: 30px;
+}
+.table-widthdrawl th {
+    text-align: center;
+	background:#0277bd;
+}
+.table-widthdrawl th:nth-child(1) {
+	border: solid 1px #fff;font: 15px/40px'Dosis';color:#fff;text-transform:uppercase;
+}
+.table-widthdrawl th:nth-child(2) {
+	border: solid 1px #fff;font: 15px/40px'Dosis';color:#fff;text-transform:uppercase;
+}
+.table-widthdrawl th:nth-child(3) {
+	border: solid 1px #fff;font: 15px/40px'Dosis';color:#fff;text-transform:uppercase;
+}
+.our-legacy{width:90%;margin:0 auto;}
+.widthdraw-wth{width:70%;margin:0 auto;}
+.widthdraw-form{background:#efefef;text-align:center;padding:10px;}
+.widthdraw-form a{text-decoration:none;}
+.widthdraw-form span{font: 19px/24px'Dosis';color:#0277bd;}
+.widthdraw-form span a{margin-left:4%;}
+.sel-program h2{font: 19px/24px'Dosis';color:#720606;font-weight:600;text-align:center;}
+.sel-program p{color:#505050;font:18px/30px'Dosis';text-align:justify; margin-top: 15px;}
+.sel-program p b.color{color:#720606; font-weight:500;}
+.sel-program ul{ margin:0; padding:0 20px;}
+.sel-program ul li{ list-style: disc; color:#505050;font:18px/30px'Dosis';text-align:justify; font-weight:400;}
+.met-program p{color:#505050;font:18px/30px'Dosis';text-align:justify;}
+.sel-program {
+    width: 81%;
+    margin: 0 auto;
+}
+.sel-program span{display:block;text-align:center;}
+
+.sel-programs {
+    width: 100%;
+    margin: 0 auto;
+}
+.sel-programs span{display:block;text-align:center;}
+
+.sel-programs h2{font: 19px/24px'Dosis';color:#720606;font-weight:600;text-align:center;}
+.sel-programs p{color:#505050;font:18px/30px'Dosis';text-align:justify; margin-top: 15px;}
+.sel-programs p b.color{color:#720606; font-weight:500;}
+.sel-img{margin-top:30px;}
+.border-cont-br img {
+    float: left;
+    padding-right: 3%;
+}
+.border-cont-br-right img{float:right;padding-left:20px;}
+.width-cam-block{width:60%;margin:0 auto;}
+.Wisewoods-gallery img{ border:3px solid #f0f0f0;}
+.overlay img{ border:none;}
+
+
+#myModal .modal-dialog { width:800px; margin:0px auto;}
+#myModal .modal-dialog img{ width:auto;}
+#myModal .modal-header{ border: none; padding:0px;}
+#myModal .modal-body{ padding:0px;}
+
+.modal{ top:3% !important;}
+#myModal .modal-content{ background: none; box-shadow: none; border: none;}
+#myModal .modal-header .close{ background:#720606; z-index:9999; padding:0 10px 10px 10px; color:#fff; opacity:1; font-size:35px; line-height:20px;}
+.margin-topimg{margin-top:10px;}
+
+.modal-backdrop.in {
+    filter: alpha(opacity=50);
+    opacity: .75;
+}
+.iit-je {
+	background-color: #0da4db;
+	padding: 20px;
+	color: #FFF;
+    font: 15px/30px'Dosis';
+    text-align: justify;
+	min-height: 492px!important;	
+text-transform: capitalize;
+}
+
+
+.mat-sci{
+	background-color: #fee580;
+	padding: 20px;
+	color: #505050;
+    font: 15px/30px'Dosis';
+    text-align: justify;
+	min-height: 492px!important;
+	text-transform: capitalize;
+}
+
+.ident-lea{
+	background-color: #ed1968;
+	padding: 20px;
+	color: #FFF;
+    font: 15px/30px'Dosis';
+    text-align: justify;
+	min-height: 508px!important;
+	text-transform: capitalize;
+}
+.rem-lea{
+	background-color: #f15e22;
+	padding: 20px;
+	color: #FFF;
+    font: 15px/30px'Dosis';
+    text-align: justify;
+	min-height: 508px!important;
+	text-transform: capitalize;
+}
+
+.iit-je h3, .mat-sci h3, .ident-lea h3{
+	font-size: 18px;
+	text-align: center;
+}
+.tech-met{
+	margin-top: 25px;
+}
+.ply-fiel{
+	margin-bottom: 15px;
+
+}
+.wis-leg img{
+	margin: 0 auto;
+}
+.wisabtol{
+	margin: 20px 0 20px 0;
+}
+
+.form-admision ::placeholder{ color:#720606;}
+.form-admision .form-group{ display: inline-block; vertical-align: top; text-align: center;}
+.form-admision .form-control{ display: inline-block; min-width:225px;}
+.form-admision .form-control.submit{ background:#fff; color:#720606; width: auto; text-transform: uppercase; padding:10px 50px;
+border-radius:5px; display: inline-block; margin-top:10px;}
+.form-admision .form-control.txt_area{ height:40px !important; background: none;border: solid 1px #720606; color:#720606;}
+
+.news-letter ::placeholder{ color:#aeaeae;}
+.news-letter .form-group{ display: inline-block; vertical-align: top; position: relative;}
+.news-letter .form-control{ border: solid 1px #f2f2f2; color:#aeaeae; width: inherit; display: inline-block;}
+.news-letter .form-control.submit{border: solid 1px #d4d4d4; color:##aeaeae; font: 17px/24px 'Dosis'; width:100%;}
+.news-letter .form-control.txt_area{ height:40px !important; background: none;border: solid 1px #720606; color:#720606;}
+.news-letter .form-group label{} 
+.news-letter .form-group.100p{ width:100%;}
+
+
+.contact-enq ::placeholder{ color:#717171;}
+.contact-enq .form-group{ vertical-align: top; text-align: center;}
+.contact-enq .form-control{ border:1px solid #cfcfcf; color:#717171;}
+.contact-enq .form-control.submit{ background:#720606; color:#fff; width: auto; text-transform: uppercase; padding:10px 50px;
+border-radius:5px; display: inline-block; margin-top:10px;}
+.contact-enq .form-control.txt_area{ height:135px !important; background: none;border: solid 1px #cfcfcf; color:#720606;}
+
+.table-responsive table thead tr th{ background:#720606; color:#fff;}
+.table-responsive table tr td a.link { color:#151515; text-decoration:none;}
+
+.circular{ margin:0; padding:0;}
+.circular h3{font: 19px/24px'Dosis';color:#720606;font-weight:600;text-align:center;}
+.sel-program p.txtcentr{ text-align:center; padding:5px 0; font-weight:600; }
+.sel-program h4{font: 19px/24px'Dosis';color:#720606;font-weight:600; float:left;}
+.sel-program h5{font: 19px/24px'Dosis';color:#720606;font-weight:600; float: right;}
+
+.form-admision p{ color:#fff; text-align: center;}
+
+.modal-content{ background:#720606 !important;}
+.modal-header{ text-align: center; padding:0; border: none;}
+.modal-header img{ border-bottom-left-radius:10px; border-bottom-right-radius:10px;}
+.modal-body{ text-align: center; padding:0;}
+.modal-body p{ color:#fff; padding:10px 0; margin:0; font-size:18px;}
+.modal-body p span{ display: block;}
+.modal-body ul{ padding:0; margin:0;}
+.modal-body ul li{ list-style: none; color:#000; text-align: center; background:#ffc90d; padding:0; font-size:18px; font-weight:700;}
+.modal-body ul li a{ color:#000; text-transform: uppercase; text-decoration: none; font-size:18px;}
+.close{ color:#fff; opacity:1; font-size:32px;}
+.close:hover{ color:#fff; opacity:1;}
+.modal-header .close{ position: absolute; right:20px; top:20px;}
+.modal-dialog{ width:800px;}
+.vbinntcb{ padding:0;}
+.vbinntcbs{ padding:0;}
+.vbinntcbs p{ color:#262626; font-size:18px;}
+.vbinntcbs p img{ margin-right:10px; vertical-align: middle;}
+.vbinntcbs p a{ color:#262626; font-size:18px; text-decoration: none; text-decoration: underline;}
+.vbinntcbs table{ text-align: center;}
+.vbinntcbs thead{ text-align: center;}
+.vbinntcbs thead th{ text-align: center; background:#004ca1; border:1px solid #fff; color:#fff; text-transform: uppercase; font-size:18px;}
+.vbinntcbs tbody td{ background:#d9e4f1; border:1px solid #fff; color:#181818; font-size:18px;}
+.vbinntcb h2{ text-align: center; margin-top:0;}
+.vbinntcb > p{ text-align: center; margin-bottom:20px;}
+.wbthifix{ position: fixed; bottom:15%; right:0; z-index:100;}
+.wbthifix ul{ padding:0; margin:0;}
+.wbthifix ul li{ list-style: none; background:#ffc90d; color:#000; text-align: center; padding:5px 15px; font-size:18px; margin-bottom:3px; font-weight: 700;}
+.wbthifix ul li a{ color:#000; text-decoration: none; text-transform: uppercase; z-index:2;}
+.vbinntcbs ul{ padding:0; margin:0;}
+.vbinntcbs ul li{ list-style: none; color:#262626; font-size:24px; position: relative; padding:10px 0 10px 35px;}
+.vbinntcbs ul li:before{ content:"\f00c"; font-family: FontAwesome; color:#ffca0d; position: absolute; left:0; top:12px;}
+.vbinntcbs.pad_rgt{ padding-right:30px}
+.vbinntcbs.pad_lft{ padding-left:30px}
+.vbinntcbs h3{ font-size:25px; color:#034ea2;}
+.vbinntcb p{ font-size:24px; margin-top:20px; display: inline-block;}
+.mail_icon, .mob_icon, .map_icon, .applicaton_icon{
+    font-size: 36px;
+    color: #ce3b3b;
+}
+.footer_bottom{
+    border-top: 1px solid rgba(255,255,255,.1);
+}

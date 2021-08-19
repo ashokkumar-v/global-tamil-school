@@ -1,0 +1,460 @@
+@media (max-width:1200px){
+.nav > li > a {
+    padding:10px 8px;
+}
+.vision-detail {
+    margin-top: 30px;
+}
+.onetime-payment h3 {
+    margin-top: 15px;
+}
+
+
+}
+
+@media (max-width: 991px) {
+	
+header {
+    position: relative;
+    z-index: 999;
+    width: 100%;
+}
+.owl-next img{width:25px;}
+.owl-prev img{width:25px;}
+.smal-dev-clearfix{clear:both;margin-top:20px;}
+.right-imag-disp{display:block;}
+.right-imag-show{display:none;}
+.study-bg img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.study-bg {
+	     margin-top: 10px; 
+}
+.about-photo-img img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+	margin-bottom:20px;
+}
+
+.img-bg-abt {
+    text-align: center;
+     position:relative; 
+    top:0px;
+}
+.our-legacy-bg {
+    background: #0277bd;
+    padding: 10px 0px 10px 0px;
+    border-radius: 4px;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.img-bg-abt img {
+    margin-bottom:10px;
+}
+.campus-wtdh {
+    width: 100%;
+}
+.block-big-img p {
+    width: 100%;
+}
+.fees-instruction {
+    min-height: inherit;
+}
+.nav > li > a {
+    padding: 10px 6px;
+}
+.sel-program {
+    width: 100%;
+}
+.footer-logo {
+    padding: 0px 0px 14px 0px;
+}
+.width-cam-block {
+    width: 100%;
+}
+
+
+}  
+@media (max-width:820px) {
+
+#owl-demo .owl-nav .owl-prev {
+    left: 0%;
+}
+#owl-demo .owl-nav .owl-next {
+    right: 0%;
+}
+
+}
+
+@media (max-width:768px) {
+.social-header{display:none;}
+.mob-social-header{font:14px/40px 'Dosis';background:#720606;}
+.phone-num:before{content:url(../images/mob-phone.png);padding-right:10px;float:left;}
+.folow-us{color:#FFF; margin:-2px 0;}
+.sel-program p.txtcentr{ text-align:center; padding:5px 0; font-weight:600; font-size:16px; }
+.downloads a{ font-size:12px;}
+
+
+
+
+
+
+.social-headers{font:14px/40px 'Dosis';background:rgba(33,24,13,0.7);}
+.social-headers .downloads:before{content: url(../images/download-icon.png);padding-right:10px;float:left; padding-top: 4px;}
+.social-headers .downloads{float:left;padding-right:10px; }
+.social-headers .downloads a{text-decoration:none;font:12px/40px 'Dosis';color:#151515; text-align:center;}
+.menu-part {
+    background: #fff;
+}
+.navbar-inverse .navbar-toggle {
+    margin-top: 12px;
+}
+
+.navbar-inverse .navbar-toggle {
+    position: Absolute;
+    right: 0px;
+     margin-top: -51px;
+}
+
+.navbar {
+    min-height: inherit;
+}
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+    border-color:#0277bd;
+    margin-top:6px;
+}
+.bx-wrapper .bx-controls-direction a {
+    top: 39%;
+    outline: 0;
+	width:35px;
+}
+.owl-next img{width:25px;}
+.owl-prev img{width:25px;}
+.form-admision {
+    width: 100%;
+}
+.slider-caption h1 {
+    font: 33px/30px 'Dosis';
+}
+.t-shape-cont img{display:block;margin-left:auto;margin-right:auto;}
+.full-t-shape p {
+    width: 100%;
+}
+.t-shape-cont {
+    padding: 0px 0px 20px 0px;
+}
+
+.br-addr {
+    background:url(../images/border-btm-contact.png) no-repeat;
+    background-position:bottom  center;margin-bottom:20px;padding-bottom:10px;
+}
+.contact-information {
+    width: 100%;
+}
+.map-heth{height:250px;}
+.navbar-nav .open .dropdown-menu {
+    position: static;
+    float: none;
+    width: auto;
+    margin-top: 0;
+     background-color:#720606; 
+    border: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+.vision-detail {
+    margin-top: 10px;
+}
+.vision-detail {
+    margin-top:0px;margin-bottom:0px;
+}
+.dropdown-menu > li > a.active {
+    background: #000000 !important;
+    color: #ffffff !important;
+}
+.footer-logo {
+    text-align: center;
+    padding: 0px 0px 24px 0px;
+}
+.copyright {
+    margin-top: 10px;
+}
+.class-join a{margin-top:5px;}
+.table-widthdrawl tr td:nth-child(3) {
+    font: 15px/26px'Dosis';
+}
+.table-widthdrawl tr td:nth-child(2) {
+    font: 15px/26px'Dosis';
+}
+.table-widthdrawl tr td:nth-child(1) {
+    font: 15px/26px'Dosis';
+}
+.sel-program {
+    width: 100%;
+}
+.sel-program h2{margin-top:5px;}
+.navbar-inverse .navbar-toggle {
+    background-color: transparent;
+}
+.navbar-inverse .navbar-toggle .icon-bar {
+    background-color: #0277bd;
+}
+.navbar-inverse .navbar-toggle:hover {
+     background-color: transparent;
+}
+.navbar-inverse .navbar-toggle:focus {
+     background-color: transparent;
+}
+ 
+  .navbar-collapse.collapse {
+        display: none !important;
+    }
+    .navbar-collapse.collapse.in {
+        display: block !important;
+    }
+    .navbar-header .collapse, .navbar-toggle {
+        display:block !important;
+    }
+    .navbar-header {
+        float:none;
+    }
+.navbar-nav > li {
+    float: none;
+}
+.navbar{float:none;}
+.navbar-nav {
+    float: none;
+    margin: 0;
+}
+.nav > li > a {
+    padding: 0px 11px;
+    text-align: center;
+}
+.nav > li > a {
+    margin: 15px 0 0 0;
+}
+nav.navbar.navbar-inverse.no-pad-sd.menu-smal-dev {
+    width: 100%;
+}
+.navbar-nav > li > a{line-height:24px;}	
+.our-legacy {
+    width: 100%;
+}
+.our-legacy-bg {
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+
+#myModal .modal-dialog {
+    width: 100%;
+}
+	
+	.slider-portion{
+		min-height: 105px;
+	}
+	.wisinsli h1{
+		margin-top: 40px;
+	}
+	.about-photo-img{
+		padding-top: 20px;
+	}
+	.form-admision .form-group{ width:100%;}
+
+.headinggallery ul{ margin:0; padding:0 10px;}
+.headinggallery ul li{ display:list-item; padding-bottom: 5px; padding-top: 27px; line-height:5px; margin:0;}
+.aff-no{ padding:0; margin-bottom:-10px; float:left; font:12px/40px 'Dosis';color:#FFF; font-weight:600; text-align:center;} 
+.modal-body p span{ display: initial;}
+	.modal-dialog{ width:100%;} 
+	.modal-header .close{ top:2px; right:0;}
+	.wbthifix{ bottom:0; left:0; right: inherit; width: 100%;}
+	.wbthifix ul li{ width:100%; display: inline-block;}
+	.vbinntcbs.pad_rgt{ padding-right:0;}
+.vbinntcbs.pad_lft{ padding-left:0;}
+
+}
+
+@media (max-width:720px) {
+#owl-demo .owl-nav .owl-prev {
+    left: 0%;
+}
+#owl-demo .owl-nav .owl-next {
+    right: 0%;
+}
+.copyright p {
+    margin-bottom: 0px;
+    padding-bottom: 45px;
+    line-height: 25px;
+}
+}
+
+@media (max-width:560px) {
+.width-nopad{width:100%}
+.social {
+    padding-top: 15px;
+}
+.footer-logo {
+    text-align: center;
+    padding: 20px 0px 24px 0px;
+}
+label img {
+    display: none;
+}
+input.form-control1 {
+    padding-left: 20px;
+    margin-bottom: 10px;
+    border: solid 1px #e3e3e3;
+}
+.news-letter {
+    margin: 20px 0px 0px 0px;
+}
+.smal-dev-wt{width:100%;}
+.contact-form {
+    margin: 30px 0px 30px 0px;
+}
+footer {
+    padding: 0px 0px 30px 0px;
+}
+.border-cont-br-right {
+    border: solid 1px #1685c7;
+    min-height: 225px;
+    margin: 20px 0px 20px 0px;
+    width: 100%;
+    position: relative;
+    margin-left: 0px;
+    padding: 14px 10px 10px 21px;
+}
+.border-cont-br-right img {
+    float: none;
+    padding-left: 0px;
+}
+.navbar-inverse .navbar-toggle {
+    margin-top: -44px;
+}
+
+}
+
+@media (max-width:520px) {
+.slider-caption {
+    bottom:5%;
+	right: 10%;
+	
+}
+.slider-caption h1{
+margin-bottom: 10px;
+}
+.slider-caption h1 span {
+    padding: 0px 5px;
+}
+.welcome-content {
+    width: 100%;
+    margin: 0 auto;
+}
+.welcome-content p {
+    font: 14px/26px 'Dosis';
+    text-align: justify;
+}
+.wise-woods-news {
+    padding: 20px 0px 20px 0px;
+}
+.heading h4:before{content:'';}
+.heading h4:after{content:'';}
+}
+
+@media (max-width:460px) {
+.wth-smal{width:100%;padding-left:15%;}
+
+.wisewoods-content {
+    padding: 20px 0px 20px 0px;
+}
+.news-heading h5 {
+    padding-top:0px;
+}
+.no-pad-img-gallery-sli {
+    padding: 0px;
+    width: 80%;
+    margin: 0 auto;
+    float: none;
+}
+.slider-caption h1 {
+    font: 15px/10px 'Dosis';
+    margin-top: 0px;
+}
+.slider-caption h3 {
+    font: 12px/24px 'Dosis';
+}
+.slider-caption a {
+    font-size: 10px;
+	padding: 4px 10px;
+}
+.years-exper{background:none;}
+.border-cont-rt {
+    right: -10px;
+}
+.years-exper {
+    margin-top: 20px;
+}
+#portfolio {
+    padding: 20px 0px 0px 0px;
+}
+.fees-instruction {
+    margin-top:40px;width:100%;
+}
+ul.fees-instr-deta {
+    padding: 0px 10px 0px 10px;
+}
+.sel-img {
+    width: 100%;
+}
+.sel-img img{display:block;margin-left:auto;margin-right:auto;}
+.heading h1:after{content:'';}
+.heading h1:before{content:'';}
+.heading h1{margin-top:0px;}
+.navbar-inverse .navbar-toggle {
+    margin-top: -36px;
+}
+.widthdraw-wth {
+    width: 100%;
+}
+.withdrawal {
+    width:100%;
+    margin: 0 auto;
+}
+
+}
+
+@media (max-width:420px) {
+.mobile-dn-logo{display:none;}
+.mobile-db-logo{display:block;}
+.owl-next img{width:30px;}
+.owl-prev img{width:30px;}
+.glyphicon-chevron-down::before {
+    padding-left: 6px;
+    top: -18px;
+}
+.gallery-page{width:100%;}
+
+}
+
+
+@media (max-width:360px) {
+
+.bx-wrapper .bx-controls-direction a {
+    top: 24%;
+    outline: 0;
+}
+.logo-wisewoods img {
+    width: 100%;
+}
+ul.fees-instr-deta li span {
+    width: 92%;
+}
+
+
+
+}
+
