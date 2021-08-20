@@ -8,58 +8,75 @@
 <body>
 <?php include "header.php";?>
 <div class="slider-portion wisinsli">
-<div class="slider1">
-   <div class="slide animation-edu-3">
+  <div class="slider1">
+    <div class="slide animation-edu-3">
 			<h1>Global Tamil School</h1>
-     </div>
+    </div>
+  </div>
+</div>
+<div class="clearfix"></div>
+<div class="wisewoods-content">
+  <div class="container">
+    <div class="heading ani">
+    <h1>Branches<span> & Teachers</span></h1>
+  </div>
+  <!--study bg-->
+  <div class="clearfix"></div>
+  <div class="study-bg ani">
+    <div class="name-profile"> <h2>Mrs. Uma Devi Ashok Kumar<span>Head Teacher, West Drayton Branch, UK</span></h2>  </div>
+    <div class="col-md-12 no-pad-img border-cont ani">
+      <div class="border-cont-br border-cont-rightco">
+        <img src="img/people/Photo_UmaAshok.png" alt="Head Teacher" class="img-responsive"/>
+        <p>+44-7459713276</p>
+        <div class="clearfix"></div>
+      </div>
+    </div>
+    <div class="clearfix"></div>
+  </div>
+  <div class="study-bg ani">
+    <div class="name-profile"> <h2>Mrs. Sanjiya Senthil<span>Head Teacher, Harrow Branch, UK</span></h2> </div>
+    <div class="col-md-12 no-pad-img border-cont ani">
+      <div class="border-cont-br border-cont-rightco">
+        <img src="img/unavailable.jpg" alt="Head Teacher" class="img-responsive"/>
+        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+        <div class="clearfix"></div>
+      </div>
+    </div>
+    <div class="clearfix"></div>
+  </div>
+  <div class="study-bg ani">
+    <div class="name-profile"> <h2>Mrs. Sumathi Anandan<span>Head Teacher, Global Tamil School, USA Branch</span></h2> </div>
+    <div class="col-md-12 no-pad-img border-cont ani">
+      <div class="border-cont-br border-cont-rightco">
+        <img src="img/unavailable.jpg" alt="Head Teacher" class="img-responsive"/>
+        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+        <div class="clearfix"></div>
+      </div>
+    </div>
+    <div class="clearfix"></div>
+  </div>
+  <div class="study-bg ani">
+    <div class="name-profile"> <h2>Mrs. Krishna Priya<span>Senior Teacher, Global Tamil School, India Branch</span></h2> </div>
+    <div class="col-md-12 no-pad-img border-cont ani">
+      <div class="border-cont-br border-cont-rightco">
+        <img src="img/unavailable.jpg" alt="Senior Teacher" class="img-responsive"/>
+        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+        <div class="clearfix"></div>
+      </div>
+    </div>
+    <div class="clearfix"></div>
   </div>
   </div>
   <div class="clearfix"></div>
-<div class="wisewoods-content">
-<div class="container">
-<div class="heading ani">
-<h1>Branches<span> & Teachers</span></h1>
-</div>
-<!--study bg-->
-<div class="clearfix"></div>
-<div class="study-bg ani">
-<div class="name-profile"> <h2>Mrs. Sanjiya Senthil<span>Head Teacher, Global Tamil School, Harrow, UK</span></h2></div>
-<div class="col-md-12 no-pad-img border-cont ani">
-<div class="border-cont-br border-cont-rightco">
-<img src="img/unavailable.jpg" alt="Sanjiya Senthil" class="img-responsive"/>
-<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
-<div class="clearfix"></div>
-</div>
-</div>
-<div class="clearfix"></div>
-</div>
-<div class="study-bg ani">
-<div class="name-profile"> <h2>Mrs. Sumathi Anandan<span>Head Teacher, Global Tamil School, USA</span></h2> </div>
-<div class="col-md-12 no-pad-img border-cont ani">
-<div class="border-cont-br border-cont-rightco">
-<img src="img/unavailable.jpg" alt="chairman" class="img-responsive"/>
-<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
-<div class="clearfix"></div>
-</div>
-</div>
-<div class="clearfix"></div>
-</div>
-</div>
 </div>
 <div class="clearfix"></div>
 <div class="wisewoods-content">
-<div class="container">
+  <div class="container">
+    <div class="sel-programs">
+      <p><b class="color">Our Staff Details </b> </p>
 
-<div class="sel-programs">
-
-	
-
-	
-<p><b class="color">Our Staff Details </b> </p>
-
-
-<div class="table-responsive">
-		<table class="table table-bordered">
+      <div class="table-responsive">
+        <table class="table table-bordered">
           <thead>
             <tr>
               <th>S.NO</th>
@@ -73,7 +90,6 @@
               <th class="text-center">Lorem Ipsum</th>
               <th scope="row" class="text-center">Lorem Ipsum</th>
               <th scope="row">Lorem Ipsum</th>
-              
             </tr>
           </thead>
           
@@ -90,7 +106,6 @@
               <td>Lorem Ipsum</td>
               <td>Lorem Ipsum</td>
               <td>Lorem Ipsum</td>
-              
             </tr>
             
             <tr>
@@ -105,17 +120,11 @@
               <td>Lorem Ipsum</td>
               <td>Lorem Ipsum</td>
               <td>Lorem Ipsum</td>
-              
             </tr>
           </tbody>
-
-	</table>		
-
-</div>
-
-</div>
-
-
+	      </table>
+      </div>
+    </div>
 </div>
 
 </div>

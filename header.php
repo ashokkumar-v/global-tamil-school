@@ -25,7 +25,7 @@ Affiliation No : 123456
 <div class="folow-us">
 
 <a href="https://www.facebook.com/globaltamilschool" target="_blank"><img src="images/facebook.png" alt="social"/></a>
-<img src="images/you-tube-icon.png" alt="social"/>
+<a href="https://www.youtube.com/channel/UCLKvkShSFLNBk7zkduS-YFQ" target="_blank"><img src="images/you-tube-icon.png" alt="social"/></a>
 </div>
 </div>
 </div>
@@ -38,7 +38,7 @@ Affiliation No : 123456
 <div class="folow-us">
 Follow us on :
 <a href="https://www.facebook.com/globaltamilschool" target="_blank"><img src="images/facebook.png" alt="social"/></a>
-<img src="images/you-tube-icon.png" alt="social"/>
+<a href="https://www.youtube.com/channel/UCLKvkShSFLNBk7zkduS-YFQ" target="_blank"><img src="images/you-tube-icon.png" alt="social"/></a>
 </div>
 </div>
 <div class="col-md-9 col-sm-9 no-pad-menu">
@@ -71,7 +71,7 @@ Affiliation No : 12345
 <div class="container">
 <div class="col-md-3 col-sm-3 col-xs-6 small-dev-logo">
 <div class="logo-wisewoods">
-<a href="index.html"><img src="img/GCA-logo.png" alt="logo" class="img-responsive" style="height:92px;"/></a>
+<a href="index.html"><img src="img/GTS-logo-name.png" alt="logo" class="img-responsive" style="height:92px;"/></a>
 </div>
 </div>
 <div class="col-md-9 col-sm-9 col-xs-12 no-pad-menu">
@@ -95,7 +95,6 @@ Affiliation No : 12345
                   <li class="dropdown dropdown-submenu"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Who we are?  <b class="caret"></b></a>
                     <ul class="dropdown-menu">
                       <li><a href="affiliations.php">Our Affiliations</a></li>
-                      <li><a href="members.php">Our Members </a></li>
                       <li><a href="committee.php">Executive Committee</a></li>
                     </ul>
                   </li>

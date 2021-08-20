@@ -2,10 +2,10 @@
 <div class="container">
 <div class="col-md-3 ani">
 <div class="footer-logo" style="padding-top:0px;">
-<img src="img/GCA-logo.png" alt="logo" style="width:100%;"/><br>
+<img src="img/GTS-logo.png" alt="logo" style="width:100%;"/><br>
 <div class="social">
 <a href="https://www.facebook.com/globalacademyoffinearts" target="_blank"><img src="img/facebook.png" alt="social"/></a>
-<img src="img/you-tube-icon.png" alt="social"/>
+<a href="https://www.youtube.com/channel/UCLKvkShSFLNBk7zkduS-YFQ" target="_blank"><img src="images/you-tube-icon.png" alt="social"/></a>
 </div>
 </div>
 </div>
@@ -25,7 +25,6 @@
 <ul class="quick-text">
 
 <li><a href="affiliations.php">Our Affiliations</a></li>
-<li><a href="members.php">Our Members</a></li>
 <li><a href="committee.php">Executive Committee</a></li>
 
 </ul>
@@ -45,11 +44,10 @@
 <div class="quick-links">
 <h4>contact  us</h4>
 <div class="address-fotter">
-<p>73 Brecon Lodge, 
+<p>73 Brecon Lodge,<br>
 3 Wintergreen Boulevard, 
-West Drayton, 
-London, 
-UB7 9FR</p>
+West Drayton,<br>
+London - UB7 9FR</p>
 </div>
 <div class="phone-fotter">
 <p>+44 74597 13276, +44 74382 17913</p>

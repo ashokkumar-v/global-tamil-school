@@ -25,18 +25,16 @@
 <div class="block-big-img">
 <img src="img/school.jpg" alt="school" class="img-responsive"/>
 <h1 style="text-align: center;">Careers with us</h1>
-<p>The Global Academy of Arts is an Equal Opportunity Employer and encourages the recruitment and retention of qualified candidates for all positions. GCA encourages members of all diverse groups to seek employment with us.</p>
+<p>The Global Tamil School is an Equal Opportunity Employer and encourages the recruitment and retention of qualified teachers for all positions. GTS encourages members of all diverse groups to seek employment with us.</p>
 </div>
 <div class="clearfix"></div>
 <div class="col-md-6  col-sm-6 no-pad-school">
     <h1>Current Opportunities</h1>
 <div class="school-blk">
-<p><span>Tamil Language Teachers</span></p>
-<p><span>Violin Teachers</span></p>
-<p><span>Keyboard Teachers</span></p>
-<p><span>Guitar Teachers</span></p>
-<p><span>Bharathanatyam Teachers</span></p>
-
+<p><span>Tamil Language Teachers (Online)</span></p>
+<p><span>Teachers for spoken Tamil (Online)</span></span></p>
+<p><span>Graphic Designers</span></p>
+<p><span>Web Designers</span></p>
 </div>
 </div>
 	

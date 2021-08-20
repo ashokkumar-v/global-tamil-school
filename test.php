@@ -13,96 +13,89 @@
 <div class="slider-portion">
 <div class="slider1">
     
-	  <div class="slide animation-edu-3 fadeInDown"> <img src="img/school.jpg" alt="banner">
-    <div class="slider-caption animation-edu-5 fadeInLeft">
-    <div class="container">
-  <!--  <h3>THE BEST EDUCATION</h3>-->
-   <h1><span>"Lorem Ipsum </span></h1>
-    <h1><span> is simply dummy text of the printing "</span></h1>
-<a href="#">READMORE</a>
-    </div>
-    </div>
+	<div class="slide animation-edu-3 fadeInDown"> <img src="img/school.jpg" alt="banner">
+        <div class="slider-caption animation-edu-5 fadeInLeft">
+            <div class="container">
+                <!--  <h3>THE BEST EDUCATION</h3>-->
+                <h1><span>"Lorem Ipsum </span></h1>
+                <h1><span> is simply dummy text of the printing "</span></h1>
+                <a href="#">READMORE</a>
+            </div>
+        </div>
     </div>
     
-	    <div class="slide  animation-edu-3 fadeInLeft"> <img src="img/school.jpg" alt="banner">
-    <div class="slider-caption animation-edu-5 fadeInLeft">
-    <div class="container">
-    <!--<h3>THE BEST EDUCATION</h3>-->
- 
-    </div>
-    </div>
+	<div class="slide  animation-edu-3 fadeInLeft"> <img src="img/school.jpg" alt="banner">
+        <div class="slider-caption animation-edu-5 fadeInLeft">
+            <div class="container">
+            <!--<h3>THE BEST EDUCATION</h3>-->
+            </div>
+        </div>
     </div>
 	
     <div class="slide  animation-edu-3 fadeInLeft"> <img src="img/school.jpg" alt="banner">
-    <div class="slider-caption animation-edu-5 fadeInLeft">
-    <div class="container">
-    <!--<h3>THE BEST EDUCATION</h3>-->
-    <h1><span>"Lorem Ipsum </span></h1>
-    <h1><span> is simply dummy text of the printing "</span></h1>
-
-<a href="#">READMORE</a>
+        <div class="slider-caption animation-edu-5 fadeInLeft">
+            <div class="container">
+                <!--<h3>THE BEST EDUCATION</h3>-->
+                <h1><span>"Lorem Ipsum </span></h1>
+                <h1><span> is simply dummy text of the printing "</span></h1>
+                <a href="#">READMORE</a>
+            </div>
+        </div>
     </div>
-    </div>
-    </div>
-	
-
   </div>
-  </div>
+</div>
 
 <div class="clearfix"></div>
 <div class="wisewoods-content">
-<div class="container">
-<div class="heading ani">
-<h1>The <span> Global Center of Arts</span></h1>
-</div>
-<div class="welcome-content ani">
-	<p>We are online Tamil school offering online Tamil language classes for the students living all over the world. We provide high-quality textbooks and learning materials, effective worksheets, and assessment. Initially we started the online Tamil school model with few students & now we have happy students all around the world including UK, USA, Europe, UAE, India, Singapore, Malaysia etc.,</p>
-
-
-<div class="read-welcome">
-<a href="about-us.php">READMORE </a>
-</div>
-</div>
-<div class="clearfix"></div>
-<div id="owl-demo" class="owl-carousel ani">
-<div class="item wise-woods-icon">
-<img src="img/school.jpg" alt="img">
-<div class="slide-test"><a href="#">Lorem Ipsum</a></div>
-</div>
-<div class="item wise-woods-icon">
-<img src="img/school.jpg" alt="img">
-<div class="slide-test"><a href="residences.php">Lorem Ipsum</a></div>
-</div>
-<div class="item wise-woods-icon">
-<img src="img/school.jpg" alt="img">
-<div class="slide-test"><a href="playing-fields.php">Lorem Ipsum</a></div>
-</div>
-<div class="item wise-woods-icon">
-<img src="img/school.jpg" alt="img">
-<div class="slide-test"><a href="academics-block.php">Lorem Ipsum</a></div>
-</div>
-<div class="item wise-woods-icon">
-<img src="img/school.jpg" alt="img">
-<div class="slide-test"><a href="residences.php">Lorem Ipsum</a></div>
-</div>
-<div class="item wise-woods-icon">
-<img src="img/school.jpg" alt="img">
-<div class="slide-test"><a href="playing-fields.php">Lorem Ipsum</a></div>
-</div>
-
-</div>
-</div>
+    <div class="container">
+        <div class="heading ani">
+            <h1><span> Global Tamil School</span></h1>
+        </div>
+        <div class="welcome-content ani">
+            <p>We are online Tamil school offering online Tamil language classes for the students from all over the world. We carefully chose syllabus that helps the growth of students with high quality textbooks and learning materials, effective worksheets, and assessment. We have happy students all around the world including UK, USA, Europe, UAE, India, Singapore, Malaysia etc.,</p>
+            <div class="read-welcome">
+                <a href="about-us.php">READMORE </a>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+        <div id="owl-demo" class="owl-carousel ani">
+            <div class="item wise-woods-icon">
+                <img src="img/school.jpg" alt="img">
+                <div class="slide-test"><a href="#">Lorem Ipsum</a></div>
+            </div>
+            <div class="item wise-woods-icon">
+                <img src="img/school.jpg" alt="img">
+                <div class="slide-test"><a href="residences.php">Lorem Ipsum</a></div>
+            </div>
+            <div class="item wise-woods-icon">
+                <img src="img/school.jpg" alt="img">
+                <div class="slide-test"><a href="playing-fields.php">Lorem Ipsum</a></div>
+            </div>
+            <div class="item wise-woods-icon">
+                <img src="img/school.jpg" alt="img">
+                <div class="slide-test"><a href="academics-block.php">Lorem Ipsum</a></div>
+            </div>
+            <div class="item wise-woods-icon">
+                <img src="img/school.jpg" alt="img">
+                <div class="slide-test"><a href="residences.php">Lorem Ipsum</a></div>
+            </div>
+            <div class="item wise-woods-icon">
+                <img src="img/school.jpg" alt="img">
+                <div class="slide-test"><a href="playing-fields.php">Lorem Ipsum</a></div>
+            </div>
+        </div>
+    </div>
 </div>
 <div class="clearfix"></div>
-<div class="apply-for-admission ani">
-<div class="container">
-<div class="heading admi-head">
-<i class="fa fa-file-text applicaton_icon" aria-hidden="true"></i>
-<h4>APPLY FOR ADMISSION</h4>
-<!--<p>Wisewoods admits students based on their performance in the assessment test conducted on scheduled dates.</p>-->
-</div>
-<div class="form-admision">
-		<form enctype="multipart/form-data"  name="contact-enquiry" method="post" action="admission-enquiry.php">
+    <div class="apply-for-admission ani">
+        <div class="container">
+            <div class="heading admi-head">
+            <i class="fa fa-file-text applicaton_icon" aria-hidden="true"></i>
+            <h4>APPLY FOR ADMISSION</h4>
+            <!--<p>Wisewoods admits students based on their performance in the assessment test conducted on scheduled dates.</p>-->
+        </div>
+        <div class="form-admision">
+		    <form enctype="multipart/form-data"  name="contact-enquiry" method="post" action="admission-enquiry.php">
         
         		<div class="form-group">
                 	<input type="text" class="form-control" placeholder="Name" name="name" required>
@@ -119,14 +112,17 @@
                 <div class="form-group">
                 	<select name="admission" class="form-control" required>
                     	<option value="">Select Admission</option>
-                        <option>5th Standard</option>
-                        <option>6th Standard</option>
-                        <option>7th Standard</option>
-                        <option>8th Standard</option>
-                        <option>9th Standard</option>
-                        <option>10th Standard</option>
+                        <option>Nursery</option>
+                        <option>Reception</option>
+                        <option>Grade 1</option>
+                        <option>Grade 2</option>
+                        <option>Grade 3</option>
+                        <option>Grade 4</option>
+                        <option>Grade 5</option>
+                        <option>Grade 6</option>
+                        <option>Grade 7</option>
+                        <option>Grade 8</option>
                         <option>Others</option>
-
                     </select>
                	</div>
                 
@@ -137,59 +133,57 @@
                	<div class="form-group col-lg-12 col-md-12 col-sm-12 col-xs-12">
                		<input type="submit" class="form-control submit" value="submit">
                 </div>
-        </form>	
-</div> 
-</div>
+            </form>	
+        </div> 
+    </div>
 </div>
 <div class="clearfix"></div>
 <div class="wise-woods-news">
-<div class="container">
-<div class="col-md-4 smal-dev-clearfix ani wisewood-cont-abt">
-<div class="news-heading">
-<h5><span>Lorem Ipsum</h5>
-</div>
-<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-<a href="#" style="text-transform:uppercase; color:#00847a;">Read more</a>
-</div>
-<div class="col-md-4 smal-dev-clearfix ani">
-<div class="news-heading">
-<h5><span>Lorem </span><br>
-Ipsum</h5>
-</div>
+    <div class="container">
+        <div class="col-md-4 smal-dev-clearfix ani wisewood-cont-abt">
+            <div class="news-heading">
+                <h5><span>Lorem Ipsum</h5>
+            </div>
+            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+            <a href="#" style="text-transform:uppercase; color:#00847a;">Read more</a>
+        </div>
+        <div class="col-md-4 smal-dev-clearfix ani">
+            <div class="news-heading">
+            <h5><span>Lorem </span><br>Ipsum</h5>
+        </div>
 
-<!--Daete start-->
-<div class="date-wise">
-<div class="date-time"> 
-<p>22</p>
-<div class="clearfix"></div>
-<span>Jun</span>
-</div>
-<div class="annual-day"></div>
-<b>Lorem Ipsum is simply dummy</b><br>
-<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-
-</div>
+        <!--Daete start-->
+        <div class="date-wise">
+            <div class="date-time"> 
+            <p>22</p>
+            <div class="clearfix"></div>
+            <span>Jun</span>
+        </div>
+        <div class="annual-day"></div>
+        <b>Lorem Ipsum is simply dummy</b><br>
+        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+    </div>
 
 
-<!--Daete start-->
-<div class="date-wise">
-<div class="date-time">
-<p>04 </p>
-<div class="clearfix"></div>
-<span>MAY</span>
-</div>
-<div class="annual-day"></div>
-<b>Lorem Ipsum is simply dummy</b><br>
-<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-</div>
-<!--Daete end-->
-<div class="clearfix"></div>
+    <!--Daete start-->
+    <div class="date-wise">
+        <div class="date-time">
+        <p>04 </p>
+        <div class="clearfix"></div>
+        <span>MAY</span>
+    </div>
+    <div class="annual-day"></div>
+        <b>Lorem Ipsum is simply dummy</b><br>
+        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+    </div>
+    <!--Daete end-->
+    <div class="clearfix"></div>
 
-<a href="#" style="text-transform:uppercase; color:#00847a; margin:0 95px;" class="text-center">Read more</a>
+    <a href="#" style="text-transform:uppercase; color:#00847a; margin:0 95px;" class="text-center">Read more</a>
 
-<!--Daete	 end-->
-<div class="clearfix"></div>
-<!--Daete start-->
+    <!--Daete	 end-->
+    <div class="clearfix"></div>
+    <!--Daete start-->
 </div>
 <!--Daete end-->
 
@@ -207,44 +201,48 @@ OUR VIDEO</h5>
 <div class="clearfix"></div>
 
 <div id="portfolio" class="clearfix">                  
-<div class="col-md-3 col-sm-3 col-xs-6  no-pad-img-gallery-sli ani">
-<div class="image-wrapper overlay-fade-in gallery-btm">
-     <a title="Wisewoods gallery" class="Wisewoods-gallery" data-fancybox-group="portfolio-1" href="img/school.jpg">
-     <img src="img/school.jpg" alt="overlay" class="img-responsive"/>
-      <div class="image-overlay-content">
-        <div class="overlay"><img src="img/zoom-icon.png" alt="icon"/> </div>
-      </div></a>
+    <div class="col-md-3 col-sm-3 col-xs-6  no-pad-img-gallery-sli ani">
+        <div class="image-wrapper overlay-fade-in gallery-btm">
+            <a title="Wisewoods gallery" class="Wisewoods-gallery" data-fancybox-group="portfolio-1" href="img/school.jpg">
+                <img src="img/school.jpg" alt="overlay" class="img-responsive"/>
+                <div class="image-overlay-content">
+                    <div class="overlay"><img src="img/zoom-icon.png" alt="icon"/> </div>
+                </div>
+            </a>
+        </div>
     </div>
-</div>
-<div class="col-md-3 col-sm-3 col-xs-6  no-pad-img-gallery-sli ani">
-<div class="image-wrapper overlay-fade-in gallery-btm">
-     <a title="Wisewoods gallery" class="Wisewoods-gallery" data-fancybox-group="portfolio-1" href="img/school.jpg">
-     <img src="img/school.jpg" alt="overlay" class="img-responsive"/>
-      <div class="image-overlay-content">
-        <div class="overlay"><img src="img/zoom-icon.png" alt="icon"/> </div>
-      </div></a>
+    <div class="col-md-3 col-sm-3 col-xs-6  no-pad-img-gallery-sli ani">
+        <div class="image-wrapper overlay-fade-in gallery-btm">
+            <a title="Wisewoods gallery" class="Wisewoods-gallery" data-fancybox-group="portfolio-1" href="img/school.jpg">
+                <img src="img/school.jpg" alt="overlay" class="img-responsive"/>
+                <div class="image-overlay-content">
+                    <div class="overlay"><img src="img/zoom-icon.png" alt="icon"/> </div>
+                </div>
+            </a>
+            </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6  no-pad-img-gallery-sli ani">
+            <div class="image-wrapper overlay-fade-in gallery-btm">
+                <a title="Wisewoods gallery" class="Wisewoods-gallery" data-fancybox-group="portfolio-1" href="img/school.jpg">
+                    <img src="img/school.jpg" alt="overlay" class="img-responsive"/>
+                    <div class="image-overlay-content">
+                        <div class="overlay"><img src="img/zoom-icon.png" alt="icon"/> </div>
+                    </div>
+                </a>
+            </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-6  no-pad-img-gallery-sli ani">
+            <div class="image-wrapper overlay-fade-in gallery-btm">
+                <a title="Wisewoods gallery" class="Wisewoods-gallery" data-fancybox-group="portfolio-1" href="img/school.jpg">
+                    <img src="img/school.jpg" alt="overlay" class="img-responsive"/>
+                    <div class="image-overlay-content">
+                        <div class="overlay"><img src="img/zoom-icon.png" alt="icon"/> </div>
+                    </div>
+                </a>
+            </div>
+        </div>
     </div>
-</div>
-<div class="col-md-3 col-sm-3 col-xs-6  no-pad-img-gallery-sli ani">
-<div class="image-wrapper overlay-fade-in gallery-btm">
-     <a title="Wisewoods gallery" class="Wisewoods-gallery" data-fancybox-group="portfolio-1" href="img/school.jpg">
-     <img src="img/school.jpg" alt="overlay" class="img-responsive"/>
-      <div class="image-overlay-content">
-        <div class="overlay"><img src="img/zoom-icon.png" alt="icon"/> </div>
-      </div></a>
-    </div>
-</div>
-<div class="col-md-3 col-sm-3 col-xs-6  no-pad-img-gallery-sli ani">
-<div class="image-wrapper overlay-fade-in gallery-btm">
-     <a title="Wisewoods gallery" class="Wisewoods-gallery" data-fancybox-group="portfolio-1" href="img/school.jpg">
-     <img src="img/school.jpg" alt="overlay" class="img-responsive"/>
-      <div class="image-overlay-content">
-        <div class="overlay"><img src="img/zoom-icon.png" alt="icon"/> </div>
-      </div></a>
-    </div>
-</div>
-</div>
-<div class="clearfix"></div>
+    <div class="clearfix"></div>
 </div>
 
 <?php include "footer.php";?>

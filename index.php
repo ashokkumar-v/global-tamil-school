@@ -10,48 +10,59 @@
 <div class="slider-portion">
 <div class="slider1">
 	  <div class="slide animation-edu-3 fadeInDown"> <img src="img/homecarousel/1.jpg" alt="banner">
-    <div class="slider-caption animation-edu-5 fadeInLeft">
-    <div class="container">
-  <!--  <h3>THE BEST EDUCATION</h3>-->
-   <h1><span>"Lorem Ipsum </span></h1>
-    <h1><span> is simply dummy text of the printing "</span></h1>
-<a href="#">READMORE</a>
-    </div>
-    </div>
+      <div class="slider-caption animation-edu-5 fadeInLeft">
+        <div class="container">
+          <!--  <h3>THE BEST EDUCATION</h3>-->
+          <h1><span>"இரண்டாயிரத்து ஐந்நூறு </span></h1>
+          <h1><span> ஆண்டுகளுக்கும் மேல் பழமை வாய்ந்த இலக்கிய மரபைக் கொண்டுள்ளது தமிழ் மொழி "</span></h1>
+          <a href="#">READMORE</a>
+        </div>
+      </div>
     </div>
 
 	  <div class="slide  animation-edu-3 fadeInLeft"> <img src="img/homecarousel/2.jpg" alt="banner">
-    <div class="slider-caption animation-edu-5 fadeInLeft">
-    <div class="container">
-    <!--<h3>THE BEST EDUCATION</h3>-->
-    <h1><span>"Lorem Ipsum </span></h1>
-    <h1><span> is simply dummy text of the printing "</span></h1>
-    </div>
-    </div>
+      <div class="slider-caption animation-edu-5 fadeInLeft">
+        <div class="container">
+          <!--<h3>THE BEST EDUCATION</h3>-->
+          <h1><span>"Grow Interest </span></h1>
+          <h1><span> in learning the mother tongue "</span></h1>
+        </div>
+      </div>
     </div>
 
     <div class="slide  animation-edu-3 fadeInLeft"> <img src="img/homecarousel/3.jpg" alt="banner">
-    <div class="slider-caption animation-edu-5 fadeInLeft">
-    <div class="container">
-    <!--<h3>THE BEST EDUCATION</h3>-->
-    <h1><span>"Lorem Ipsum </span></h1>
-    <h1><span> is simply dummy text of the printing "</span></h1>
-    </div>
-    </div>
+      <div class="slider-caption animation-edu-5 fadeInLeft">
+        <div class="container">
+          <!--<h3>THE BEST EDUCATION</h3>-->
+          <h1><span>"Read / Write / Speak </span></h1>
+          <h1><span> Tamil language in very short period of time "</span></h1>
+        </div>
+      </div>
     </div>
 	
-    <div class="slide  animation-edu-3 fadeInLeft"> <img src="img/homecarousel/4.jpg" alt="banner">
-    <div class="slider-caption animation-edu-5 fadeInLeft">
-    <div class="container">
-    <!--<h3>THE BEST EDUCATION</h3>-->
-    <h1><span>"Lorem Ipsum </span></h1>
-    <h1><span> is simply dummy text of the printing "</span></h1>
+    <div class="slide  animation-edu-3 fadeInLeft"> <img src="img/homecarousel/4.png" alt="banner">
+      <div class="slider-caption animation-edu-5 fadeInLeft">
+        <div class="container">
+        <!--<h3>THE BEST EDUCATION</h3>-->
+          <h1><span>"தமிழில் 12 உயிரெழுத்துகளும், </span></h1>
+          <h1><span> 18 மெய்யெழுத்துகளும் உள்ளன. அவை சேர்வதால் 216 உயிர்மெய்யெழுத்துகள் பிறக்கின்றன "</span></h1>
 
-<a href="#">READMORE</a>
-    </div>
-    </div>
+          <a href="#">READMORE</a>
+        </div>
+      </div>
     </div>
 	
+    <div class="slide  animation-edu-3 fadeInLeft"> <img src="img/homecarousel/5.jpg" alt="banner">
+      <div class="slider-caption animation-edu-5 fadeInLeft">
+        <div class="container">
+        <!--<h3>THE BEST EDUCATION</h3>-->
+          <h1><span>"தமிழ், மொழியல்ல வாழ்க்கை முறை, </span></h1>
+          <h1><span> யாமறிந்த மொழிகளிலே தமிழ்மொழி போல் இனிதாவது எங்கும் காணோம் "</span></h1>
+
+          <a href="#">READMORE</a>
+        </div>
+      </div>
+    </div>
 
   </div>
   </div>
@@ -60,10 +71,10 @@
 <div class="wisewoods-content">
 <div class="container">
 <div class="heading ani">
-<h1>The <span> Global Center of Arts</span></h1>
+<h1><span> Global Tamil School</span></h1>
 </div>
 <div class="welcome-content ani">
-	<p>We are online Tamil school offering online Tamil language classes for the students living all over the world. We provide high-quality textbooks and learning materials, effective worksheets, and assessment. Initially we started the online Tamil school model with few students & now we have happy students all around the world including UK, USA, Europe, UAE, India, Singapore, Malaysia etc.,</p>
+<p>We are online Tamil school offering online Tamil language classes for the students from all over the world. We carefully chose the syllabus that helps the growth of students with high quality textbooks and learning materials, effective worksheets, and assessment. We have happy students all around the world including UK, USA, Europe, UAE, India, Singapore, Malaysia etc.,</p>
 
 
 <div class="read-welcome">
@@ -74,15 +85,15 @@
 <div id="owl-demo" class="owl-carousel ani">
 <div class="item wise-woods-icon">
 <img src="img/school.jpg" alt="img">
-<div class="slide-test"><a href="#">Lorem Ipsum</a></div>
+<div class="slide-test"><a href="#">Syllabus</a></div>
+</div>
+<div class="item wise-woods-icon">
+<img src="images/certificate_medal.jpg" alt="img">
+<div class="slide-test"><a href="residences.php">Awards</a></div>
 </div>
 <div class="item wise-woods-icon">
 <img src="img/school.jpg" alt="img">
-<div class="slide-test"><a href="residences.php">Lorem Ipsum</a></div>
-</div>
-<div class="item wise-woods-icon">
-<img src="img/school.jpg" alt="img">
-<div class="slide-test"><a href="playing-fields.php">Lorem Ipsum</a></div>
+<div class="slide-test"><a href="playing-fields.php">Worksheets</a></div>
 </div>
 <div class="item wise-woods-icon">
 <img src="img/school.jpg" alt="img">
@@ -105,7 +116,7 @@
 <div class="container">
 <div class="heading admi-head">
 <i class="fa fa-file-text applicaton_icon" aria-hidden="true"></i>
-<h4>APPLY FOR ADMISSION</h4>
+<h4>ENQUIRY</h4>
 <!--<p>Wisewoods admits students based on their performance in the assessment test conducted on scheduled dates.</p>-->
 </div>
 <div class="form-admision">
@@ -125,16 +136,19 @@
                                       
                 <div class="form-group">
                 	<select name="admission" class="form-control" required>
-                    	<option value="">Select Admission</option>
-                        <option>5th Standard</option>
-                        <option>6th Standard</option>
-                        <option>7th Standard</option>
-                        <option>8th Standard</option>
-                        <option>9th Standard</option>
-                        <option>10th Standard</option>
-                        <option>Others</option>
-
-                    </select>
+                    <option value="">Select Admission</option>
+                    <option>Nursery</option>
+                    <option>Reception</option>
+                    <option>Grade 1</option>
+                    <option>Grade 2</option>
+                    <option>Grade 3</option>
+                    <option>Grade 4</option>
+                    <option>Grade 5</option>
+                    <option>Grade 6</option>
+                    <option>Grade 7</option>
+                    <option>Grade 8</option>
+                    <option>Others</option>
+                  </select>
                	</div>
                 
                 <div class="form-group">
@@ -153,43 +167,42 @@
 <div class="container">
 <div class="col-md-4 smal-dev-clearfix ani wisewood-cont-abt">
 <div class="news-heading">
-<h5><span>Lorem Ipsum</h5>
+<h5><span>Academic Year 2021-2022</h5>
 </div>
-<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+<p>Examination for the academic year 2020-2021 is completed successfully and 100% online. Thanks for the students & the parents. Online classes for the Academic year 2021-2022 will start from 7rd September 2021.</p>
 <a href="#" style="text-transform:uppercase; color:#00847a;">Read more</a>
 </div>
 <div class="col-md-4 smal-dev-clearfix ani">
 <div class="news-heading">
-<h5><span>Lorem </span><br>
-Ipsum</h5>
+<h5><span>Important </span><br>
+Dates</h5>
 </div>
 
 <!--Daete start-->
 <div class="date-wise">
-<div class="date-time"> 
-<p>22</p>
-<div class="clearfix"></div>
-<span>Jun</span>
-</div>
-<div class="annual-day"></div>
-<b>Lorem Ipsum is simply dummy</b><br>
-<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-
-</div>
-
-
-<!--Daete start-->
-<div class="date-wise">
-<div class="date-time">
-<p>04 </p>
-<div class="clearfix"></div>
-<span>MAY</span>
-</div>
-<div class="annual-day"></div>
-<b>Lorem Ipsum is simply dummy</b><br>
-<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+  <div class="date-time">
+    <p>22 </p>
+    <div class="clearfix"></div>
+    <span>Aug</span>
+  </div>
+  <div class="annual-day"></div>
+    <b>Cut off date to order books for year 2021</b><br>
+    <p>Register for the textbooks for this year. Books will be despatched once registered.</p>
 </div>
 <!--Daete end-->
+
+<!--Daete start-->
+<div class="date-wise">
+  <div class="date-time"> 
+    <p>07</p>
+    <div class="clearfix"></div>
+    <span>Sep</span>
+  </div>
+  <div class="annual-day"></div>
+    <b>Term Holiday</b><br>
+    <p>School will reopen from 7th day of September for new batches. </p>
+</div>
+
 <div class="clearfix"></div>
 
 <a href="#" style="text-transform:uppercase; color:#00847a; margin:0 95px;" class="text-center">Read more</a>
@@ -206,7 +219,7 @@ Ipsum</h5>
 OUR VIDEO</h5>
 </div>
 <div class="video-img">
-<iframe width="365" height="200" src="https://www.youtube.com/embed/9xwazD5SyVg" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fglobaltamilschool%2Fvideos%2F161649862440406%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 </div>
 
  </div></div>
@@ -216,8 +229,8 @@ OUR VIDEO</h5>
 <div id="portfolio" class="clearfix">                  
 <div class="col-md-3 col-sm-3 col-xs-6  no-pad-img-gallery-sli ani">
 <div class="image-wrapper overlay-fade-in gallery-btm">
-     <a title="Global center" class="Wisewoods-gallery" data-fancybox-group="portfolio-1" href="img/school.jpg">
-     <img src="img/school.jpg" alt="overlay" class="img-responsive"/>
+     <a title="Global Tamil School" class="Wisewoods-gallery" data-fancybox-group="portfolio-1" href="images/Students_writing.jpg">
+     <img src="images/Students_writing.jpg" alt="overlay" class="img-responsive"/>
       <div class="image-overlay-content">
         <div class="overlay"><img src="img/zoom-icon.png" alt="icon"/> </div>
       </div></a>
@@ -225,8 +238,8 @@ OUR VIDEO</h5>
 </div>
 <div class="col-md-3 col-sm-3 col-xs-6  no-pad-img-gallery-sli ani">
 <div class="image-wrapper overlay-fade-in gallery-btm">
-     <a title="Global center" class="Wisewoods-gallery" data-fancybox-group="portfolio-1" href="img/school.jpg">
-     <img src="img/school.jpg" alt="overlay" class="img-responsive"/>
+     <a title="Global Tamil School" class="Wisewoods-gallery" data-fancybox-group="portfolio-1" href="images/StudentsWork2.jpg">
+     <img src="images/StudentsWork2.jpg" alt="overlay" class="img-responsive"/>
       <div class="image-overlay-content">
         <div class="overlay"><img src="img/zoom-icon.png" alt="icon"/> </div>
       </div></a>
@@ -234,8 +247,8 @@ OUR VIDEO</h5>
 </div>
 <div class="col-md-3 col-sm-3 col-xs-6  no-pad-img-gallery-sli ani">
 <div class="image-wrapper overlay-fade-in gallery-btm">
-     <a title="Global center" class="Wisewoods-gallery" data-fancybox-group="portfolio-1" href="img/school.jpg">
-     <img src="img/school.jpg" alt="overlay" class="img-responsive"/>
+     <a title="Global Tamil School" class="Wisewoods-gallery" data-fancybox-group="portfolio-1" href="images/Teaching_materials.jpg">
+     <img src="images/Teaching_materials.jpg" alt="overlay" class="img-responsive"/>
       <div class="image-overlay-content">
         <div class="overlay"><img src="img/zoom-icon.png" alt="icon"/> </div>
       </div></a>
@@ -243,8 +256,8 @@ OUR VIDEO</h5>
 </div>
 <div class="col-md-3 col-sm-3 col-xs-6  no-pad-img-gallery-sli ani">
 <div class="image-wrapper overlay-fade-in gallery-btm">
-     <a title="Global center" class="Wisewoods-gallery" data-fancybox-group="portfolio-1" href="img/school.jpg">
-     <img src="img/school.jpg" alt="overlay" class="img-responsive"/>
+     <a title="Global Tamil School" class="Wisewoods-gallery" data-fancybox-group="portfolio-1" href="images/StudentsWork1.jpg">
+     <img src="images/StudentsWork1.jpg" alt="overlay" class="img-responsive"/>
       <div class="image-overlay-content">
         <div class="overlay"><img src="img/zoom-icon.png" alt="icon"/> </div>
       </div></a>

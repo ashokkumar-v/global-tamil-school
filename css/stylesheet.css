@@ -183,7 +183,7 @@ header{position:absolute;z-index:999;width:100%;}
 }
 
 .slider-caption h1 span{
-   background:#720606; color:#FFF; padding:0px 10px;
+   background:#720606; color:#FFF; padding:0px 10px; line-height: 1.5;
 }
 .welcome-content{width:80%;margin:0 auto;}
 .heading h1{font:19px/26px 'Dosis';color:#3b3b3b;text-transform:uppercase;text-align:center; margin-bottom:20px;}
@@ -253,19 +253,15 @@ input.form-control.submit.btm-ntm {
 input.form-control {
 	 width: 100%;
     height: 40px;
-    background: none;
     box-shadow: none;color:#720606;
-    border: solid 1px #720606;
     border-radius: 0px;
 }
 select.form-control{
 	 width: 100%;
     height: 40px;color:#720606;
-    background: none;
     box-shadow: none;
-    border: solid 1px #720606;
     border-radius: 0px;
-	background: url(../images/drob-down-arrow.png) no-repeat 97%;
+	background: white url(../images/drob-down-arrow.png) no-repeat 97%;
     appearance: none;
     -webkit-appearance: none;
     -moz-appearance: none;
@@ -518,7 +514,7 @@ input.form-control1.submit1.btm-ntm:hover{background:#720606;color:#fff;}
     top: 43%;
 }
 .border-cont-rightco:after {
-    content: 'TEACHER';right: -100px;
+    content: 'TEACHERS';right: -100px;
 } 
 .border-cont-br p{padding-right:8%; font:18px/30px 'Dosis';text-align:justify;}  
 
@@ -895,7 +891,7 @@ text-transform: capitalize;
 .form-admision .form-control{ display: inline-block; min-width:225px;}
 .form-admision .form-control.submit{ background:#fff; color:#720606; width: auto; text-transform: uppercase; padding:10px 50px;
 border-radius:5px; display: inline-block; margin-top:10px;}
-.form-admision .form-control.txt_area{ height:40px !important; background: none;border: solid 1px #720606; color:#720606;}
+.form-admision .form-control.txt_area{ height:40px !important; color:#720606;}
 
 .news-letter ::placeholder{ color:#aeaeae;}
 .news-letter .form-group{ display: inline-block; vertical-align: top; position: relative;}
