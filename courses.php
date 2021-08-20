@@ -16,7 +16,7 @@
   </div>
 
 <div class="clearfix"></div>
-<div class="wisewoods-content">
+<div class="page-content">
 <div class="container">
 
 <div class="sel-program">

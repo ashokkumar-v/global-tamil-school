@@ -68,17 +68,17 @@
   </div>
 
 <div class="clearfix"></div>
-<div class="wisewoods-content">
+<div class="page-content">
 <div class="container">
 <div class="heading ani">
-<h1><span> Global Tamil School</span></h1>
+<h1><span>Global Tamil School</span></h1>
 </div>
 <div class="welcome-content ani">
 <p>We are online Tamil school offering online Tamil language classes for the students from all over the world. We carefully chose the syllabus that helps the growth of students with high quality textbooks and learning materials, effective worksheets, and assessment. We have happy students all around the world including UK, USA, Europe, UAE, India, Singapore, Malaysia etc.,</p>
 
 
 <div class="read-welcome">
-<a href="about-us.php">READMORE </a>
+<a href="about-us.php">READMORE</a>
 </div>
 </div>
 <div class="clearfix"></div>
