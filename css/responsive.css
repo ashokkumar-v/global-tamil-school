@@ -381,11 +381,11 @@ margin-bottom: 10px;
     float: none;
 }
 .slider-caption h1 {
-    font: 15px/10px 'Dosis';
-    margin-top: 0px;
+    font: 12px/10px 'Dosis';
+    margin: 0px;
 }
 .slider-caption h3 {
-    font: 12px/24px 'Dosis';
+    font: 10px/20px 'Dosis';
 }
 .slider-caption a {
     font-size: 10px;

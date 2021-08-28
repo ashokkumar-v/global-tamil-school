@@ -13,8 +13,8 @@
       <div class="slider-caption animation-edu-5 fadeInLeft">
         <div class="container">
           <!--  <h3>THE BEST EDUCATION</h3>-->
-          <h1><span>"இரண்டாயிரத்து ஐந்நூறு </span></h1>
-          <h1><span> ஆண்டுகளுக்கும் மேல் பழமை வாய்ந்த இலக்கிய மரபைக் கொண்டுள்ளது தமிழ் மொழி "</span></h1>
+          <h1><span>" 2500 ஆண்டுகளுக்கும் மேல் பழமை வாய்ந்த </span></h1>
+          <h1><span> இலக்கிய மரபைக் கொண்டுள்ளது தமிழ் மொழி "</span></h1>
           <a href="#">READMORE</a>
         </div>
       </div>
@@ -34,7 +34,7 @@
       <div class="slider-caption animation-edu-5 fadeInLeft">
         <div class="container">
           <!--<h3>THE BEST EDUCATION</h3>-->
-          <h1><span>"Read / Write / Speak </span></h1>
+          <h1><span>" Read, Write & Speak </span></h1>
           <h1><span> Tamil language in very short period of time "</span></h1>
         </div>
       </div>
@@ -44,8 +44,8 @@
       <div class="slider-caption animation-edu-5 fadeInLeft">
         <div class="container">
         <!--<h3>THE BEST EDUCATION</h3>-->
-          <h1><span>"தமிழில் 12 உயிரெழுத்துகளும், </span></h1>
-          <h1><span> 18 மெய்யெழுத்துகளும் உள்ளன. அவை சேர்வதால் 216 உயிர்மெய்யெழுத்துகள் பிறக்கின்றன "</span></h1>
+          <h1><span>" தமிழ், சொல்வளம் நிறைந்த மொழி. நவீனத் </span></h1>
+          <h1><span> தமிழ்மொழி பழமையான பெரும்பாலான சொற்களை இன்றும் பயன்படுத்துகின்றது "</span></h1>
 
           <a href="#">READMORE</a>
         </div>
@@ -56,7 +56,7 @@
       <div class="slider-caption animation-edu-5 fadeInLeft">
         <div class="container">
         <!--<h3>THE BEST EDUCATION</h3>-->
-          <h1><span>"தமிழ், மொழியல்ல வாழ்க்கை முறை, </span></h1>
+          <h1><span>" தமிழ், மொழியல்ல. வாழ்க்கை முறை.</span></h1>
           <h1><span> யாமறிந்த மொழிகளிலே தமிழ்மொழி போல் இனிதாவது எங்கும் காணோம் "</span></h1>
 
           <a href="#">READMORE</a>
