@@ -196,13 +196,13 @@
       <!--Daete start-->
       <div class="date-wise">
         <div class="date-time"> 
-          <p>07</p>
+          <p>06</p>
           <div class="clearfix"></div>
           <span>Sep</span>
         </div>
         <div class="annual-day"></div>
-          <b>Term Holiday</b><br>
-          <p>School will reopen from 7th day of September for new batches. </p>
+          <b>Term Starts</b><br>
+          <p>School will reopen from 6th day of September for new batches. </p>
       </div>
 
       <div class="clearfix"></div>
