@@ -203,7 +203,7 @@ OUR VIDEO</h5>
 <div id="portfolio" class="clearfix">                  
     <div class="col-md-3 col-sm-3 col-xs-6  no-pad-img-gallery-sli ani">
         <div class="image-wrapper overlay-fade-in gallery-btm">
-            <a title="Wisewoods gallery" class="Wisewoods-gallery" data-fancybox-group="portfolio-1" href="img/school.jpg">
+            <a title="Wisewoods gallery" class="gts-gallery" data-fancybox-group="portfolio-1" href="img/school.jpg">
                 <img src="img/school.jpg" alt="overlay" class="img-responsive"/>
                 <div class="image-overlay-content">
                     <div class="overlay"><img src="img/zoom-icon.png" alt="icon"/> </div>
@@ -213,7 +213,7 @@ OUR VIDEO</h5>
     </div>
     <div class="col-md-3 col-sm-3 col-xs-6  no-pad-img-gallery-sli ani">
         <div class="image-wrapper overlay-fade-in gallery-btm">
-            <a title="Wisewoods gallery" class="Wisewoods-gallery" data-fancybox-group="portfolio-1" href="img/school.jpg">
+            <a title="Wisewoods gallery" class="gts-gallery" data-fancybox-group="portfolio-1" href="img/school.jpg">
                 <img src="img/school.jpg" alt="overlay" class="img-responsive"/>
                 <div class="image-overlay-content">
                     <div class="overlay"><img src="img/zoom-icon.png" alt="icon"/> </div>
@@ -223,7 +223,7 @@ OUR VIDEO</h5>
         </div>
         <div class="col-md-3 col-sm-3 col-xs-6  no-pad-img-gallery-sli ani">
             <div class="image-wrapper overlay-fade-in gallery-btm">
-                <a title="Wisewoods gallery" class="Wisewoods-gallery" data-fancybox-group="portfolio-1" href="img/school.jpg">
+                <a title="Wisewoods gallery" class="gts-gallery" data-fancybox-group="portfolio-1" href="img/school.jpg">
                     <img src="img/school.jpg" alt="overlay" class="img-responsive"/>
                     <div class="image-overlay-content">
                         <div class="overlay"><img src="img/zoom-icon.png" alt="icon"/> </div>
@@ -233,7 +233,7 @@ OUR VIDEO</h5>
         </div>
         <div class="col-md-3 col-sm-3 col-xs-6  no-pad-img-gallery-sli ani">
             <div class="image-wrapper overlay-fade-in gallery-btm">
-                <a title="Wisewoods gallery" class="Wisewoods-gallery" data-fancybox-group="portfolio-1" href="img/school.jpg">
+                <a title="Wisewoods gallery" class="gts-gallery" data-fancybox-group="portfolio-1" href="img/school.jpg">
                     <img src="img/school.jpg" alt="overlay" class="img-responsive"/>
                     <div class="image-overlay-content">
                         <div class="overlay"><img src="img/zoom-icon.png" alt="icon"/> </div>

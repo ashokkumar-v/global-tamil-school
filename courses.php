@@ -7,7 +7,7 @@
 </head>
 <body>
 <?php include "header.php";?>
-<div class="slider-portion wisinsli">
+<div class="slider-portion wisinsli inner_pg">
 <div class="slider1">
    <div class="slide animation-edu-3">
 			<h1>Courses & Exams</h1>
@@ -21,28 +21,25 @@
 
 <div class="sel-program">
 
-	
-<img src="img/school.jpg" class="img-responsive" style="margin: 0 auto;">
-	
-<p><b class="color">Global Tamil School</b> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
-
-<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
-
-<p> <b class="color">Exams : </b> Lorem Ipsum</p>
-
-<p><b class="color">Lorem Ipsum : </b> Lorem Ipsum</p>
-<p><b class="color">Lorem Ipsum</b></p>
-
+<h1>Tamil Language</h1>
+<p><b class="color">Global Tamil School</b> follows the British Tamil Examination Board (BTEB), UK syllabus for Tamil Language examinations. </p>
+<h2>BTEB Pathway</h2>
+<img src="https://www.bteb.org.uk/images/pathway.gif" class="img-responsive" style="margin: 0 auto;">
+<h3><a href="https://www.bteb.org.uk/programmes-qualifications.html">Detailed Information</a></h3>
+<h3><a href="https://www.bteb.org.uk/examination-schedule-2021.html">Examination Schedule 2021</a></h3>
+<h3><a href="https://www.bteb.org.uk/forms/BTEB-ApplicationForm%202021-v5.pdf">Application Form</a></h3>
+<br>
+<h1>Fine Arts</h1>
+<p><b class="color">We</b> follow Griffin College London (International Examination board) syllabus for the fine arts courses. </p>
 <ul>
-	<li>Lorem Ipsum</li>
-  <li>Lorem Ipsum</li>
-  <li>Lorem Ipsum</li>
-  <li>Lorem Ipsum</li>
-  <li>Lorem Ipsum</li>
-  <li>Lorem Ipsum</li>
-  <li>Lorem Ipsum</li>
-  <li>Lorem Ipsum </li>
+  <li>Indian Classical Dance : Bharathanatyam</li>
+  <li>Indian Carnatic Performance</li>
+  <li>Indian Percussion Instruments</li>
 </ul>
+<h3><a href="https://www.griffincollege.org.uk/our-syllabuses">Detailed Information</a></h3>
+<h3><a href="https://www.griffincollege.org.uk/ucas/">UCAS Points</a></h3>
+<h3><a href="https://www.griffincollege.org.uk/our-exams/">Examinations</a></h3>
+<h3><a href="https://www.griffincollege.org.uk/exam-dates/">Exam Dates</a></h3>
 
 </div>
 

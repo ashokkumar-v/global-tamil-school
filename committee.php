@@ -8,7 +8,7 @@
 <body>
 <?php include "header.php";?>
 
-<div class="slider-portion wisinsli">
+<div class="slider-portion wisinsli inner_pg">
 <div class="slider1">
    <div class="slide animation-edu-3">
 			<h1>Global Tamil School</h1>

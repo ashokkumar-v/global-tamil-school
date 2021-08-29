@@ -174,7 +174,7 @@ header{position:absolute;z-index:999;width:100%;}
 }
 .slider-caption{text-align:right;position:absolute;bottom:10%;z-index:999;width:100%;padding-right:0px;}
 .slider-caption h3{margin-bottom:0px;font:33px/24px 'Dosis';text-transform:uppercase;font-weight:300;color:#ffffff;}
-.slider-caption h1{margin-bottom:5px;font:43px/36px 'Dosis';text-transform:uppercase;font-weight:600;color:#00baff;}
+.slider-caption h1{margin-bottom:20px;font:43px/36px 'Dosis';text-transform:uppercase;font-weight:600;color:#00baff;}
 .slider-caption a{padding:6px 25px;background:#ffffff;color:#000;text-decoration:none;border-radius:5px;}
 .heading span{font-weight:600;color:#3b3b3b;}
 .slider-caption h3 {
@@ -503,7 +503,7 @@ input.form-control1.submit1.btm-ntm:hover{background:#720606;color:#fff;}
 }
 
 .border-cont-br:after {
-    content: 'CHAIRMAN';
+    content: 'TEACHER';
     position: absolute;
     right:-80px;
     background: #fff;
@@ -527,7 +527,10 @@ input.form-control1.submit1.btm-ntm:hover{background:#720606;color:#fff;}
 } 
 .border-cont-rightco:after {
     content: 'TEACHER';right: -100px;
-} 
+}
+.border-cont-rightco-ad:after {
+    content: 'ADVISOR';right: -100px;
+}
 .border-cont-br p{padding-right:8%; font:18px/30px 'Dosis';text-align:justify;}  
 
 .border-cont-br img{width:300px;}  
@@ -822,7 +825,7 @@ table.table-widthdrawl {
 }
 .border-cont-br-right img{float:right;padding-left:20px;}
 .width-cam-block{width:60%;margin:0 auto;}
-.Wisewoods-gallery img{ border:3px solid #f0f0f0;}
+.gts-gallery img{ border:3px solid #f0f0f0;}
 .overlay img{ border:none;}
 
 

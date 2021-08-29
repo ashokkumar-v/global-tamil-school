@@ -28,7 +28,10 @@ margin: 0 auto;
 
 /** THEME
 ===================================*/
-
+.wisinsli.inner_pg .bx-wrapper .bx-viewport {
+    height:auto !important;
+    overflow:visible !important;
+}
 .bx-wrapper .bx-viewport {
 padding:0px;margin:0px;  
 }

@@ -258,6 +258,7 @@ nav.navbar.navbar-inverse.no-pad-sd.menu-smal-dev {
 		min-height: 105px;
 	}
 	.wisinsli h1{
+        font-size: 38px;
 		margin-top: 40px;
 	}
 	.about-photo-img{
@@ -381,11 +382,11 @@ margin-bottom: 10px;
     float: none;
 }
 .slider-caption h1 {
-    font: 12px/10px 'Dosis';
-    margin: 0px;
+    font: 15px/10px 'Dosis';
+    margin-top: 0px;
 }
 .slider-caption h3 {
-    font: 10px/20px 'Dosis';
+    font: 12px/24px 'Dosis';
 }
 .slider-caption a {
     font-size: 10px;
@@ -447,7 +448,7 @@ ul.fees-instr-deta {
     top: 24%;
     outline: 0;
 }
-.logo-wisewoods img {
+.logo-gts img {
     width: 100%;
 }
 ul.fees-instr-deta li span {

@@ -100,13 +100,13 @@ $(window).scroll(function () {
 jQuery(window).scroll(function() {
 	if(jQuery(window).scrollTop() >= 100) {
 		jQuery('.menu-part').css({position:'fixed',left:0,right:0,top:0,display:'block'});
-		jQuery('.logo-wisewoods').css({width:'100%','margin-top':'0px'});
+		jQuery('.logo-gts').css({width:'100%','margin-top':'0px'});
 		
 	}
 	
 	else {
 		jQuery('.menu-part').removeAttr('style').css({position:'static'});
-		jQuery('.logo-wisewoods').css({width:''});
+		jQuery('.logo-gts').css({width:''});
 	}/*if(jQuery('.headerHome').css('position') == 'static') {
 		//alert('yes')
 		

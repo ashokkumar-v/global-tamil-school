@@ -9,50 +9,40 @@
 <?php include "header.php";?>
 
 <div class="slider-portion wisinsli">
-<div class="slider1">
-    <div class="slide animation-edu-3 fadeInDown"> <img src="img/career-banner.png" alt="banner">
-     </div>
-  </div>
-  </div>
+    <div class="slider1">
+        <div class="slide animation-edu-3 fadeInDown"> <img src="img/career-banner.png" alt="banner"></div>
+    </div>
+</div>
 
 <div class="clearfix"></div>
 
 <div class="page-content">
-<div class="container">
-<div class="heading">
-</div>
-<div class="campus-wtdh">
-<div class="block-big-img">
-<img src="img/school.jpg" alt="school" class="img-responsive"/>
-<h1 style="text-align: center;">Careers with us</h1>
-<p>The Global Tamil School is an Equal Opportunity Employer and encourages the recruitment and retention of qualified teachers for all positions. GTS encourages members of all diverse groups to seek employment with us.</p>
-</div>
-<div class="clearfix"></div>
-<div class="col-md-6  col-sm-6 no-pad-school">
-    <h1>Current Opportunities</h1>
-<div class="school-blk">
-<p><span>Tamil Language Teachers (Online)</span></p>
-<p><span>Teachers for spoken Tamil (Online)</span></span></p>
-<p><span>Graphic Designers</span></p>
-<p><span>Web Designers</span></p>
-</div>
-</div>
-	
-	
-<div class="col-md-6  col-sm-6 no-pad-school">
-<div class="school-blk">
+    <div class="container">
+        <div class="heading"></div>
+        <div class="campus-wtdh">
+            <div class="block-big-img">
+                <img src="img/school.jpg" alt="school" class="img-responsive"/>
+                <h1 style="text-align: center;">Careers with us</h1>
+                <p>The Global Tamil School is an Equal Opportunity Employer and encourages the recruitment and retention of qualified teachers for all positions. We at GTS encourages eligile teachers of all fine arts to seek employment with us.</p>
+            </div>
+            <div class="clearfix"></div>
+            <div class="col-md-6  col-sm-6 no-pad-school">
+                <h1>Current Opportunities</h1>
+                <div class="school-blk">
+                    <p><span>Tamil Language Teachers (Online)</span></p>
+                    <p><span>Teachers for spoken Tamil (Online)</span></p>
+                    <p><span>Web Designers</span></p>
+                </div>
+            </div>
+            
+            <div class="col-md-6  col-sm-6 no-pad-school">
+                <div class="school-blk">
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
 
-
-</div>
-</div>
-
-
-<div class="clearfix"></div>
-
-</div>
-
-<div class="clearfix"></div>
-</div>
+    <div class="clearfix"></div>
 </div>
 <?php include "footer.php";?>
 

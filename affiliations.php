@@ -7,7 +7,7 @@
 </head>
 <body>
 <?php include "header.php";?>
-<div class="slider-portion wisinsli">
+<div class="slider-portion wisinsli inner_pg">
     <div class="slider1">
         <div class="slide animation-edu-3 ">
             <h1>OUR AFFILIATION</h1>
@@ -26,6 +26,11 @@
                 <h1>British Tamil Examination Board</h1>
                 <p>We are affiliated with BTEB UK for conducting online Tamil language examinations.</p>
                 <a href="https://www.bteb.org.uk/" target="_blank"><img src="img/bteb-logo.png" style="width:200px;margin:auto;display:block;" /></a>
+            </div>
+            <div class="col-md-6">
+                <h1>Griffin College, London</h1>
+                <p>We are affiliated with Griffin College London for conducting fine arts classes & examinations.</p>
+                <a href="https://www.griffincollege.org.uk/" target="_blank"><img src="img/gcl-logo.png" style="width:100%;margin:auto;display:block;" /></a>
             </div>
         </div>
     </div>

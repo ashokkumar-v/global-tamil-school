@@ -1,0 +1,32 @@
+.custom-control{display:inline-block!important;}
+.f-20{font-size:20px !important;}
+div#example2_length {
+    float: left;
+    padding-right: 20px;
+}
+.asterisk_input::after {
+	content: " *";
+    color: #e32;
+    position: absolute;
+    margin: 0px 0px 0px -20px;
+    font-size: xx-large;
+    padding: 0 5px 0 0;
+    top: 0;
+    right: 15px;
+}
+.exclamatory_input::after {
+	content: " !";
+    color: #e32;
+    position: absolute;
+    margin: 0px 0px 0px -20px;
+    font-size: xx-large;
+    padding: 0 5px 0 0;
+    top: 0;
+    right: 15px;
+}
+.err_border{
+	border: 1px solid red !important;
+}
+.error {
+    color: red;
+}

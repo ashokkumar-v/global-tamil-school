@@ -8,81 +8,75 @@
 <body>
 <?php include "header.php";?>
 <div class="slider-portion wisinsli">
-<div class="slider1">
+  <div class="slider1">
     <div class="slide animation-edu-3 fadeInDown"> <img src="img/contact-banner.jpg" alt="banner">
-     </div>
+    </div>
   </div>
-  </div>
+</div>
 
 <div class="clearfix"></div>
 <div class="container">
   <div class="contact-form">
     <div class="heading ani">
-    <h1>FEEDBACK <span>FORM</span></h1>
+      <h1>FEEDBACK <span>FORM</span></h1>
     </div>
     <div class="contact-enq">
-        <form enctype="multipart/form-data"  name="contact-enquiry" method="post" action="">
-            
-          <div class="form-group col-lg-4 col-xs-12">
-            <input type="text" class="form-control" placeholder="Name" name="name" required>
-          </div>
+      <form enctype="multipart/form-data"  name="contact-enquiry" method="post" action="send-email.php">
           
-          <div class="form-group col-lg-4 col-xs-12">
-            <input type="text" class="form-control" placeholder="Mobile No" name="phone" onkeypress="return isNumberKey(event)" maxlength="10" required>
-          </div>
-                                
-          <div class="form-group col-lg-4 col-xs-12">
-            <input type="email" class="form-control" placeholder="Email Id" name="email" required>
-          </div>
-          
-          <div class="form-group col-lg-12 col-md-12 col-sm-12 col-xs-12">
-              <textarea class="form-control txt_area" name="comment" placeholder="Enter Your Message" required></textarea>
-          </div>
-                                
-          <div class="form-group col-lg-12 col-md-12 col-sm-12 col-xs-12">
-            <input type="submit" class="form-control submit" value="submit">
-          </div>
-        </form>	
+        <div class="form-group col-lg-4 col-xs-12">
+          <input type="text" class="form-control" placeholder="Name" name="name" required>
+        </div>
+        
+        <div class="form-group col-lg-4 col-xs-12">
+          <input type="text" class="form-control" placeholder="Mobile No" name="phone" onkeypress="return isNumberKey(event)" maxlength="10" required>
+        </div>
+                              
+        <div class="form-group col-lg-4 col-xs-12">
+          <input type="email" class="form-control" placeholder="Email Id" name="email" required>
+        </div>
+        
+        <div class="form-group col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            <textarea class="form-control txt_area" name="comment" placeholder="Enter Your Message" required></textarea>
+        </div>
+                              
+        <div class="form-group col-lg-12 col-md-12 col-sm-12 col-xs-12">
+          <input type="submit" class="form-control submit" name="submit" value="submit">
+        </div>
+      </form>	
     </div>
   </div>
 </div>
 <div class="clearfix"></div>
 <div class="container">
-<div class="contact-information">
-<div class="col-md-4 col-sm-4 br-addr ani">
-<div class="conta-addr">
-<i class="fa fa-map-marker map_icon" aria-hidden="true"></i>
-<p>73 Brecon Lodge
-3 Wintergreen Boulevard<br>
-West Drayton
-London<br>
-UB7 9FR</p>
-</div>
-</div>
-<div class="col-md-4 col-sm-4 br-addr ani">
-<div class="conta-addr">
-<i class="fa fa-mobile mob_icon" aria-hidden="true"></i>
-<p>Principal Mobile No: +44 74597 13276</p>
-<p>Mobile No: +44 74382 17913</p>
-</div>
-</div>
-<div class="col-md-4 col-sm-4 ani">
-<div class="conta-addr">
-<i class="fa fa-envelope mail_icon" aria-hidden="true"></i><br>
-<a href="mailto:globaltamilschool@gmail.com">globaltamilschool@gmail.com</a>
-</div>
-</div>
-<div class="clearfix"></div>
-</div>
+  <div class="contact-information">
+    <div class="col-md-4 col-sm-4 br-addr ani">
+      <div class="conta-addr">
+        <i class="fa fa-map-marker map_icon" aria-hidden="true"></i>
+        <p>73 Brecon Lodge<br>
+        3 Wintergreen Boulevard<br>
+        West Drayton, London UB7 9FR</p>
+      </div>
+    </div>
+    <div class="col-md-4 col-sm-4 br-addr ani">
+      <div class="conta-addr">
+        <i class="fa fa-mobile mob_icon" aria-hidden="true"></i>
+        <p>Principal Mobile No: +44 74597 13276</p>
+        <p>Mobile No: +44 74382 17913</p>
+      </div>
+    </div>
+    <div class="col-md-4 col-sm-4 ani">
+      <div class="conta-addr">
+        <i class="fa fa-envelope mail_icon" aria-hidden="true"></i><br>
+        <a href="mailto:admin@globaltamilschool.co.uk">admin@globaltamilschool.co.uk</a>
+      </div>
+    </div>
+    <div class="clearfix"></div>
+  </div>
 </div>
 <div class="embed-container  maps bg-map" id="map">
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2483.4578550260085!2d-0.4635366847998135!3d51.50481561871403!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487672053ddf6201%3A0xe19e8466e6047e34!2s3%20Wintergreen%20Blvd%2C%20West%20Drayton%20UB7%209FQ%2C%20UK!5e0!3m2!1sen!2sin!4v1628261278265!5m2!1sen!2sin" width="100%" class="map-heth" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 </div>
-
-
-
-
 
 
 <div class="clearfix"></div>
