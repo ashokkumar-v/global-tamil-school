@@ -59,7 +59,7 @@
       <div class="name-profile"> <h2>Mrs. Sanjiya Senthil<span>Head Teacher, Harrow, UK</span></h2> </div>
       <div class="col-md-4 col-sm-6 col-xs-8 no-pad-img border-cont ani">
         <div class="border-cont-br border-cont-rightco-ha">
-          <img src="img/unavailable.jpg" alt="Head Teacher" class="img-responsive"/>
+          <img src="img/people/SanjiyaSenthil.jpg" alt="Head Teacher" class="img-responsive"/>
           <p></p>
           <div class="clearfix"></div>
         </div>

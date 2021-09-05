@@ -63,7 +63,7 @@
 							var today = new Date()
 							var year = today.getFullYear()
 							document.write(year)
-							</script> - All Rights Reserved -  Website Designed and Developed by Vrusha Infotech</p>
+							</script> - All Rights Reserved</p>
   </div>
 </div>
 <div class="clearfix"></div>
