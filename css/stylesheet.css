@@ -1,4 +1,5 @@
 @charset "utf-8";
+@import './faculty.css';
 /* CSS Document */
 body{font-family: 'Dosis', sans-serif;}
 @font-face {
@@ -515,6 +516,9 @@ input.form-control1.submit1.btm-ntm:hover{background:#720606;color:#fff;}
 }
 .border-cont-rightco-wd:after {
     content: 'WEST DRAYTON, UK';right: -122px;
+}
+.border-cont-rightco-ma:after {
+    content: 'MALAYSIA';right: -82px;
 }
 .border-cont-rightco-ha:after {
     content: 'HARROW, UK';right: -92px;

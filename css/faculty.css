@@ -1,0 +1,83 @@
+.faculty-column {
+  float: left;
+  width: 25%;
+  margin-bottom: 16px;
+  padding: 0 8px;
+}
+
+.person-name {
+  font-size: 22px;
+  margin-top: 10px;
+}
+/* Display the columns below each other instead of side by side on small screens */
+@media screen and (max-width: 1280px) {
+  .faculty-column {
+    width: 33.3%;
+    display: block;
+  }
+
+  .person-name {
+    font-size: 20px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .faculty-column {
+    width: 50%;
+    display: block;
+  }
+
+  .person-name {
+    font-size: 18px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .faculty-column {
+    width: 100%;
+    display: block;
+  }
+
+  .person-name {
+    font-size: 16px;
+  }
+}
+
+/* Add some shadows to create a card effect */
+.card 
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+/* Some left and right padding inside the container */
+.faculty-container {
+  padding: 10px 16px 0;
+}
+
+/* Clear floats */
+.faculty-container::after, .row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.faculty-title {
+  color: grey;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+}
+
+.button:hover {
+  background-color: #555;
+}

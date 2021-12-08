@@ -4,10 +4,8 @@ $table_enquirylist="".DB_PREFIX."_enquiry_list";
 if(isset($_REQUEST["submit"]))
 {
 $from_email ="Noreply@gmail.com";
-//$to_mail_admin = "admin@globaltamilschool.co.uk ";
-//$bcc_mail = "mskattabommudurai@gmail.com";
-$to_mail_admin = "beulahviwb1220@gmail.com";
-$bcc_mail = "beulahviwb1220@gmail.com";
+$to_mail_admin = "admin@globaltamilschool.co.uk ";
+$bcc_mail = "globaltamilschool@gmail.com";
 
 		$name=$_REQUEST['name'];
 		$email=$_REQUEST['email'];

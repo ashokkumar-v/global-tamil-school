@@ -15,6 +15,7 @@
   </div>
 </div>
 <div class="clearfix"></div>
+
 <div class="page-content">
   <div class="container">
     <div class="heading ani">
@@ -22,109 +23,134 @@
     </div>
     <!--study bg-->
     <div class="clearfix"></div>
-    <div class="study-bg ani">
-      <div class="name-profile"> <h2>Mr. Siva Pillai<span>Advisor, Chairperson - British Tamil Examination Board, UK</span></h2> </div>
-      <div class="col-md-4 col-sm-6 col-xs-8 no-pad-img border-cont ani">
-        <div class="border-cont-br border-cont-rightco-ad">
-          <img src="img/people/SivaPillai.jpg" alt="Advisor" class="img-responsive"/>
-          <p></p>
-          <div class="clearfix"></div>
+
+    <div class="image-grid">
+      <div class="faculty-column">
+        <div class="card">
+          <img src="img/people/SivaPillai.jpg" alt="Sivapillai" style="width:100%">
+          <div class="faculty-container">
+            <h2 class="person-name">Mr. Siva Pillai</h2>
+            <p class="faculty-title">Advisor</p>
+            <p>Chairperson - British Tamil Examination Board, UK</p>
+          </div>
         </div>
       </div>
-      <div class="clearfix"></div>
+
+      <div class="faculty-column">
+        <div class="card">
+          <img src="img/people/Jebaraj.jpg" alt="Jebaraj" style="width:100%">
+          <div class="faculty-container">
+            <h2 class="person-name">Dr. Jebaraj Devadasan</h2>
+            <p class="faculty-title">Advisor</p>
+            <p>Dean - Department of Physics</p>
+          </div>
+        </div>
+      </div>
     </div>
-    <div class="study-bg ani">
-      <div class="name-profile"> <h2>Dr. Jebaraj Devadasan<span>Advisor, Dean - Department of Physics </span></h2> </div>
-      <div class="col-md-4 col-sm-6 col-xs-8 no-pad-img border-cont ani">
-        <div class="border-cont-br border-cont-rightco-ad">
-          <img src="img/people/Jebaraj.jpg" alt="Advisor" class="img-responsive"/>
-          <p></p>
-          <div class="clearfix"></div>
+  </div>
+  <div class="page-content">
+    <div class="container">
+      <div class="faculty-column">
+        <div class="card">
+          <img src="img/people/Photo_UmaAshok.jpg" alt="Uma" style="width:100%">
+          <div class="faculty-container">
+            <h2 class="person-name">Mrs. Uma Devi Ashok Kumar</h2>
+            <p class="faculty-title">Founder & Teacher</p>
+            <p>Global Tamil School, West Drayton, London</p>
+          </div>
         </div>
       </div>
-      <div class="clearfix"></div>
+
+      <div class="faculty-column">
+        <div class="card">
+          <img src="img/people/RadhikaHarish.jpg" alt="Radhika" style="width:100%">
+          <div class="faculty-container">
+            <h2 class="person-name">Mrs. Radhika Harish</h2>
+            <p class="faculty-title">Co-Founder & Teacher</p>
+            <p>Global Tamil School, Malaysia</p>
+          </div>
+        </div>
+      </div>
     </div>
-    <div class="study-bg ani">
-      <div class="name-profile"> <h2>Mrs. Uma Devi Ashok Kumar<span>Founder & Teacher - Global Tamil School, West Drayton, London</span></h2>  </div>
-      <div class="col-md-4 col-sm-6 col-xs-8 no-pad-img border-cont ani">
-        <div class="border-cont-br border-cont-rightco-wd">
-          <img src="img/people/Photo_UmaAshok.png" alt="Head Teacher" class="img-responsive"/>
-          <p></p>
-          <div class="clearfix"></div>
+  </div>
+  <div class="page-content">
+    <div class="container">
+      <div class="faculty-column">
+        <div class="card">
+          <img src="img/people/SanjiyaSenthil.jpg" alt="Sanjiya" style="width:100%">
+          <div class="faculty-container">
+            <h2 class="person-name">Mrs. Sanjiya Senthil</h2>
+            <p class="faculty-title">Teacher</p>
+            <p>Gobal Tamil School - Harrow, UK</p>
+          </div>
         </div>
       </div>
-      <div class="clearfix"></div>
+
+      <div class="faculty-column">
+        <div class="card">
+          <img src="img/people/SumathiAnandhan.jpg" alt="Sumathi" style="width:100%">
+          <div class="faculty-container">
+            <h2 class="person-name">Mrs. Sumathi Anandan</h2>
+            <p class="faculty-title">Senior Teacher</p>
+            <p>Global Tamil School - Seattle, USA</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="faculty-column">
+        <div class="card">
+          <img src="img/people/Krishnapriya.jpg" alt="Krishnapriya" style="width:100%">
+          <div class="faculty-container">
+            <h2 class="person-name">Mrs. Krishna Priya</h2>
+            <p class="faculty-title">Senior Teacher</p>
+            <p>Global Tamil School - India</p>
+          </div>
+        </div>
+      </div>
     </div>
-    <div class="study-bg ani">
-      <div class="name-profile"> <h2>Mrs. Sanjiya Senthil<span>Head Teacher, Harrow, UK</span></h2> </div>
-      <div class="col-md-4 col-sm-6 col-xs-8 no-pad-img border-cont ani">
-        <div class="border-cont-br border-cont-rightco-ha">
-          <img src="img/people/SanjiyaSenthil.jpg" alt="Head Teacher" class="img-responsive"/>
-          <p></p>
-          <div class="clearfix"></div>
+  </div>
+
+  <div class="page-content">
+    <div class="container">
+      <h3>Fine Arts</h3>
+      <div class="faculty-column">
+        <div class="card">
+          <img src="img/people/Photo_UdhayaBoopathy.png" alt="Udhaya" style="width:100%">
+          <div class="faculty-container">
+            <h4>Isaikalaimani</h4>
+            <h2 class="person-name">Mrs. Udhaya Bhoopathy</h2>
+            <p class="faculty-title">Teacher</p>
+            <p>Carnatic Vocals</p>
+          </div>
         </div>
       </div>
-      <div class="clearfix"></div>
-    </div>
-    <div class="study-bg ani">
-      <div class="name-profile"> <h2>Mrs. Sumathi Anandan<span>Head Teacher, Seattle, USA Branch</span></h2> </div>
-      <div class="col-md-4 col-sm-6 col-xs-8 no-pad-img border-cont ani">
-        <div class="border-cont-br border-cont-rightco-us">
-          <img src="img/unavailable.jpg" alt="Head Teacher" class="img-responsive"/>
-          <p></p>
-          <div class="clearfix"></div>
+
+      <div class="faculty-column">
+        <div class="card">
+          <img src="img/people/ChristetaRani.jpg" alt="Christita" style="width:100%">
+          <div class="faculty-container">
+            <h2 class="person-name">Mrs. Christeta Sagaya Rani</h2>
+            <p class="faculty-title">Teacher</p>
+            <p>Bharathanatyam</p>
+          </div>
         </div>
       </div>
-      <div class="clearfix"></div>
-    </div>
-    <div class="study-bg ani">
-      <div class="name-profile"> <h2>Mrs. Krishna Priya<span>Senior Teacher</span></h2> </div>
-      <div class="col-md-4 col-sm-6 col-xs-8 no-pad-img border-cont ani">
-        <div class="border-cont-br border-cont-rightco-in">
-          <img src="img/people/Krishnapriya.jpg" alt="Senior Teacher" class="img-responsive"/>
-          <p></p>
-          <div class="clearfix"></div>
+
+      <div class="faculty-column">
+        <div class="card">
+          <img src="img/people/GeraldJames.jpg" alt="Gerald" style="width:100%">
+          <div class="faculty-container">
+            <h2 class="person-name">Mr. Gerald James</h2>
+            <p class="faculty-title">Teacher</p>
+            <p>Keyboard & Guitar</p>
+          </div>
         </div>
       </div>
-      <div class="clearfix"></div>
-    </div>
-    <h3>Fine Arts</h3>
-    <div class="study-bg ani">
-      <div class="name-profile"> <h2>Isaikalaimani. Mrs. Udhaya Bhoopathy<span>Teacher, Carnatic Vocal</span></h2> </div>
-      <div class="col-md-4 col-sm-6 col-xs-8 no-pad-img border-cont ani">
-        <div class="border-cont-br border-cont-rightco-in">
-          <img src="img/people/Photo_UdhayaBoopathy.png" alt="Teacher" class="img-responsive"/>
-          <p></p>
-          <div class="clearfix"></div>
-        </div>
-      </div>
-      <div class="clearfix"></div>
-    </div>
-    <div class="study-bg ani">
-      <div class="name-profile"> <h2>Mrs. Christeta Sagaya Rani<span>Teacher, Fine arts</span></h2> </div>
-      <div class="col-md-4 col-sm-6 col-xs-8 no-pad-img border-cont ani">
-        <div class="border-cont-br border-cont-rightco-in">
-          <img src="img/people/ChristetaRani.jpg" alt="Teacher" class="img-responsive"/>
-          <p></p>
-          <div class="clearfix"></div>
-        </div>
-      </div>
-      <div class="clearfix"></div>
-    </div>
-    <div class="study-bg ani">
-      <div class="name-profile"> <h2>Mr. Gerald James<span>Teacher, Keyboard & Guitar</span></h2> </div>
-      <div class="col-md-4 col-sm-6 col-xs-8 no-pad-img border-cont ani">
-        <div class="border-cont-br border-cont-rightco-in">
-          <img src="img/unavailable.jpg" alt="Teacher" class="img-responsive"/>
-          <p></p>
-          <div class="clearfix"></div>
-        </div>
-      </div>
-      <div class="clearfix"></div>
     </div>
   </div>
   <div class="clearfix"></div>
 </div>
+
 <div class="clearfix"></div>
 <div class="page-content">
   <div class="container">

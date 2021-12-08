@@ -1266,18 +1266,22 @@ h6 .small,
 h1,
 .h1 {
   font-size: 36px;
+  text-align: center;
 }
 h2,
 .h2 {
   font-size: 30px;
+  text-align: center;
 }
 h3,
 .h3 {
   font-size: 24px;
+  text-align: center;
 }
 h4,
 .h4 {
   font-size: 18px;
+  text-align: center;
 }
 h5,
 .h5 {
@@ -1289,6 +1293,7 @@ h6,
 }
 p {
   margin: 0 0 10px;
+  text-align: center;
 }
 .lead {
   margin-bottom: 20px;

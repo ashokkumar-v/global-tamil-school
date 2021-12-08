@@ -9,17 +9,7 @@
 <?php include "header.php";?>
 <div class="slider-portion">
   <div div class="slider1">
-    <div div class="slide animation-edu-3 fadeInDown"> <img src="img/homecarousel/6.jpg" alt="banner">
-      <div class="slider-caption animation-edu-5 fadeInLeft">
-        <div class="container">
-           <!-- <h3>THE BEST EDUCATION</h3> -->
-          <!-- <h1><span>" 2500 ஆண்டுகளுக்கும் மேல் பழமை வாய்ந்த </span></h1>
-          <h1><span> இலக்கிய மரபைக் கொண்டுள்ளது தமிழ் மொழி "</span></h1>
-          <a href="https://en.wikipedia.org/wiki/Tamil_language" target="_blank">READMORE</a> -->
-        </div>
-      </div>
-    </div>
-	  <div class="slide animation-edu-3 fadeInDown"> <img src="img/homecarousel/1.jpg" alt="banner">
+	  <div class="slide animation-edu-3 fadeInLeft"> <img src="img/homecarousel/1.jpg" alt="banner">
       <div class="slider-caption animation-edu-5 fadeInLeft">
         <div class="container">
            <!-- <h3>THE BEST EDUCATION</h3> -->
@@ -77,6 +67,7 @@
   <div class="container">
     <div class="heading ani">
       <h1><span>உலகளாவிய தமிழ்ப் பள்ளி</span></h1>
+      <h2>தரணியெங்கும் தமிழ்த் தலைமுறை</h2>
       <h1><span>Global Tamil School</span></h1>
     </div>
     <div class="welcome-content ani">

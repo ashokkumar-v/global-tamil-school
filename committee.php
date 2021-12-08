@@ -29,7 +29,18 @@
          <div class="name-profile"> <h2>Mrs. Uma Devi Ashok Kumar<span>Founder, Global Tamil School, UK</span></h2>  </div>
          <div class="col-md-12 no-pad-img border-cont ani">
             <div class="border-cont-br border-cont-rightco">
-               <img src="img/people/Photo_UmaAshok.png" alt="Founder" class="img-responsive"/>
+               <img src="img/people/Photo_UmaAshok.jpg" alt="Founder" class="img-responsive"/>
+               <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+               <div class="clearfix"></div>
+            </div>
+         </div>
+         <div class="clearfix"></div>
+      </div>
+      <div class="study-bg ani">
+         <div class="name-profile"> <h2>Mrs. Radhika Harish<span>Co-Founder, Global Tamil School</span></h2>  </div>
+         <div class="col-md-12 no-pad-img border-cont ani">
+            <div class="border-cont-br border-cont-rightco">
+               <img src="img/people/RadhikaHarish.jpg" alt="Co-Founder" class="img-responsive"/>
                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
                <div class="clearfix"></div>
             </div>

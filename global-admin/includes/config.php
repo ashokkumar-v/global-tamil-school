@@ -9,8 +9,8 @@ define("DB_PREFIX", "sa");
 
     date_default_timezone_set('Asia/Kolkata');
 	define("DB_HOST", "localhost");
-	define("DB_NAME", "vrushain_global_tamil_school");
-	define("DB_USER", "vrushain_mainusr");
+	define("DB_NAME", "bcayjamy_global_tamil_school");
+	define("DB_USER", "bcayjamy_mainusr");
 	define("DB_PASS", "Karthick@3030");
 
 	$sitepath='https://globaltamilschool.co.uk/';
