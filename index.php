@@ -7,8 +7,21 @@
 </head>
 <body>
 <?php include "header.php";?>
+<div class="title-component">
+  <h1>உலகளாவிய தமிழ்ப் பள்ளி<br>Global Tamil School</h1>
+</div>
 <div class="slider-portion">
   <div div class="slider1">
+  <div class="slide animation-edu-3 fadeInLeft"> <img src="img/homecarousel/2.jpg" alt="banner">
+      <div class="slider-caption animation-edu-5 fadeInLeft">
+        <div class="container">
+          <!--<h3>THE BEST EDUCATION</h3>-->
+          <h1><span>" சொல்லில் உயர்வு தமிழ்ச் சொல்லே</span></h1>
+          <h1><span> அதைத் தொழுது படித்திடடி பாப்பா " - பாரதி</span></h1>
+        </div>
+      </div>
+    </div>
+
 	  <div class="slide animation-edu-3 fadeInLeft"> <img src="img/homecarousel/1.jpg" alt="banner">
       <div class="slider-caption animation-edu-5 fadeInLeft">
         <div class="container">
@@ -20,22 +33,12 @@
       </div>
     </div>
 
-	  <div class="slide animation-edu-3 fadeInLeft"> <img src="img/homecarousel/2.jpg" alt="banner">
-      <div class="slider-caption animation-edu-5 fadeInLeft">
-        <div class="container">
-          <!--<h3>THE BEST EDUCATION</h3>-->
-          <h1><span>" Learning Language is fun </span></h1>
-          <h1><span> Learning mother tongue is fun with a pride"</span></h1>
-        </div>
-      </div>
-    </div>
-
     <div class="slide animation-edu-3 fadeInLeft"> <img src="img/homecarousel/3.jpg" alt="banner">
       <div class="slider-caption animation-edu-5 fadeInLeft">
         <div class="container">
           <!--<h3>THE BEST EDUCATION</h3>-->
           <h1><span>" Read, Write & Speak </span></h1>
-          <h1><span> Tamil language in very short period of time "</span></h1>
+          <h1><span> Tamil language in a very short period "</span></h1>
         </div>
       </div>
     </div>
@@ -54,8 +57,8 @@
       <div class="slider-caption animation-edu-5 fadeInLeft">
         <div class="container">
         <!--<h3>THE BEST EDUCATION</h3>-->
-          <h1><span>" தமிழ், மொழிமட்டுமல்ல.</span></h1>
-          <h1><span> ஒரு பண்பட்ட வாழ்க்கை முறை "</span></h1>
+          <h1><span>" ஒரு மொழியைக் கற்பது சிறப்பு</span></h1>
+          <h1><span> தாய் மொழியைக் கற்பது நமது பொறுப்பு "</span></h1>
         </div>
       </div>
     </div>
@@ -66,13 +69,18 @@
 <div class="page-content">
   <div class="container">
     <div class="heading ani">
-      <h1><span>உலகளாவிய தமிழ்ப் பள்ளி</span></h1>
-      <h2>தரணியெங்கும் தமிழ்த் தலைமுறை</h2>
-      <h1><span>Global Tamil School</span></h1>
+      <h2>உலகளாவிய தமிழ்ப் பள்ளி</h2>
+      <h1><span>தரணியெங்கும் தமிழ்த் தலைமுறை</span></h1>
     </div>
     <div class="welcome-content ani">
       <p>உலகளாவிய தமிழ்ப் பள்ளி, தமிழ் மொழியினை இணையவழியூடாக உலகமெங்கும் மாணவர்களுக்கு கற்பித்துக்கொண்டிருக்கிறது. சுலபமாகக் கற்கும் வகையிலும், மாணவர்களின் முன்னேற்றத்திற்கு உதவும் வகையிலுமான பாடத்திட்டங்களை தேர்ந்தெடுத்து வழங்கிக்கொடுள்ளோம். மிகவும் தரமான பணித்தாள்கள் மற்றும் மதிப்பீட்டு முறைகள் உபயோகப்படுத்துகிறோம். மிகவும் திருப்திகரமான எங்கள் மாணவர்கள் ஐக்கிய இராச்சியம், அமெரிக்கா, ஐரோப்பா, வளைகுடா நாடுகள், இந்தியா, சிங்கப்பூர், மலேசியா மற்றுமுள்ள உலகநாடுகளில் வசிக்கின்றனர்.</p>
       <p>தமிழ் மொழி மட்டுமல்லாமல் நாங்கள் பரதநாட்டியம், வயலின், தபேலா, வீணை, கர்நாடக சங்கீதம் போன்ற இந்திய நிகழ்த்தும் கலை வகுப்புகளையும் இணையவழியூடாக நடத்திக்கொண்டிருக்கிறோம்.</p>
+      <div class="read-welcome">
+        <a href="about-us.php">மேலும் படிக்க</a>
+      </div>
+      <div class="heading ani">
+        <h2>Global Tamil School</h2>
+      </div>
       <p>We are online Tamil school offering online Tamil language classes for the students from all over the world. We carefully chose the syllabus and teaching methods that helps the students growth. We provide students with high quality textbooks and learning materials, worksheets & assessment. We have happy students all around the world including UK, USA, Europe, UAE, India, Singapore, Malaysia etc.,</p>
       <p>Apart from Language classes we also provide online classes for the indian performing arts like Bharathanatyam, Violin, Tabla, Veenai, Carnatic vocals, etc., </p>
       <div class="read-welcome">
@@ -83,27 +91,15 @@
     <div id="owl-demo" class="owl-carousel ani">
       <div class="item wise-woods-icon">
         <img src="img/school.jpg" alt="img">
-        <div class="slide-test"><a href="courses.php">Syllabus</a></div>
+        <div class="slide-test"><a href="courses.php">பாடத்திட்டம்<br>Syllabus</a></div>
       </div>
       <div class="item wise-woods-icon">
         <img src="images/certificate_medal.jpg" alt="img">
-        <div class="slide-test"><a href="#">Awards</a></div>
+        <div class="slide-test"><a href="#">விருதுகள்<br>Awards</a></div>
       </div>
       <div class="item wise-woods-icon">
         <img src="images/Teaching_materials.jpg" alt="img">
-        <div class="slide-test"><a href="#">Worksheets</a></div>
-      </div>
-      <div class="item wise-woods-icon">
-        <img src="img/school.jpg" alt="img">
-        <div class="slide-test"><a href="#">Lorem Ipsum</a></div>
-      </div>
-      <div class="item wise-woods-icon">
-        <img src="img/school.jpg" alt="img">
-        <div class="slide-test"><a href="#">Lorem Ipsum</a></div>
-      </div>
-      <div class="item wise-woods-icon">
-        <img src="img/school.jpg" alt="img">
-        <div class="slide-test"><a href="#">Lorem Ipsum</a></div>
+        <div class="slide-test"><a href="#">பணித்தாள்கள்<br>Worksheets</a></div>
       </div>
     </div>
   </div>
@@ -113,8 +109,7 @@
   <div class="container">
     <div class="heading admi-head">
       <i class="fa fa-file-text applicaton_icon" aria-hidden="true"></i>
-      <h4>ENQUIRY</h4>
-      <!--<p>Wisewoods admits students based on their performance in the assessment test conducted on scheduled dates.</p>-->
+      <h4>விசாரணை<br>ENQUIRY</h4>
     </div>
     <div class="form-admision">
       <form enctype="multipart/form-data"  name="contact-enquiry" method="post" action="send-email.php">
@@ -170,34 +165,44 @@
     </div>
     <div class="col-md-4 smal-dev-clearfix ani">
       <div class="news-heading">
-        <h5><span>Important </span><br>
-        Dates</h5>
+        <h5><span>முக்கிய நாட்கள் </span><br>
+        Important Dates</h5>
       </div>
 
-      <!--Daete start-->
+      <!--Date start-->
       <div class="date-wise">
         <div class="date-time">
-          <p>22 </p>
+          <p>3 </p>
           <div class="clearfix"></div>
-          <span>Aug</span>
+          <span>Jan</span>
         </div>
         <div class="annual-day"></div>
-        <b>Cut off date to order books for year 2021</b><br>
-        <p>Register for the textbooks for this year. Books will be despatched once registered.</p>
+        <b>UK School closed for holidays</b><br>
+        <p>School is currently closed for the holidays. Classes will resume from 3-Jan in UK</p>
       </div>
-      <!--Daete end-->
 
-      <!--Daete start-->
       <div class="date-wise">
         <div class="date-time"> 
-          <p>06</p>
+          <p>TBD</p>
           <div class="clearfix"></div>
-          <span>Sep</span>
+          <span>Jan</span>
         </div>
         <div class="annual-day"></div>
-          <b>Term Starts</b><br>
-          <p>School will reopen from 6th day of September for new batches. </p>
+          <b>Malaysia school reopens</b><br>
+          <p>Malaysia classes will resume during Jan 2022 </p>
       </div>
+
+      <div class="date-wise">
+        <div class="date-time"> 
+          <p>TBD</p>
+          <div class="clearfix"></div>
+          <span>Jan</span>
+        </div>
+        <div class="annual-day"></div>
+          <b>USA school reopens</b><br>
+          <p>USA scool will reopen during Jan 2022 </p>
+      </div>
+      <!--Date end-->
 
       <div class="clearfix"></div>
 
@@ -212,14 +217,44 @@
     <div class="col-md-4 smal-dev-clearfix ani">
       <div class="news-heading">
         <h5><span>VIEW</span><br>
-        OUR VIDEO</h5>
+        தமிழ்மொழி வாழ்த்து - எங்கள் மாணவிகள்</h5>
       </div>
       <div class="video-img">
-        <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fglobaltamilschool%2Fvideos%2F161649862440406%2F&show_text=false&width=560&t=0" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+        <iframe src="https://www.youtube.com/embed/7KCGSsdO95c" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
       </div>
     </div>
   </div>
-                  
+  <br>
+  <br>
+  <br>
+
+  <div id="portfolio" class="clearfix">                  
+    <div class="col-md-3 col-sm-3 col-xs-6">
+        <iframe width="100%" height="250" src="https://www.youtube.com/embed/kYp-xJcUXTM" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+    </div>
+    <div class="col-md-3 col-sm-3 col-xs-6">
+        <iframe width="100%" height="250" src="https://www.youtube.com/embed/dw_uaY4qmYc" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+    </div>
+    <div class="col-md-3 col-sm-3 col-xs-6">
+        <iframe width="100%" height="250" src="https://www.youtube.com/embed/Jgn6V0BWcuU" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+    </div>
+    <div class="col-md-3 col-sm-3 col-xs-6">
+        <iframe width="100%" height="250" src="https://www.youtube.com/embed/JwVnEUcuwlo" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+    </div>
+    <div class="col-md-3 col-sm-3 col-xs-6">
+      <iframe width="100%" height="250" src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fglobaltamilschool%2Fvideos%2F486957496091985%2F&show_text=false&width=560&t=0" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+    </div>
+    <div class="col-md-3 col-sm-3 col-xs-6">
+      <iframe width="100%" height="250" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fglobaltamilschool%2Fphotos%2Fa.237647547938509%2F458616885841573%2F%3Ftype%3D3%26av%3D102199538149978%26eav%3DAfaa_uBGnsMldxmfLoAZprl9KBwiPiztjmqawuF2sHX5pj3wvk-K1zUWerkZXdBe074&show_text=true&width=500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+    </div>
+    <div class="col-md-3 col-sm-3 col-xs-6">
+      <iframe width="100%" height="250" src="https://www.youtube.com/embed/9_ifs8nT_NY" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+    </div>
+    <div class="col-md-3 col-sm-3 col-xs-6">
+      <iframe width="100%" height="250" src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fglobaltamilschool%2Fvideos%2F161649862440406%2F&show_text=false&width=560&t=0" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+    </div>
+  </div>
+  
   <div class="clearfix"></div>
 
   <div id="portfolio" class="clearfix">                  

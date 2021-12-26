@@ -9,13 +9,9 @@
 <div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v11.0" nonce="tnNgt6o9"></script>
 <?php include "header.php";?>
-<div class="slider-portion wisinsli inner_pg">
-<div class="slider1">
-   <div class="slide animation-edu-3">
-			<h1>BLOGS </h1>
-     </div>
-  </div>
-  </div>
+<div class="title-component">
+  <h1>வலைப்பதிவுகள்<br>BLOGS</h1>
+</div>
 
 <div class="clearfix"></div>
 <div class="page-content">

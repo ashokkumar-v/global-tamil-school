@@ -7,12 +7,8 @@
 </head>
 <body>
 <?php include "header.php";?>
-<div class="slider-portion wisinsli inner_pg">
-    <div class="slider1">
-        <div class="slide animation-edu-3 ">
-            <h1>OUR AFFILIATION</h1>
-        </div>
-    </div>
+<div class="title-component">
+  <h1>தொடர்பு நிறுவனங்கள்<br>OUR AFFILIATIONS</h1>
 </div>
 
 <div class="clearfix"></div>

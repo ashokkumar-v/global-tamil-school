@@ -7,19 +7,16 @@
 </head>
 <body>
 <?php include "header.php";?>
-<div class="slider-portion wisinsli inner_pg">
-  <div class="slider1">
-    <div class="slide animation-edu-3">
-			<h1>Global Tamil School</h1>
-    </div>
-  </div>
+<div class="title-component">
+  <h1>உலகளாவிய தமிழ்ப் பள்ளி<br>Global Tamil School</h1>
 </div>
 <div class="clearfix"></div>
 
 <div class="page-content">
   <div class="container">
     <div class="heading ani">
-      <h1>Branches<span>, Teachers & Committee</span></h1>
+      <h3>கிளைகள், ஆசிரியர்கள் மற்றும் குழு</h3>
+      <h3>Branches, Teachers & Committee</h3>
     </div>
     <!--study bg-->
     <div class="clearfix"></div>
@@ -56,7 +53,7 @@
           <div class="faculty-container">
             <h2 class="person-name">Mrs. Uma Devi Ashok Kumar</h2>
             <p class="faculty-title">Founder & Teacher</p>
-            <p>Global Tamil School, West Drayton, London</p>
+            <p>Global Tamil School, London, UK</p>
           </div>
         </div>
       </div>
@@ -150,6 +147,8 @@
   </div>
   <div class="clearfix"></div>
 </div>
+
+
 
 <div class="clearfix"></div>
 <div class="page-content">

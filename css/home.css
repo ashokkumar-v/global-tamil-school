@@ -1,0 +1,21 @@
+.title-component {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.title-component h1 {
+  font:52px/13px 'sans-serif';
+  font-weight: 750;
+  line-height: 1.75;
+	color:#FFF;
+  background-color: #720606;
+  margin: 0;
+  padding: 0;
+}
+
+@media screen and (max-width: 768px) {
+  .title-component h1 {
+    font-size: 28px;
+  }
+}

@@ -54,14 +54,14 @@
         <i class="fa fa-map-marker map_icon" aria-hidden="true"></i>
         <p>73 Brecon Lodge<br>
         3 Wintergreen Boulevard<br>
-        West Drayton, London UB7 9FR</p>
+        West Drayton, London UB7 9GJ</p>
       </div>
     </div>
     <div class="col-md-4 col-sm-4 br-addr ani">
       <div class="conta-addr">
         <i class="fa fa-mobile mob_icon" aria-hidden="true"></i>
-        <p>Principal Mobile No: +44 74597 13276</p>
-        <p>Mobile No: +44 74382 17913</p>
+        <p>UK Mobile No: +44 74597 13276</p>
+        <p>Malaysia Mobile No: +60 11 3539 3014</p>
       </div>
     </div>
     <div class="col-md-4 col-sm-4 ani">

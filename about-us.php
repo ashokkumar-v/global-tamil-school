@@ -7,14 +7,9 @@
 </head>
 <body>
 <?php include "header.php";?>
-<div class="slider-portion wisinsli inner_pg">
-  <div class="slider1">
-    <div class="slide animation-edu-3 ">
-      <h1>Welcome to <span>Global Tamil School</span></h1>
-    </div>
-  </div>
+<div class="title-component">
+  <h1>உலகளாவிய தமிழ்ப் பள்ளி<br>Global Tamil School</h1>
 </div>
-
 <div class="clearfix"></div>
 
 <div class="page-content">
@@ -27,9 +22,11 @@
       </div>
       <div class="col-md-12 ani">
       <div class="about-content">
+        <p>தமிழ்மொழியை உலகம் முழுவதும் அதிக எண்ணிக்கையிலான மாணவர்களுக்கு இணைய வழியூடாகக் கற்பிக்கும் முதல் தமிழ்ப் பள்ளி உலகளாவிய தமிழ்ப் பள்ளி என்பதில் பெருமிதம் கொள்கிறோம். மாணவர்களின் வளர்ச்சிக்கு உதவும் வகையிலான பாடத்திட்டங்களை மிகக்கவனமாக தேர்ந்தெடுத்து பயிற்றுவிக்கிறோம். மிகச்சிறந்த தரமான பாடநூல்கள், பணித்தாள்கள் மற்றும் மதிப்பீட்டுத்தாள்கள் கொண்டு தமிழ்மொழியைக் கற்றுக்கொடுக்கிறோம். ஐக்கிய இராச்சியம், அமெரிக்கா, ஐரோப்பா, வளைகுடா நாடுகள், இந்தியா, சிங்கப்பூர், மலேசியா போன்ற நாடுகளிலிருந்து நூற்றுக்கணக்கான மாணவர்கள் எங்களிடம் தமிழ் மொழியைக் கற்றுக்கொண்டிருக்கின்றனர்.</p>
+        <p>தமிழ் மொழியுடன், தமிழ்க்கலைகளையும் வளர்க்கும் விதமாக இந்திய நிகழ்த்தும் கலைகளுக்கும் வகுப்புகள் நடத்தி சர்வதேச பரீட்சைச்  சபையின் மூலமாக சான்றிதழ்கள் வழங்குகிறோம்.</p>
+        <p class="emp">"தேமதுரத் தமிழோசை உலகமெல்லாம் பரவும் வகை செய்தல் வேண்டும்."</p>
         <p>We are the first online Tamil school in UK with more number of students from all around the world learning Tamil language. We carefully chose the syllabus that helps students in their growth. We provide the students with high quality textbooks and learning materials, effective worksheets, and assessment. We have happy students all around the world including UK, USA, Europe, UAE, India, Singapore, Malaysia etc.,</p>
         <p>We also take classes for the Indian performing arts & provide opportunity to the students to getting certification from International examination board.</p>
-        <p class="emp">"தேமதுரத் தமிழோசை உலகமெல்லாம் பரவும் வகை செய்தல் வேண்டும்."</p>
         <h1>MISSION</h1>
         <p>We believe that a happy child is a successful one. We are committed to providing a positive, safe and stimulating environment for children to learn, where all the effort and knowledge are valued. We intend that all children should enjoy their learning, achieve their potential and become independent life-long learners.</p>
         <p>To establish trust with the parents on our teaching and teaching meathods.</p>

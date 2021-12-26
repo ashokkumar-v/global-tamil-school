@@ -5,7 +5,7 @@
       <img src="img/GTS-logo.png" alt="logo" style="width:100%;"/><br>
       <div class="social">
         <a href="https://www.facebook.com/globaltamilschool" target="_blank"><img src="img/facebook.png" alt="social"/></a>
-        <a href="https://www.youtube.com/channel/UCLKvkShSFLNBk7zkduS-YFQ" target="_blank"><img src="images/you-tube-icon.png" alt="social"/></a>
+        <a href="https://www.youtube.com/channel/UC5EIQagW7HUq4i_8zcyOa8Q" target="_blank"><img src="images/you-tube-icon.png" alt="social"/></a>
       </div>
     </div>
   </div>
@@ -14,15 +14,15 @@
       <h4>Quick Links</h4>
       <div class="col-md-6 no-pad-cxs no-pad-cxs">
         <ul class="quick-text">
-          <li><a href="index.php">Home </a></li>
+          <li><a href="/">Home </a></li>
           <li><a href="about-us.php">About us </a></li>
           <li><a href="curriculam.php">Online classes & Syllabus </a></li>
         </ul>
       </div>
       <div class="col-md-6 no-pad-cxs no-pad-cxs">
         <ul class="quick-text">
-          <li><a href="faculty.php">Branches, Teachers & Committee </a></li>
           <li><a href="affiliations.php">Our Affiliations</a></li>
+          <li><a href="faculty.php">Branches, Teachers & Committee </a></li>
         </ul>
       </div>
     </div>
@@ -39,18 +39,17 @@
   <div class="col-md-3 col-sm-6 col-xs-6 wth-smal ani">
     <div class="quick-links">
       <h4>Contact Us</h4>
-      <div class="address-fotter">
-        <p>73 Brecon Lodge,<br>
-        3 Wintergreen Boulevard 
-        West Drayton<br>
-        London - UB7 9FR</p>
+      <div class="address-footer">
+        <p><b>UK Branch:</b> 73 Brecon Lodge, 4 Wintergreen Boulevard, West Drayton, London - UB7 9GJ</p>
+        <p><b>Based:</b> Melvin Hall, Community Centre, London SE20 8EU<p>
+        <p><b>Correspondence:</b> 15 Bowmead, Mottingham, London SE9 3NL<p>
       </div>
-      <div class="phone-fotter">
-        <p>+44 74597 13276, +44 74382 17913</p>
-        <div class="emailaddress">
-          <i class="fa fa-envelope" aria-hidden="true"></i>
-          <a href="mailto:admin@globaltamilschool.co.uk">admin@globaltamilschool.co.uk</a>
-        </div>
+      <div class="phone-footer">
+        <p><b>UK:</b> +44 74597 13276, +44 74382 17913</p>
+        <p><b>Malaysia:</b> +60 11 3539 3014</p>
+      </div>
+      <div class="emailaddress email-footer">
+        <a href="mailto:admin@globaltamilschool.co.uk">admin@globaltamilschool.co.uk</a>
       </div>
     </div>
   </div>

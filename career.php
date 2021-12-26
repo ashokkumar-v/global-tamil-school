@@ -7,12 +7,14 @@
 </head>
 <body>
 <?php include "header.php";?>
-
-<div class="slider-portion wisinsli">
+<div class="title-component">
+  <h1>வேலைவாய்ப்பு<br>CAREER</h1>
+</div>
+<!-- <div class="slider-portion wisinsli">
     <div class="slider1">
         <div class="slide animation-edu-3 fadeInDown"> <img src="img/career-banner.png" alt="banner"></div>
     </div>
-</div>
+</div> -->
 
 <div class="clearfix"></div>
 
@@ -31,10 +33,8 @@
                 <div class="school-blk">
                     <p><span>Tamil Language Teachers (Online)</span></p>
                     <p><span>Teachers for spoken Tamil (Online)</span></p>
-                    <p><span>Web Designers</span></p>
                 </div>
             </div>
-            
             <div class="col-md-6  col-sm-6 no-pad-school">
                 <div class="school-blk">
             </div>
@@ -44,6 +44,9 @@
 
     <div class="clearfix"></div>
 </div>
+<br>
+<br>
+<br>
 <?php include "footer.php";?>
 
 <?php include "js.php";?>

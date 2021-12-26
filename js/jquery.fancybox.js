@@ -99,7 +99,7 @@ $(window).scroll(function () {
 
 jQuery(window).scroll(function() {
 	if(jQuery(window).scrollTop() >= 100) {
-		jQuery('.menu-part').css({position:'fixed',left:0,right:0,top:0,display:'block'});
+		jQuery('.menu-part').css({position:'fixed',left:0,right:0,top:0,display:'block',zIndex:999});
 		jQuery('.logo-gts').css({width:'100%','margin-top':'0px'});
 		
 	}

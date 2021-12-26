@@ -1,5 +1,6 @@
 @charset "utf-8";
 @import './faculty.css';
+@import './home.css';
 /* CSS Document */
 body{font-family: 'Dosis', sans-serif;}
 @font-face {
@@ -145,14 +146,14 @@ color:#fff !important;
     padding:6px 14px;
 	outline:0;
 }
-.navbar-nav > li:last-child {
+/* .navbar-nav > li:last-child {
     background-image:none;
-}
-.nav > li:last-child > a {
+} */
+/* .nav > li:last-child > a {
     padding: 6px 0px;
-}
+} */
 .no-pad-sd{padding:0px;}
-header{position:absolute;z-index:999;width:100%;}
+header{z-index:999;width:100%;}
 .menu-part {
     background: #fff;
     -webkit-box-shadow: 0 8px 6px -6px #b7b7b7;
@@ -202,6 +203,9 @@ text-align:center;  margin: 0 auto;  margin-top: 30px; margin-bottom: 50px;  dis
 .headinggallery ul li a.active{ background-color:#720606; color:#fff; border-radius: 5px; padding:10px 10px;}
 .headinggallery ul li a:hover{ color:#720606;}
 
+@media screen and (max-width: 768px) {
+    .heading h2{width:80%}
+}
 
 /*font icon*/
 @media screen and (-webkit-min-device-pixel-ratio:0) {
@@ -397,23 +401,33 @@ ul.quick-text li a {
     position: relative;
 }
 .no-pad-cxs{padding:0px;}
-.address-fotter:before {
+.address-footer:before {
     content: url(../images/location-footer.png);
     float: left;
     padding-right: 15px;
     padding-bottom: 25px;
 }
-.phone-fotter:before {
-    content: url(../images/phone-footer.png);
+.phone-footer:before {
+    content: url(../images/mob-phone.png);
     float: left;
     padding-right: 10px;
     padding-bottom: 10px;
 }
-.phone-fotter p {
+.email-footer:before {
+    content: url(../images/email.png);
+    float: left;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+.phone-footer p {
     font: 14px/24px 'Dosis';
     color: #ffffff;
 }
-.address-fotter p {
+.address-footer p {
+    font: 14px/24px 'Dosis';
+    color: #ffffff;
+}
+.email-footer a {
     font: 14px/24px 'Dosis';
     color: #ffffff;
 }
@@ -915,10 +929,10 @@ border-radius:5px; display: inline-block; margin-top:10px;}
 .news-letter ::placeholder{ color:#aeaeae;}
 .news-letter .form-group{ display: inline-block; vertical-align: top; position: relative;}
 .news-letter .form-control{ border: solid 1px #f2f2f2; color:#aeaeae; width: inherit; display: inline-block;}
-.news-letter .form-control.submit{border: solid 1px #d4d4d4; color:##aeaeae; font: 17px/24px 'Dosis'; width:100%;}
+.news-letter .form-control.submit{border: solid 1px #d4d4d4; color:#aeaeae; font: 17px/24px 'Dosis'; width:100%;}
 .news-letter .form-control.txt_area{ height:40px !important; background: none;border: solid 1px #720606; color:#720606;}
 .news-letter .form-group label{} 
-.news-letter .form-group.100p{ width:100%;}
+.news-letter .form-group{ width:100%;}
 
 
 .contact-enq ::placeholder{ color:#717171;}
