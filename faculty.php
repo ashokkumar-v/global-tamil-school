@@ -26,6 +26,7 @@
         <div class="card">
           <img src="img/people/SivaPillai.jpg" alt="Sivapillai" style="width:100%">
           <div class="faculty-container">
+            <h2 class="person-name">உயர்திரு. சிவா பிள்ளை</h2>
             <h2 class="person-name">Mr. Siva Pillai</h2>
             <p class="faculty-title">Advisor</p>
             <p>Chairperson - British Tamil Examination Board, UK</p>
@@ -37,6 +38,7 @@
         <div class="card">
           <img src="img/people/Jebaraj.jpg" alt="Jebaraj" style="width:100%">
           <div class="faculty-container">
+            <h2 class="person-name">முனைவர். ஜெபராஜ் தேவதாசன்</h2>
             <h2 class="person-name">Dr. Jebaraj Devadasan</h2>
             <p class="faculty-title">Advisor</p>
             <p>Dean - Department of Physics</p>
@@ -51,6 +53,7 @@
         <div class="card">
           <img src="img/people/Photo_UmaAshok.jpg" alt="Uma" style="width:100%">
           <div class="faculty-container">
+            <h2 class="person-name">திருமதி. உமாதேவி அசோக்குமார்</h2>
             <h2 class="person-name">Mrs. Uma Devi Ashok Kumar</h2>
             <p class="faculty-title">Founder & Teacher</p>
             <p>Global Tamil School, London, UK</p>
@@ -62,6 +65,7 @@
         <div class="card">
           <img src="img/people/RadhikaHarish.jpg" alt="Radhika" style="width:100%">
           <div class="faculty-container">
+            <h2 class="person-name">திருமதி. ராதிகா ஹரீஷ்</h2>
             <h2 class="person-name">Mrs. Radhika Harish</h2>
             <p class="faculty-title">Co-Founder & Teacher</p>
             <p>Global Tamil School, Malaysia</p>
@@ -76,6 +80,7 @@
         <div class="card">
           <img src="img/people/SanjiyaSenthil.jpg" alt="Sanjiya" style="width:100%">
           <div class="faculty-container">
+            <h2 class="person-name">திருமதி. சஞ்சியா செந்தில்</h2>
             <h2 class="person-name">Mrs. Sanjiya Senthil</h2>
             <p class="faculty-title">Teacher</p>
             <p>Gobal Tamil School - Harrow, UK</p>
@@ -85,10 +90,23 @@
 
       <div class="faculty-column">
         <div class="card">
+          <img src="img/people/LindaJohnson.jpeg" alt="Linda Johnson" style="width:100%">
+          <div class="faculty-container">
+            <h2 class="person-name">திருமதி. லிண்டா ஜான்சன்</h2>
+            <h2 class="person-name">Mrs. Linda Johnson</h2>
+            <p class="faculty-title">Teacher</p>
+            <p>Gobal Tamil School - Hounslow, UK</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="faculty-column">
+        <div class="card">
           <img src="img/people/SumathiAnandhan.jpg" alt="Sumathi" style="width:100%">
           <div class="faculty-container">
+            <h2 class="person-name">திருமதி. சுமதி ஆனந்தன்</h2>
             <h2 class="person-name">Mrs. Sumathi Anandan</h2>
-            <p class="faculty-title">Senior Teacher</p>
+            <p class="faculty-title">Teacher</p>
             <p>Global Tamil School - Seattle, USA</p>
           </div>
         </div>
@@ -98,8 +116,23 @@
         <div class="card">
           <img src="img/people/Krishnapriya.jpg" alt="Krishnapriya" style="width:100%">
           <div class="faculty-container">
+            <h2 class="person-name">திருமதி. கிருஷ்ண பிரியா</h2>
             <h2 class="person-name">Mrs. Krishna Priya</h2>
-            <p class="faculty-title">Senior Teacher</p>
+            <p class="faculty-title">Teacher</p>
+            <p>Global Tamil School - India</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <div class="container">
+      <div class="faculty-column">
+        <div class="card">
+          <img src="img/people/SaravanaVenkatesan.jpeg" alt="SaravanaVenkatesan" style="width:100%">
+          <div class="faculty-container">
+            <h2 class="person-name">திரு. சரவணவெங்கடேசன்</h2>
+            <h2 class="person-name">Mr. Saravanavenkatesan</h2>
+            <p class="faculty-title">Teacher</p>
             <p>Global Tamil School - India</p>
           </div>
         </div>
@@ -114,7 +147,8 @@
         <div class="card">
           <img src="img/people/Photo_UdhayaBoopathy.png" alt="Udhaya" style="width:100%">
           <div class="faculty-container">
-            <h4>Isaikalaimani</h4>
+            <h4>இசைக்கலைமணி</h4>
+            <h2 class="person-name">திருமதி. உதயா பூபதி</h2>
             <h2 class="person-name">Mrs. Udhaya Bhoopathy</h2>
             <p class="faculty-title">Teacher</p>
             <p>Carnatic Vocals</p>
@@ -126,6 +160,7 @@
         <div class="card">
           <img src="img/people/ChristetaRani.jpg" alt="Christita" style="width:100%">
           <div class="faculty-container">
+            <h2 class="person-name">திருமதி. கிறிஸ்டிடா சகாயராணி</h2>
             <h2 class="person-name">Mrs. Christeta Sagaya Rani</h2>
             <p class="faculty-title">Teacher</p>
             <p>Bharathanatyam</p>
@@ -137,6 +172,7 @@
         <div class="card">
           <img src="img/people/GeraldJames.jpg" alt="Gerald" style="width:100%">
           <div class="faculty-container">
+            <h2 class="person-name">திரு. ஜெரால்டு ஜேம்ஸ்</h2>
             <h2 class="person-name">Mr. Gerald James</h2>
             <p class="faculty-title">Teacher</p>
             <p>Keyboard & Guitar</p>

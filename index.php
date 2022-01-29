@@ -35,11 +35,10 @@
 
     <div class="slide animation-edu-3 fadeInLeft"> <img src="img/homecarousel/3.jpg" alt="banner">
       <div class="slider-caption animation-edu-5 fadeInLeft">
-        <div class="container">
-          <!--<h3>THE BEST EDUCATION</h3>-->
+        <!-- <div class="container">
           <h1><span>" Read, Write & Speak </span></h1>
           <h1><span> Tamil language in a very short period "</span></h1>
-        </div>
+        </div> -->
       </div>
     </div>
 	
