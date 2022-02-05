@@ -12,7 +12,7 @@
 </div>
 <div class="slider-portion">
   <div div class="slider1">
-  <div class="slide animation-edu-3 fadeInLeft"> <img src="img/homecarousel/2.jpg" alt="banner">
+  <div class="slide animation-edu-3 fadeInLeft"> <img src="img/homecarousel/2.png" alt="banner">
       <div class="slider-caption animation-edu-5 fadeInLeft">
         <div class="container">
           <!--<h3>THE BEST EDUCATION</h3>-->
@@ -22,7 +22,7 @@
       </div>
     </div>
 
-	  <div class="slide animation-edu-3 fadeInLeft"> <img src="img/homecarousel/1.jpg" alt="banner">
+	  <div class="slide animation-edu-3 fadeInLeft"> <img src="img/homecarousel/1.png" alt="banner">
       <div class="slider-caption animation-edu-5 fadeInLeft">
         <div class="container">
            <!-- <h3>THE BEST EDUCATION</h3> -->
@@ -33,7 +33,7 @@
       </div>
     </div>
 
-    <div class="slide animation-edu-3 fadeInLeft"> <img src="img/homecarousel/3.jpg" alt="banner">
+    <div class="slide animation-edu-3 fadeInLeft"> <img src="img/homecarousel/3.png" alt="banner">
       <div class="slider-caption animation-edu-5 fadeInLeft">
         <!-- <div class="container">
           <h1><span>" Read, Write & Speak </span></h1>
@@ -46,13 +46,13 @@
       <div class="slider-caption animation-edu-5 fadeInLeft">
         <div class="container">
         <!--<h3>THE BEST EDUCATION</h3>-->
-          <h1><span>" தமிழ், சொல்வளம் நிறைந்த மொழி. நவீனத் </span></h1>
-          <h1><span> தமிழ்மொழி பழமையான பெரும்பாலான சொற்களை இன்றும் பயன்படுத்துகின்றது "</span></h1>
+          <h1><span>" தமிழ், சொல்வளம் நிறைந்த மொழி. "</span></h1>
+          <!-- <h1><span> தமிழ்மொழி பழமையான பெரும்பாலான சொற்களை இன்றும் பயன்படுத்துகின்றது "</span></h1> -->
         </div>
       </div>
     </div>
 
-    <div class="slide animation-edu-3 fadeInLeft"> <img src="img/homecarousel/5.jpg" alt="banner">
+    <div class="slide animation-edu-3 fadeInLeft"> <img src="img/homecarousel/5.png" alt="banner">
       <div class="slider-caption animation-edu-5 fadeInLeft">
         <div class="container">
         <!--<h3>THE BEST EDUCATION</h3>-->

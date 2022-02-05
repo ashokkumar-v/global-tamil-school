@@ -10,6 +10,9 @@
     .onetime-payment h3 {
         margin-top: 15px;
     }
+    .slider-caption h1 {
+        font: 30px/28px 'Dosis';
+    }
 }
 
 @media (max-width: 991px) {
@@ -132,7 +135,7 @@
     width: 100%;
 }
 .slider-caption h1 {
-    font: 33px/30px 'Dosis';
+    font: 30px/28px 'Dosis';
 }
 .t-shape-cont img{display:block;margin-left:auto;margin-right:auto;}
 .full-t-shape p {
@@ -284,6 +287,11 @@ nav.navbar.navbar-inverse.no-pad-sd.menu-smal-dev {
     padding-bottom: 45px;
     line-height: 25px;
 }
+
+.slider-caption h1{
+    font: 22px/20px 'Dosis';
+    margin-bottom: 10px;
+}
 }
 
 @media (max-width:560px) {
@@ -339,7 +347,8 @@ footer {
 	
 }
 .slider-caption h1{
-margin-bottom: 10px;
+    font: 18px/16px 'Dosis';
+    margin-bottom: 10px;
 }
 .slider-caption h1 span {
     padding: 0px 5px;
@@ -375,7 +384,7 @@ margin-bottom: 10px;
     float: none;
 }
 .slider-caption h1 {
-    font: 15px/10px 'Dosis';
+    font: 15px/13px 'Dosis';
     margin-top: 0px;
 }
 .slider-caption h3 {
