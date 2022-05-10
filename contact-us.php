@@ -15,7 +15,7 @@
 </div>
 
 <div class="clearfix"></div>
-<div class="container">
+<!-- <div class="container">
   <div class="contact-form">
     <div class="heading ani">
       <h1>FEEDBACK <span>FORM</span></h1>
@@ -45,7 +45,7 @@
       </form>	
     </div>
   </div>
-</div>
+</div> -->
 <div class="clearfix"></div>
 <div class="container">
   <div class="contact-information">
@@ -53,7 +53,7 @@
       <div class="conta-addr">
         <i class="fa fa-map-marker map_icon" aria-hidden="true"></i>
         <p>73 Brecon Lodge<br>
-        3 Wintergreen Boulevard<br>
+        4 Wintergreen Boulevard<br>
         West Drayton, London UB7 9GJ</p>
       </div>
     </div>
