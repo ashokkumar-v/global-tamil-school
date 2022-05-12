@@ -12,23 +12,23 @@
 </div>
 <div class="slider-portion">
   <div div class="slider1">
-  <div class="slide animation-edu-3 fadeInLeft"> <img src="img/homecarousel/2.png" alt="banner">
+    <div class="slide animation-edu-3 fadeInLeft"> <img src="img/homecarousel/1.jpg" alt="banner">
       <div class="slider-caption animation-edu-5 fadeInLeft">
         <div class="container">
           <!--<h3>THE BEST EDUCATION</h3>-->
-          <h1><span>" சொல்லில் உயர்வு தமிழ்ச் சொல்லே</span></h1>
-          <h1><span> அதைத் தொழுது படித்திடடி பாப்பா " - பாரதி</span></h1>
+          <h1><span> பட்டமளிப்பு விழா - இலண்டன் மாணவர்கள் </span></h1>
+          <h1><span> BTEB 2021 exams </span></h1>
         </div>
       </div>
     </div>
 
-	  <div class="slide animation-edu-3 fadeInLeft"> <img src="img/homecarousel/1.png" alt="banner">
+	  <div class="slide animation-edu-3 fadeInLeft"> <img src="img/homecarousel/2.jpg" alt="banner">
       <div class="slider-caption animation-edu-5 fadeInLeft">
         <div class="container">
            <!-- <h3>THE BEST EDUCATION</h3> -->
-          <h1><span>" 2500 ஆண்டுகளுக்கும் மேல் பழமை வாய்ந்த </span></h1>
-          <h1><span> இலக்கிய மரபைக் கொண்டுள்ளது தமிழ் மொழி "</span></h1>
-          <a href="https://en.wikipedia.org/wiki/Tamil_language" target="_blank">READMORE</a>
+          <h1><span> உலகளாவிய தமிழ்ப் பள்ளி - ஆண்டு விழா 2022 </span></h1>
+          <h1><span> கலந்துகொண்ட மாணவர்கள் </span></h1>
+          <!-- <a href="https://en.wikipedia.org/wiki/Tamil_language" target="_blank">READMORE</a> -->
         </div>
       </div>
     </div>
@@ -58,6 +58,27 @@
         <!--<h3>THE BEST EDUCATION</h3>-->
           <h1><span>" ஒரு மொழியைக் கற்பது சிறப்பு</span></h1>
           <h1><span> தாய் மொழியைக் கற்பது நமது பொறுப்பு "</span></h1>
+        </div>
+      </div>
+    </div>
+
+    <div class="slide animation-edu-3 fadeInLeft"> <img src="img/homecarousel/6.png" alt="banner">
+      <div class="slider-caption animation-edu-5 fadeInLeft">
+        <div class="container">
+          <!--<h3>THE BEST EDUCATION</h3>-->
+          <h1><span>" சொல்லில் உயர்வு தமிழ்ச் சொல்லே</span></h1>
+          <h1><span> அதைத் தொழுது படித்திடடி பாப்பா " - பாரதி</span></h1>
+        </div>
+      </div>
+    </div>
+
+	  <div class="slide animation-edu-3 fadeInLeft"> <img src="img/homecarousel/7.png" alt="banner">
+      <div class="slider-caption animation-edu-5 fadeInLeft">
+        <div class="container">
+           <!-- <h3>THE BEST EDUCATION</h3> -->
+          <h1><span>" 2500 ஆண்டுகளுக்கும் மேல் பழமை வாய்ந்த </span></h1>
+          <h1><span> இலக்கிய மரபைக் கொண்டுள்ளது தமிழ் மொழி "</span></h1>
+          <a href="https://en.wikipedia.org/wiki/Tamil_language" target="_blank">READMORE</a>
         </div>
       </div>
     </div>
@@ -104,7 +125,7 @@
   </div>
 </div>
 <div class="clearfix"></div>
-<div class="apply-for-admission ani">
+<!-- <div class="apply-for-admission ani">
   <div class="container">
     <div class="heading admi-head">
       <i class="fa fa-file-text applicaton_icon" aria-hidden="true"></i>
@@ -151,7 +172,7 @@
       </form>	
     </div>
   </div>
-</div>
+</div> -->
 <div class="clearfix"></div>
 <div class="wise-woods-news">
   <div class="container">
@@ -159,8 +180,15 @@
       <div class="news-heading">
         <h5><span>Academic Year 2021-2022</h5>
       </div>
-      <p>Examination for the academic year 2020-2021 is completed successfully and 100% online. Thanks for the students & the parents. Online classes for the Academic year 2021-2022 will start from 7rd September 2021.</p>
+      <p>BTEB Examination for the academic year 2021-2022 is scheduled on 25th June 2022. Please register now.</p>
       <a href="#" style="text-transform:uppercase; color:#00847a;">Read more</a>
+
+      <div class="news-heading">
+        <h5><span>Annual Day 2022</h5>
+      </div>
+      <p>A small glimpse of Global Tamil School's Annual Day event in UK</p>
+      <iframe width="100%" height="250" src="https://www.youtube.com/embed/Xw0v7gjYoLo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <!-- <a href="#" style="text-transform:uppercase; color:#00847a;">Read more</a> -->
     </div>
     <div class="col-md-4 smal-dev-clearfix ani">
       <div class="news-heading">
@@ -171,24 +199,24 @@
       <!--Date start-->
       <div class="date-wise">
         <div class="date-time">
-          <p>3 </p>
+          <p>25 </p>
           <div class="clearfix"></div>
-          <span>Jan</span>
+          <span>Jun</span>
         </div>
         <div class="annual-day"></div>
-        <b>UK School closed for holidays</b><br>
-        <p>School is currently closed for the holidays. Classes will resume from 3-Jan in UK</p>
+        <b>BTEB Exams 2022</b><br>
+        <p>Please register now for the exams in June 2022</p>
       </div>
 
       <div class="date-wise">
         <div class="date-time"> 
-          <p>TBD</p>
+          <p>30</p>
           <div class="clearfix"></div>
-          <span>Jan</span>
+          <span>Apr</span>
         </div>
         <div class="annual-day"></div>
-          <b>Malaysia school reopens</b><br>
-          <p>Malaysia classes will resume during Jan 2022 </p>
+          <b>Annual Day 2022</b><br>
+          <p>Annual Day celebrations in West Drayton, UK.</p>
       </div>
 
       <div class="date-wise">
@@ -227,18 +255,21 @@
   <br>
   <br>
 
-  <div id="portfolio" class="clearfix">                  
+  <div id="portfolio" class="clearfix">
     <div class="col-md-3 col-sm-3 col-xs-6">
-        <iframe width="100%" height="250" src="https://www.youtube.com/embed/kYp-xJcUXTM" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+      <iframe width="100%" height="250" src="https://www.youtube.com/embed/T98Tv-M_LgY" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
     </div>
     <div class="col-md-3 col-sm-3 col-xs-6">
-        <iframe width="100%" height="250" src="https://www.youtube.com/embed/dw_uaY4qmYc" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+      <iframe width="100%" height="250" src="https://www.youtube.com/embed/kYp-xJcUXTM" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
     </div>
     <div class="col-md-3 col-sm-3 col-xs-6">
-        <iframe width="100%" height="250" src="https://www.youtube.com/embed/Jgn6V0BWcuU" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+      <iframe width="100%" height="250" src="https://www.youtube.com/embed/dw_uaY4qmYc" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
     </div>
     <div class="col-md-3 col-sm-3 col-xs-6">
-        <iframe width="100%" height="250" src="https://www.youtube.com/embed/JwVnEUcuwlo" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+      <iframe width="100%" height="250" src="https://www.youtube.com/embed/Jgn6V0BWcuU" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+    </div>
+    <div class="col-md-3 col-sm-3 col-xs-6">
+      <iframe width="100%" height="250" src="https://www.youtube.com/embed/JwVnEUcuwlo" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
     </div>
     <div class="col-md-3 col-sm-3 col-xs-6">
       <iframe width="100%" height="250" src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fglobaltamilschool%2Fvideos%2F486957496091985%2F&show_text=false&width=560&t=0" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>

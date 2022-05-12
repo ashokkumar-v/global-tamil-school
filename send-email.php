@@ -76,7 +76,8 @@ $headers = "MIME-Version: 1.0" . "\r\n";
 $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
 $headers .= 'From: ' .$from_email. "\r\n";
 $headers .= "Bccc: $bcc_mail\r\n"; #Your BCC Mail List
-mail($to_mail_admin, $subject_admin, $mail_body_admin, $headers)  ?> 
+// TODO - Uncomment to enable email functionality
+// mail($to_mail_admin, $subject_admin, $mail_body_admin, $headers)  ?> 
 <script>window.location.href='/';</script>
 
 <?php 
