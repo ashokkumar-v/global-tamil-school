@@ -31,7 +31,7 @@
     <div class="quick-links width-cam-block">
       <h4>Quick Links</h4>
       <ul class="quick-text">
-        <li><a href="career.php">Careers</a></li>
+        <!-- <li><a href="career.php">Careers</a></li> -->
         <li><a href="contact-us.php">Contact us</a></li>
       </ul>
     </div>

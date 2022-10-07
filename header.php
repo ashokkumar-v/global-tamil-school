@@ -95,7 +95,7 @@
                       <li><a href="blog.php">Blog</a></li>
                       <li><a href="newsletter.php">Newsletters </a></li>
                     </ul>
-                  <li><a href="career.php">Careers</a></li>
+                  <!-- <li><a href="career.php">Careers</a></li> -->
                   <li><a href="contact-us.php">Contact us</a></li>
                 </ul>
               </div>

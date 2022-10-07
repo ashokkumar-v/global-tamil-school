@@ -23,6 +23,9 @@
         <div class="heading"></div>
         <div class="campus-wtdh">
             <div class="block-big-img">
+                <p>Sorry we do not have any open positions</p>
+            </div>
+            <!-- <div class="block-big-img">
                 <img src="img/school.jpg" alt="school" class="img-responsive"/>
                 <h1 style="text-align: center;">Careers with us</h1>
                 <p>The Global Tamil School is an Equal Opportunity Employer and encourages the recruitment and retention of qualified teachers for all positions. We at GTS encourages eligile teachers of all fine arts to seek employment with us.</p>
@@ -34,7 +37,7 @@
                     <p><span>Tamil Language Teachers (Online)</span></p>
                     <p><span>Teachers for spoken Tamil (Online)</span></p>
                 </div>
-            </div>
+            </div> -->
             <div class="col-md-6  col-sm-6 no-pad-school">
                 <div class="school-blk">
             </div>
