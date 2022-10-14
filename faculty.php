@@ -149,6 +149,18 @@
           </div>
         </div>
       </div>
+
+      <div class="faculty-column">
+        <div class="card">
+          <img src="img/people/PadmaSridhar.jpg" alt="PadmaSridhar" style="width:100%">
+          <div class="faculty-container">
+            <h2 class="person-name">திருமதி. பத்மா ஸ்ரீதர்</h2>
+            <h2 class="person-name">Mrs. Padma Sridhar</h2>
+            <p class="faculty-title">Teacher</p>
+            <p>Global Tamil School - India</p>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 

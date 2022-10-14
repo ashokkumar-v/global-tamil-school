@@ -180,7 +180,7 @@
       <div class="news-heading">
         <h5><span>Academic Year 2021-2022</h5>
       </div>
-      <p>BTEB Examination for the academic year 2021-2022 is scheduled on 25th June 2022. Please register now.</p>
+      <p>BTEB Examination for the academic year 2021-2022 is successfully completed. BTEB awarding ceremeony is conducted in Croydon on 4th November 2022.</p>
       <a href="#" style="text-transform:uppercase; color:#00847a;">Read more</a>
 
       <div class="news-heading">
@@ -198,25 +198,14 @@
 
       <!--Date start-->
       <div class="date-wise">
-        <div class="date-time">
-          <p>25 </p>
-          <div class="clearfix"></div>
-          <span>Jun</span>
-        </div>
-        <div class="annual-day"></div>
-        <b>BTEB Exams 2022</b><br>
-        <p>Please register now for the exams in June 2022</p>
-      </div>
-
-      <div class="date-wise">
         <div class="date-time"> 
-          <p>30</p>
+          <p>14</p>
           <div class="clearfix"></div>
-          <span>Apr</span>
+          <span>Oct</span>
         </div>
         <div class="annual-day"></div>
-          <b>Annual Day 2022</b><br>
-          <p>Annual Day celebrations in West Drayton, UK.</p>
+          <b>Malaysia Annual Day 2022</b><br>
+          <p>Annual Day celebrations in Kualalumpur at 5pm MYT.</p>
       </div>
 
       <div class="date-wise">
@@ -256,6 +245,9 @@
   <br>
 
   <div id="portfolio" class="clearfix">
+    <div class="col-md-3 col-sm-3 col-xs-6">
+      <iframe width="100%" height="250" src="https://www.youtube.com/embed/FyKe1IYbDmk" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+    </div>
     <div class="col-md-3 col-sm-3 col-xs-6">
       <iframe width="100%" height="250" src="https://www.youtube.com/embed/T98Tv-M_LgY" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
     </div>
