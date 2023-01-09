@@ -16,38 +16,39 @@
       <div class="slider-caption animation-edu-5 fadeInLeft">
         <div class="container">
           <!--<h3>THE BEST EDUCATION</h3>-->
-          <h1><span> பட்டமளிப்பு விழா - இலண்டன் மாணவர்கள் </span></h1>
-          <h1><span> BTEB 2021 exams </span></h1>
+          <h1><span> உலகளாவிய தமிழ்ப் பள்ளி - மலேசியா </span></h1>
+          <h1><span> ஆண்டு விழா 2022 </span></h1>
         </div>
       </div>
     </div>
 
-	  <div class="slide animation-edu-3 fadeInLeft"> <img src="img/homecarousel/2.jpg" alt="banner">
+    <div class="slide animation-edu-3 fadeInLeft"> <img src="img/homecarousel/2.jpg" alt="banner">
+      <div class="slider-caption animation-edu-5 fadeInLeft">
+        <div class="container">
+          <!--<h3>THE BEST EDUCATION</h3>-->
+          <h1><span> மலேசியா மாணவர்களின் கலை நிகழ்ச்சிகள் </span></h1>
+          <h1><span> ஆண்டு விழா 2022 (மலேசியா) </span></h1>
+        </div>
+      </div>
+    </div>
+
+    <div class="slide animation-edu-3 fadeInLeft"> <img src="img/homecarousel/3.jpg" alt="banner">
+      <div class="slider-caption animation-edu-5 fadeInLeft">
+        <div class="container">
+          <!--<h3>THE BEST EDUCATION</h3>-->
+          <h1><span> இலண்டன் - ஆண்டு விழா 2022 </span></h1>
+          <h1><span> கலந்துகொண்ட மாணவர்கள் </span></h1>
+        </div>
+      </div>
+    </div>
+
+	  <div class="slide animation-edu-3 fadeInLeft"> <img src="img/homecarousel/4.jpg" alt="banner">
       <div class="slider-caption animation-edu-5 fadeInLeft">
         <div class="container">
            <!-- <h3>THE BEST EDUCATION</h3> -->
-          <h1><span> உலகளாவிய தமிழ்ப் பள்ளி - ஆண்டு விழா 2022 </span></h1>
-          <h1><span> கலந்துகொண்ட மாணவர்கள் </span></h1>
+          <h1><span> பட்டமளிப்பு விழா - இலண்டன் மாணவர்கள் </span></h1>
+          <h1><span> BTEB 2021 exams </span></h1>
           <!-- <a href="https://en.wikipedia.org/wiki/Tamil_language" target="_blank">READMORE</a> -->
-        </div>
-      </div>
-    </div>
-
-    <div class="slide animation-edu-3 fadeInLeft"> <img src="img/homecarousel/3.png" alt="banner">
-      <div class="slider-caption animation-edu-5 fadeInLeft">
-        <!-- <div class="container">
-          <h1><span>" Read, Write & Speak </span></h1>
-          <h1><span> Tamil language in a very short period "</span></h1>
-        </div> -->
-      </div>
-    </div>
-	
-    <div class="slide animation-edu-3 fadeInLeft"> <img src="img/homecarousel/4.png" alt="banner">
-      <div class="slider-caption animation-edu-5 fadeInLeft">
-        <div class="container">
-        <!--<h3>THE BEST EDUCATION</h3>-->
-          <h1><span>" தமிழ், சொல்வளம் நிறைந்த மொழி. "</span></h1>
-          <!-- <h1><span> தமிழ்மொழி பழமையான பெரும்பாலான சொற்களை இன்றும் பயன்படுத்துகின்றது "</span></h1> -->
         </div>
       </div>
     </div>
@@ -55,9 +56,8 @@
     <div class="slide animation-edu-3 fadeInLeft"> <img src="img/homecarousel/5.png" alt="banner">
       <div class="slider-caption animation-edu-5 fadeInLeft">
         <div class="container">
-        <!--<h3>THE BEST EDUCATION</h3>-->
-          <h1><span>" ஒரு மொழியைக் கற்பது சிறப்பு</span></h1>
-          <h1><span> தாய் மொழியைக் கற்பது நமது பொறுப்பு "</span></h1>
+          <h1><span>" சொல்லில் உயர்வு தமிழ்ச் சொல்லே</span></h1>
+          <h1><span> அதைத் தொழுது படித்திடடி பாப்பா " - பாரதி</span></h1>
         </div>
       </div>
     </div>
@@ -65,23 +65,12 @@
     <div class="slide animation-edu-3 fadeInLeft"> <img src="img/homecarousel/6.png" alt="banner">
       <div class="slider-caption animation-edu-5 fadeInLeft">
         <div class="container">
-          <!--<h3>THE BEST EDUCATION</h3>-->
-          <h1><span>" சொல்லில் உயர்வு தமிழ்ச் சொல்லே</span></h1>
-          <h1><span> அதைத் தொழுது படித்திடடி பாப்பா " - பாரதி</span></h1>
+          <h1><span>" அச்சமில்லை அச்சமில்லை </span></h1>
+          <h1><span> அச்சமென்பதில்லையே " - பாரதி</span></h1>
         </div>
       </div>
     </div>
-
-	  <div class="slide animation-edu-3 fadeInLeft"> <img src="img/homecarousel/7.png" alt="banner">
-      <div class="slider-caption animation-edu-5 fadeInLeft">
-        <div class="container">
-           <!-- <h3>THE BEST EDUCATION</h3> -->
-          <h1><span>" 2500 ஆண்டுகளுக்கும் மேல் பழமை வாய்ந்த </span></h1>
-          <h1><span> இலக்கிய மரபைக் கொண்டுள்ளது தமிழ் மொழி "</span></h1>
-          <a href="https://en.wikipedia.org/wiki/Tamil_language" target="_blank">READMORE</a>
-        </div>
-      </div>
-    </div>
+	  
   </div>
 </div>
 
@@ -184,11 +173,11 @@
       <a href="#" style="text-transform:uppercase; color:#00847a;">Read more</a>
 
       <div class="news-heading">
-        <h5><span>Annual Day 2022</h5>
+        <h5><span>Malaysia - Annual Day 2022</h5>
       </div>
-      <p>A small glimpse of Global Tamil School's Annual Day event in UK</p>
-      <iframe width="100%" height="250" src="https://www.youtube.com/embed/Xw0v7gjYoLo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      <!-- <a href="#" style="text-transform:uppercase; color:#00847a;">Read more</a> -->
+      <p>A grand celebration of Annual Day event in Malaysia</p>
+      <iframe width="100%" height="250" src="https://www.youtube.com/embed/KmM5JNBunzk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
     </div>
     <div class="col-md-4 smal-dev-clearfix ani">
       <div class="news-heading">
@@ -216,18 +205,25 @@
         </div>
         <div class="annual-day"></div>
           <b>USA school reopens</b><br>
-          <p>USA scool will reopen during Jan 2022 </p>
+          <p>USA scool will reopen during Jan 2023 </p>
       </div>
       <!--Date end-->
-
       <div class="clearfix"></div>
 
       <a href="#" style="text-transform:uppercase; color:#00847a; margin:0 95px;" class="text-center">Read more</a>
 
       <!--Daete	 end-->
       <div class="clearfix"></div>
-      <!--Daete start-->
+
+      <div class="news-heading">
+        <h5><span>UK - Annual Day 2022</h5>
       </div>
+      <p>A small glimpse of Annual Day event in the UK</p>
+      <iframe width="100%" height="250" src="https://www.youtube.com/embed/Xw0v7gjYoLo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <!-- <a href="#" style="text-transform:uppercase; color:#00847a;">Read more</a> -->
+
+      <!--Daete start-->
+    </div>
       <!--Daete end-->
 
     <div class="col-md-4 smal-dev-clearfix ani">
@@ -245,6 +241,9 @@
   <br>
 
   <div id="portfolio" class="clearfix">
+    <div class="col-md-3 col-sm-3 col-xs-6">
+      <iframe width="100%" height="250" src="https://www.youtube.com/embed/4XnzsMfZHCM" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+    </div>
     <div class="col-md-3 col-sm-3 col-xs-6">
       <iframe width="100%" height="250" src="https://www.youtube.com/embed/FyKe1IYbDmk" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
     </div>
