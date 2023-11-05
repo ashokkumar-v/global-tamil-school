@@ -167,16 +167,16 @@
   <div class="container">
     <div class="col-md-4 smal-dev-clearfix ani wisewood-cont-abt">
       <div class="news-heading">
-        <h5><span>Academic Year 2021-2022</h5>
+        <h5><span>Academic Year 2022-2023</h5>
       </div>
-      <p>BTEB Examination for the academic year 2021-2022 is successfully completed. BTEB awarding ceremeony is conducted in Croydon on 4th November 2022.</p>
-      <a href="#" style="text-transform:uppercase; color:#00847a;">Read more</a>
+      <p>BTEB Examination for the academic year 2022-2023 has been successfully completed. BTEB awarding ceremeony is planned during April 2024.</p>
+      <a href="https://bteb.org.uk/award-day" style="text-transform:uppercase; color:#00847a;">Read more</a>
 
       <div class="news-heading">
-        <h5><span>Malaysia - Annual Day 2022</h5>
+        <h5><span>Malaysia - Annual Day 2023</h5>
       </div>
-      <p>A grand celebration of Annual Day event in Malaysia</p>
-      <iframe width="100%" height="250" src="https://www.youtube.com/embed/KmM5JNBunzk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <p>A grand celebration of Annual Day event at Kualalumpur</p>
+      <iframe width="100%" height="250" src="https://www.youtube.com/embed/Jb5wkYcy98k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     </div>
     <div class="col-md-4 smal-dev-clearfix ani">
@@ -188,24 +188,23 @@
       <!--Date start-->
       <div class="date-wise">
         <div class="date-time"> 
-          <p>14</p>
+          <p>13</p>
           <div class="clearfix"></div>
-          <span>Oct</span>
+          <span>May</span>
         </div>
         <div class="annual-day"></div>
-          <b>Malaysia Annual Day 2022</b><br>
-          <p>Annual Day celebrations in Kualalumpur at 5pm MYT.</p>
+          <b>UK Annual Day 2023</b><br>
+          <p>Annual Day celebrations at London at 12pm BST</p>
       </div>
-
       <div class="date-wise">
         <div class="date-time"> 
-          <p>TBD</p>
+          <p>9</p>
           <div class="clearfix"></div>
-          <span>Jan</span>
+          <span>Sep</span>
         </div>
         <div class="annual-day"></div>
-          <b>USA school reopens</b><br>
-          <p>USA scool will reopen during Jan 2023 </p>
+          <b>Malaysia Annual Day 2023</b><br>
+          <p>Annual Day celebrations at Kualalumpur at 5pm MYT.</p>
       </div>
       <!--Date end-->
       <div class="clearfix"></div>
@@ -216,10 +215,10 @@
       <div class="clearfix"></div>
 
       <div class="news-heading">
-        <h5><span>UK - Annual Day 2022</h5>
+        <h5><span>UK - Annual Day 2023</h5>
       </div>
       <p>A small glimpse of Annual Day event in the UK</p>
-      <iframe width="100%" height="250" src="https://www.youtube.com/embed/Xw0v7gjYoLo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="100%" height="250" src="https://www.youtube.com/embed/uexsWoEjC6c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       <!-- <a href="#" style="text-transform:uppercase; color:#00847a;">Read more</a> -->
 
       <!--Daete start-->
@@ -242,7 +241,10 @@
 
   <div id="portfolio" class="clearfix">
     <div class="col-md-3 col-sm-3 col-xs-6">
-      <iframe width="100%" height="250" src="https://www.youtube.com/embed/4XnzsMfZHCM" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+      <iframe width="100%" height="250" src="https://www.youtube.com/embed/Jb5wkYcy98k" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+    </div>
+    <div class="col-md-3 col-sm-3 col-xs-6">
+      <iframe width="100%" height="250" src="https://www.youtube.com/embed/0ol5ENtQOpw" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
     </div>
     <div class="col-md-3 col-sm-3 col-xs-6">
       <iframe width="100%" height="250" src="https://www.youtube.com/embed/FyKe1IYbDmk" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
