@@ -178,6 +178,22 @@
 
   <div class="page-content">
     <div class="container">
+      <div class="faculty-column">
+        <div class="card">
+          <img src="img/people/Sureka.jpg" alt="Sureka" style="width:100%">
+          <div class="faculty-container">
+            <h2 class="person-name">திருமதி. சுரேகா </h2>
+            <h2 class="person-name">Mrs. Sureka</h2>
+            <p class="faculty-title">Teacher</p>
+            <p>Bangalore, India</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="page-content">
+    <div class="container">
       <h3>Fine Arts</h3>
       <div class="faculty-column">
         <div class="card">

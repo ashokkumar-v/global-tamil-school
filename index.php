@@ -12,7 +12,28 @@
 </div>
 <div class="slider-portion">
   <div div class="slider1">
-    <div class="slide animation-edu-3 fadeInLeft"> <img src="img/homecarousel/1.jpg" alt="banner">
+    <div class="slide animation-edu-3 fadeInLeft"> <img src="img/homecarousel/2.JPG" alt="banner">
+      <div class="slider-caption animation-edu-5 fadeInLeft">
+        <div class="container">
+          <!--<h3>THE BEST EDUCATION</h3>-->
+          <h1><span> இலண்டன் - ஆண்டு விழா 2023 </span></h1>
+          <h1><span> கலந்துகொண்ட மாணவர்கள் </span></h1>
+        </div>
+      </div>
+    </div>
+
+    <div class="slide animation-edu-3 fadeInLeft"> <img src="img/homecarousel/4.JPG" alt="banner">
+      <div class="slider-caption animation-edu-5 fadeInLeft">
+        <div class="container">
+           <!-- <h3>THE BEST EDUCATION</h3> -->
+          <h1><span> பட்டமளிப்பு விழா - இலண்டன் மாணவர்கள் </span></h1>
+          <h1><span> BTEB 2022 exams </span></h1>
+          <!-- <a href="https://en.wikipedia.org/wiki/Tamil_language" target="_blank">READMORE</a> -->
+        </div>
+      </div>
+    </div>
+
+    <div class="slide animation-edu-3 fadeInLeft"> <img src="img/homecarousel/1.JPG" alt="banner">
       <div class="slider-caption animation-edu-5 fadeInLeft">
         <div class="container">
           <!--<h3>THE BEST EDUCATION</h3>-->
@@ -22,33 +43,12 @@
       </div>
     </div>
 
-    <div class="slide animation-edu-3 fadeInLeft"> <img src="img/homecarousel/2.jpg" alt="banner">
+    <div class="slide animation-edu-3 fadeInLeft"> <img src="img/homecarousel/3.JPG" alt="banner">
       <div class="slider-caption animation-edu-5 fadeInLeft">
         <div class="container">
           <!--<h3>THE BEST EDUCATION</h3>-->
           <h1><span> மலேசியா மாணவர்களின் கலை நிகழ்ச்சிகள் </span></h1>
           <h1><span> ஆண்டு விழா 2022 (மலேசியா) </span></h1>
-        </div>
-      </div>
-    </div>
-
-    <div class="slide animation-edu-3 fadeInLeft"> <img src="img/homecarousel/3.jpg" alt="banner">
-      <div class="slider-caption animation-edu-5 fadeInLeft">
-        <div class="container">
-          <!--<h3>THE BEST EDUCATION</h3>-->
-          <h1><span> இலண்டன் - ஆண்டு விழா 2022 </span></h1>
-          <h1><span> கலந்துகொண்ட மாணவர்கள் </span></h1>
-        </div>
-      </div>
-    </div>
-
-	  <div class="slide animation-edu-3 fadeInLeft"> <img src="img/homecarousel/4.jpg" alt="banner">
-      <div class="slider-caption animation-edu-5 fadeInLeft">
-        <div class="container">
-           <!-- <h3>THE BEST EDUCATION</h3> -->
-          <h1><span> பட்டமளிப்பு விழா - இலண்டன் மாணவர்கள் </span></h1>
-          <h1><span> BTEB 2021 exams </span></h1>
-          <!-- <a href="https://en.wikipedia.org/wiki/Tamil_language" target="_blank">READMORE</a> -->
         </div>
       </div>
     </div>
