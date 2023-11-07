@@ -182,8 +182,8 @@
         <div class="card">
           <img src="img/people/Sureka.jpg" alt="Sureka" style="width:100%">
           <div class="faculty-container">
-            <h2 class="person-name">திருமதி. சுரேகா </h2>
-            <h2 class="person-name">Mrs. Sureka</h2>
+            <h2 class="person-name">திருமதி. சுரேகா வன்னியராஜா</h2>
+            <h2 class="person-name">Mrs. Sureka Vanniyaraja</h2>
             <p class="faculty-title">Teacher</p>
             <p>Bangalore, India</p>
           </div>
