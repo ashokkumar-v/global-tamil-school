@@ -189,6 +189,17 @@
           </div>
         </div>
       </div>
+      <div class="faculty-column">
+        <div class="card">
+          <img src="img/people/Vallimalar.jpg" alt="Valli" style="width:100%">
+          <div class="faculty-container">
+            <h2 class="person-name">திருமதி. வள்ளிமலர்</h2>
+            <h2 class="person-name">Mrs. Vallimalar</h2>
+            <p class="faculty-title">Teacher</p>
+            <p>Scotland, UK</p>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 
