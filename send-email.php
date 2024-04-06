@@ -2,7 +2,7 @@
 if(isset($_REQUEST["submit"]))
 {
 $from_email ="Noreply@gmail.com";
-$to_mail_admin = "admin@globaltamilschool.co.uk ";
+$to_mail_admin = "globaltamilschool@gmail.com ";
 $bcc_mail = "globaltamilschool@gmail.com";
 
 $name=$_REQUEST['name'];

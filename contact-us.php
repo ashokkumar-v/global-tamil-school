@@ -52,9 +52,9 @@
     <div class="col-md-4 col-sm-4 br-addr ani">
       <div class="conta-addr">
         <i class="fa fa-map-marker map_icon" aria-hidden="true"></i>
-        <p>73 Brecon Lodge<br>
-        4 Wintergreen Boulevard<br>
-        West Drayton, London UB7 9GJ</p>
+        <p>77 Echo Court<br>
+        Northolt Road<br>
+        Harrow, London HA2 0FU</p>
       </div>
     </div>
     <div class="col-md-4 col-sm-4 br-addr ani">
@@ -67,7 +67,7 @@
     <div class="col-md-4 col-sm-4 ani">
       <div class="conta-addr">
         <i class="fa fa-envelope mail_icon" aria-hidden="true"></i><br>
-        <a href="mailto:admin@globaltamilschool.co.uk">admin@globaltamilschool.co.uk</a>
+        <a href="mailto:globaltamilschool@gmail.com">globaltamilschool@gmail.com</a>
       </div>
     </div>
     <div class="clearfix"></div>

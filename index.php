@@ -169,13 +169,13 @@
       <div class="news-heading">
         <h5><span>Academic Year 2022-2023</h5>
       </div>
-      <p>BTEB Examination for the academic year 2022-2023 has been successfully completed. BTEB awarding ceremeony is planned during April 2024.</p>
+      <p>BTEB Examination for the academic year 2022-2023 has been successfully completed.</p>
       <a href="https://bteb.org.uk/award-day" style="text-transform:uppercase; color:#00847a;">Read more</a>
 
       <div class="news-heading">
         <h5><span>Malaysia - Annual Day 2023</h5>
       </div>
-      <p>A grand celebration of Annual Day event at Kualalumpur</p>
+      <p>A grand celebration of the event at Kualalumpur</p>
       <iframe width="100%" height="250" src="https://www.youtube.com/embed/Jb5wkYcy98k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     </div>
@@ -188,23 +188,33 @@
       <!--Date start-->
       <div class="date-wise">
         <div class="date-time"> 
-          <p>13</p>
+          <p>4</p>
           <div class="clearfix"></div>
           <span>May</span>
         </div>
         <div class="annual-day"></div>
-          <b>UK Annual Day 2023</b><br>
-          <p>Annual Day celebrations at London at 12pm BST</p>
+          <b>UK Annual Day 2024</b><br>
+          <p>celebrations at Westy Drayton London at 12pm BST</p>
       </div>
       <div class="date-wise">
         <div class="date-time"> 
-          <p>9</p>
+          <p>3</p>
           <div class="clearfix"></div>
-          <span>Sep</span>
+          <span>Mar</span>
         </div>
         <div class="annual-day"></div>
-          <b>Malaysia Annual Day 2023</b><br>
-          <p>Annual Day celebrations at Kualalumpur at 5pm MYT.</p>
+          <b>BTEB Awarding Ceremony 2024</b><br>
+          <p>awarding for BTEB exam 2023 at Wallington, London at 2pm BST.</p>
+      </div>
+      <div class="date-wise">
+        <div class="date-time"> 
+          <p>23</p>
+          <div class="clearfix"></div>
+          <span>Dec</span>
+        </div>
+        <div class="annual-day"></div>
+          <b>கதை கேளீர். கதை கேளீர்.</b><br>
+          <p>Online story telling event starts at 10am BST.</p>
       </div>
       <!--Date end-->
       <div class="clearfix"></div>

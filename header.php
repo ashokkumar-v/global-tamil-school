@@ -52,7 +52,7 @@
         </div>
         <div class="emailaddress">
           <i class="fa fa-envelope" aria-hidden="true"></i>
-          <a href="mailto:admin@globaltamilschool.co.uk">admin@globaltamilschool.co.uk</a>
+          <a href="mailto:globaltamilschool@gmail.com">globaltamilschool@gmail.com</a>
         </div>
         <!--<div class="aff-no">
         Affiliation No : 12345

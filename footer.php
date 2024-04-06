@@ -40,16 +40,14 @@
     <div class="quick-links">
       <h4>Contact Us</h4>
       <div class="address-footer">
-        <p><b>UK Branch:</b> 73 Brecon Lodge, 4 Wintergreen Boulevard, West Drayton, London - UB7 9GJ</p>
-        <p><b>Based:</b> Melvin Hall, Community Centre, London SE20 8EU<p>
-        <p><b>Correspondence:</b> 15 Bowmead, Mottingham, London SE9 3NL<p>
+        <p><b>UK Branch:</b> 77 Echo Court, Northolt Road, Harrow, London HA2 0FU</p>
       </div>
       <div class="phone-footer">
         <p><b>UK:</b> +44 74597 13276, +44 74382 17913</p>
         <p><b>Malaysia:</b> +60 11 3539 3014</p>
       </div>
       <div class="emailaddress email-footer">
-        <a href="mailto:admin@globaltamilschool.co.uk">admin@globaltamilschool.co.uk</a>
+        <a href="mailto:globaltamilschool@gmail.com">globaltamilschool@gmail.com</a>
       </div>
     </div>
   </div>
