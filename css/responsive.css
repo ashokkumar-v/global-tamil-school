@@ -1,4 +1,4 @@
-.mob-social-header{font:14px/40px 'Dosis';background:#720606;}
+.mob-social-header{font:14px/40px 'Dosis';background:RGB(1,65,111);}
 
 @media (max-width:1200px){
     .nav > li > a {
@@ -158,7 +158,7 @@
     float: none;
     width: auto;
     margin-top: 0;
-     background-color:#720606; 
+     background-color:RGB(1,65,111); 
     border: 0;
     -webkit-box-shadow: none;
     box-shadow: none;
@@ -198,7 +198,7 @@
     background-color: transparent;
 }
 .navbar-inverse .navbar-toggle .icon-bar {
-    background-color: #720606;
+    background-color: RGB(1,65,111);
 }
 .navbar-inverse .navbar-toggle:hover {
      background-color: transparent;

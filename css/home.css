@@ -1,20 +1,48 @@
 .title-component {
   text-align: center;
+  background-color: RGB(1,65,111);
+  background-image: url("../images/whitePattern.png");
+  background-size: contain ;
   margin: 0;
-  padding: 0;
+  padding: 20px 0 30px;
+}
+
+.title-image {
+  width:60%;
+  padding:10px 0 5px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.title-image.english {
+  padding:10px 0 5px;
+  width:45%;
 }
 
 .title-component h1 {
   font-weight: 750;
   line-height: 1.75;
 	color:#FFF;
-  background-color: #720606;
   margin: 0;
   padding: 0;
 }
 
 @media screen and (max-width: 768px) {
+  .title-component {
+    padding: 5px 0 10px;
+  }
+
   .title-component h1 {
     font-size: 28px;
   }
+
+  .title-image {
+    width:80%;
+  }
+
+  .title-image.english {
+    width:60%;
+  }
+
 }

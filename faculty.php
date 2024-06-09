@@ -11,7 +11,8 @@
 <body>
 <?php include "header.php";?>
 <div class="title-component">
-  <h1 class="mukta-malar-bold">உலகளாவிய தமிழ்ப் பள்ளி<br>Global Tamil School</h1>
+  <img class="title-image" src="images/gtsTamilTitle.png" alt="உலகளாவிய தமிழ்ப் பள்ளி"\>
+  <img class="title-image english" src="images/gtsEnglishTitle.png" alt="Global Tamil School"\>
 </div>
 <div class="clearfix"></div>
 

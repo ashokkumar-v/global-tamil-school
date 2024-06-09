@@ -12,7 +12,8 @@
 <div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v20.0" nonce="uz0KD3pB"></script>
 <div class="title-component">
-  <h1 class="mukta-malar-bold">உலகளாவிய தமிழ்ப் பள்ளி<br>Global Tamil School</h1>
+  <img class="title-image" src="images/gtsTamilTitle.png" alt="உலகளாவிய தமிழ்ப் பள்ளி"\>
+  <img class="title-image english" src="images/gtsEnglishTitle.png" alt="Global Tamil School"\>
 </div>
 <div class="slider-portion">
   <div div class="slider1">
@@ -104,15 +105,15 @@
     <div id="owl-demo" class="owl-carousel ani">
       <div class="item wise-woods-icon">
         <img src="img/school.jpg" alt="img">
-        <div class="slide-test"><a href="courses.php">பாடத்திட்டம்<br>Syllabus</a></div>
+        <div class="slide-test"><a href="courses.php" class="mukta-malar-regular">பாடத்திட்டம்<br>Syllabus</a></div>
       </div>
       <div class="item wise-woods-icon">
         <img src="images/certificate_medal.jpg" alt="img">
-        <div class="slide-test"><a href="#">விருதுகள்<br>Awards</a></div>
+        <div class="slide-test"><a href="#" class="mukta-malar-regular">விருதுகள்<br>Awards</a></div>
       </div>
       <div class="item wise-woods-icon">
         <img src="images/Teaching_materials.jpg" alt="img">
-        <div class="slide-test"><a href="#">பணித்தாள்கள்<br>Worksheets</a></div>
+        <div class="slide-test"><a href="#" class="mukta-malar-regular">பணித்தாள்கள்<br>Worksheets</a></div>
       </div>
     </div>
   </div>
@@ -171,13 +172,13 @@
   <div class="container">
     <div class="col-md-4 smal-dev-clearfix ani wisewood-cont-abt">
       <div class="news-heading">
-        <h5><span>Academic Year 2023-2024</h5>
+        <h5><span><b>Academic Year 2023-2024</b></h5>
       </div>
       <p>Registrations open for Academic year 24-25. Please contact us for classes.</p>
       <a href="https://bteb.org.uk/award-day" style="text-transform:uppercase; color:#00847a;">Read more</a>
 
       <div class="news-heading">
-        <h5><span>Malaysia - Annual Day 2023</h5>
+        <h5><span><b>Malaysia - Annual Day 2023</b></h5>
       </div>
       <p>A grand celebration of the event at Kualalumpur</p>
       <iframe width="100%" height="250" src="https://www.youtube.com/embed/Jb5wkYcy98k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -185,8 +186,8 @@
     </div>
     <div class="col-md-4 smal-dev-clearfix ani">
       <div class="news-heading">
-        <h5><span>முக்கிய நாட்கள் </span><br>
-        Important Dates</h5>
+        <h5><span class="mukta-malar-bold">முக்கிய நாட்கள் </span><br>
+        <b>Important Dates</b></h5>
       </div>
 
       <!--Date start-->
@@ -231,7 +232,7 @@
       <div class="clearfix"></div>
 
       <div class="news-heading">
-        <h5><span>UK - Annual Day 2024</h5>
+        <h5><span><b>UK - Annual Day 2024</b></h5>
       </div>
       <p>A small glimpse of Annual Day event in the UK</p>
       <iframe width="100%" height="250" src="https://www.youtube.com/embed/6JXFDEumZfI?si=zcYRVPfMGs1Ca18i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -243,8 +244,7 @@
 
     <div class="col-md-4 smal-dev-clearfix ani">
       <div class="news-heading">
-        <h5><span>VIEW</span><br>
-        தமிழ்மொழி வாழ்த்து - எங்கள் மாணவிகள்</h5>
+        <h5 class="mukta-malar-bold">தமிழ்மொழி வாழ்த்து - எங்கள் மாணவிகள்</h5>
       </div>
       <div class="video-img">
         <iframe src="https://www.youtube.com/embed/7KCGSsdO95c" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>

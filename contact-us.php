@@ -9,7 +9,7 @@
 <?php include "header.php";?>
 <div class="slider-portion wisinsli">
   <div class="slider1">
-    <div class="slide animation-edu-3 fadeInDown"> <img src="img/contact-banner.jpg" alt="banner">
+    <div class="slide animation-edu-3 fadeInDown"> <img src="images/worldBackground.png" alt="banner">
     </div>
   </div>
 </div>
