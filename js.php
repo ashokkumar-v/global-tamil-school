@@ -7,3 +7,4 @@
 <script src="js/set-iframe-height-parent.js"></script>
 <script src="js/TweenMax.min.js"></script>
 <script src="js/ScrollToPlugin.min.js"></script>
+<script src="js/modal.js"></script>

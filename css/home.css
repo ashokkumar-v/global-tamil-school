@@ -8,7 +8,7 @@
 }
 
 .title-image {
-  width:60%;
+  width: 700px;
   padding:10px 0 5px;
   margin-left: auto;
   margin-right: auto;
@@ -17,7 +17,7 @@
 
 .title-image.english {
   padding:10px 0 5px;
-  width:45%;
+  width:560px;
 }
 
 .title-component h1 {
@@ -27,6 +27,68 @@
   margin: 0;
   padding: 0;
 }
+
+/* The Modal (background) */
+.my-modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 999; /* Sit on top */
+  padding-top: 50px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
+}
+
+/* Modal Content (image) */
+.modal-content {
+  margin: auto;
+  display: block;
+  height: 90%;
+  max-width: 700px;
+  cursor: pointer;
+}
+
+/* Add Animation */
+.modal-content {  
+  animation-name: zoom;
+  animation-duration: 0.6s;
+}
+
+@keyframes zoom {
+  from {transform: scale(0.1)} 
+  to {transform: scale(1)}
+}
+
+/* The Close Button */
+.modal-close-btn {
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  color: #f1f1f1;
+  font-size: 20px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.modal-close-btn:hover,
+.modal-close-btn:focus {
+  color: #bbb;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/* 100% Image Width on Smaller Screens */
+@media only screen and (max-width: 700px){
+  .modal-content {
+    height: auto;
+    width: 90%;
+  }
+}
+
 
 @media screen and (max-width: 768px) {
   .title-component {
@@ -44,5 +106,4 @@
   .title-image.english {
     width:60%;
   }
-
 }

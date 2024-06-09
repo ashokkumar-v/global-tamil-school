@@ -15,6 +15,13 @@
   <img class="title-image" src="images/gtsTamilTitle.png" alt="உலகளாவிய தமிழ்ப் பள்ளி"\>
   <img class="title-image english" src="images/gtsEnglishTitle.png" alt="Global Tamil School"\>
 </div>
+
+<!-- The Modal -->
+<div id="myModal" class="my-modal">
+  <span class="modal-close-btn">Close&nbsp;&nbsp;X</span>
+  <img class="modal-content" src="images/splash.png" alt="Information">
+</div>
+
 <div class="slider-portion">
   <div div class="slider1">
     <div class="slide animation-edu-3 fadeInLeft"> <img src="img/homecarousel/2.JPG" alt="banner">
@@ -72,6 +79,14 @@
         <div class="container">
           <h1><span class="mukta-malar-regular">" அச்சமில்லை அச்சமில்லை </span></h1>
           <h1><span class="mukta-malar-regular"> அச்சமென்பதில்லையே " - பாரதி</span></h1>
+        </div>
+      </div>
+    </div>
+
+    <div class="slide animation-edu-3 fadeInLeft"> <img src="img/homecarousel/7.jpg" alt="banner">
+      <div class="slider-caption animation-edu-5 fadeInLeft">
+        <div class="container">
+          <h1><span class="mukta-malar-regular"> ஆண்டு விழா 2023 (மலேசியா) </span></h1>
         </div>
       </div>
     </div>
