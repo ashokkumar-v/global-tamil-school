@@ -10,3 +10,4 @@
 <link href="css/jquery.bxslider.css" type="text/css" rel="stylesheet"/>
 <link href="css/animation.css" type="text/css" rel="stylesheet"/>
 <link href="css/responsive.css" type="text/css" rel="stylesheet"/>
+<link href="css/fonts.css" type="text/css" rel="stylesheet"/>

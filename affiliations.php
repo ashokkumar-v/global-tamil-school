@@ -3,12 +3,14 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Mukta+Malar:wght@200;300;400;500;600;700;800&display=swap" rel="stylesheet">
 <?php include "css.php";?>
 </head>
 <body>
 <?php include "header.php";?>
 <div class="title-component">
-  <h1>தொடர்பு நிறுவனங்கள்<br>OUR AFFILIATIONS</h1>
+  <h1 class="mukta-malar-bold">தொடர்பு நிறுவனங்கள்<br>OUR AFFILIATIONS</h1>
 </div>
 
 <div class="clearfix"></div>

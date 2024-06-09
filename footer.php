@@ -6,6 +6,7 @@
       <div class="social">
         <a href="https://www.facebook.com/globaltamilschool" target="_blank"><img src="img/facebook.png" alt="social"/></a>
         <a href="https://www.youtube.com/channel/UC5EIQagW7HUq4i_8zcyOa8Q" target="_blank"><img src="images/you-tube-icon.png" alt="social"/></a>
+        <a href="https://x.com/GlobalTamilSchl" target="_blank"><img src="images/twitter.png" alt="social"/></a>
       </div>
     </div>
   </div>
@@ -22,7 +23,7 @@
       <div class="col-md-6 no-pad-cxs no-pad-cxs">
         <ul class="quick-text">
           <li><a href="affiliations.php">Our Affiliations</a></li>
-          <li><a href="faculty.php">Branches, Teachers & Committee </a></li>
+          <li><a href="faculty.php">Teachers & Committee </a></li>
         </ul>
       </div>
     </div>
@@ -40,7 +41,7 @@
     <div class="quick-links">
       <h4>Contact Us</h4>
       <div class="address-footer">
-        <p><b>UK Branch:</b> 77 Echo Court, Northolt Road, Harrow, London HA2 0FU</p>
+        <p><b>Registered Office:</b> 77 Echo Court, Northolt Road, Harrow,<br>London HA2 0FU,UK</p>
       </div>
       <div class="phone-footer">
         <p><b>UK:</b> +44 74597 13276, +44 74382 17913</p>

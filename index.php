@@ -3,12 +3,16 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Mukta+Malar:wght@200;300;400;500;600;700;800&display=swap" rel="stylesheet">
 <?php include "css.php";?>
 </head>
 <body>
 <?php include "header.php";?>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v20.0" nonce="uz0KD3pB"></script>
 <div class="title-component">
-  <h1>உலகளாவிய தமிழ்ப் பள்ளி<br>Global Tamil School</h1>
+  <h1 class="mukta-malar-bold">உலகளாவிய தமிழ்ப் பள்ளி<br>Global Tamil School</h1>
 </div>
 <div class="slider-portion">
   <div div class="slider1">
@@ -16,8 +20,8 @@
       <div class="slider-caption animation-edu-5 fadeInLeft">
         <div class="container">
           <!--<h3>THE BEST EDUCATION</h3>-->
-          <h1><span> இலண்டன் - ஆண்டு விழா 2023 </span></h1>
-          <h1><span> கலந்துகொண்ட மாணவர்கள் </span></h1>
+          <h1><span class="mukta-malar-regular"> இலண்டன் - ஆண்டு விழா 2023 </span></h1>
+          <h1><span class="mukta-malar-regular"> கலந்துகொண்ட மாணவர்கள் </span></h1>
         </div>
       </div>
     </div>
@@ -26,8 +30,8 @@
       <div class="slider-caption animation-edu-5 fadeInLeft">
         <div class="container">
            <!-- <h3>THE BEST EDUCATION</h3> -->
-          <h1><span> பட்டமளிப்பு விழா - இலண்டன் மாணவர்கள் </span></h1>
-          <h1><span> BTEB 2022 exams </span></h1>
+          <h1><span class="mukta-malar-regular"> பட்டமளிப்பு விழா - இலண்டன் மாணவர்கள் </span></h1>
+          <h1><span class="mukta-malar-regular"> BTEB 2022 exams </span></h1>
           <!-- <a href="https://en.wikipedia.org/wiki/Tamil_language" target="_blank">READMORE</a> -->
         </div>
       </div>
@@ -37,8 +41,8 @@
       <div class="slider-caption animation-edu-5 fadeInLeft">
         <div class="container">
           <!--<h3>THE BEST EDUCATION</h3>-->
-          <h1><span> உலகளாவிய தமிழ்ப் பள்ளி - மலேசியா </span></h1>
-          <h1><span> ஆண்டு விழா 2022 </span></h1>
+          <h1><span class="mukta-malar-regular"> உலகளாவிய தமிழ்ப் பள்ளி - மலேசியா </span></h1>
+          <h1><span class="mukta-malar-regular"> ஆண்டு விழா 2022 </span></h1>
         </div>
       </div>
     </div>
@@ -47,8 +51,8 @@
       <div class="slider-caption animation-edu-5 fadeInLeft">
         <div class="container">
           <!--<h3>THE BEST EDUCATION</h3>-->
-          <h1><span> மலேசியா மாணவர்களின் கலை நிகழ்ச்சிகள் </span></h1>
-          <h1><span> ஆண்டு விழா 2022 (மலேசியா) </span></h1>
+          <h1><span class="mukta-malar-regular"> மலேசியா மாணவர்களின் கலை நிகழ்ச்சிகள் </span></h1>
+          <h1><span class="mukta-malar-regular"> ஆண்டு விழா 2022 (மலேசியா) </span></h1>
         </div>
       </div>
     </div>
@@ -56,8 +60,8 @@
     <div class="slide animation-edu-3 fadeInLeft"> <img src="img/homecarousel/5.png" alt="banner">
       <div class="slider-caption animation-edu-5 fadeInLeft">
         <div class="container">
-          <h1><span>" சொல்லில் உயர்வு தமிழ்ச் சொல்லே</span></h1>
-          <h1><span> அதைத் தொழுது படித்திடடி பாப்பா " - பாரதி</span></h1>
+          <h1><span class="mukta-malar-regular">" சொல்லில் உயர்வு தமிழ்ச் சொல்லே</span></h1>
+          <h1><span class="mukta-malar-regular"> அதைத் தொழுது படித்திடடி பாப்பா " - பாரதி</span></h1>
         </div>
       </div>
     </div>
@@ -65,8 +69,8 @@
     <div class="slide animation-edu-3 fadeInLeft"> <img src="img/homecarousel/6.png" alt="banner">
       <div class="slider-caption animation-edu-5 fadeInLeft">
         <div class="container">
-          <h1><span>" அச்சமில்லை அச்சமில்லை </span></h1>
-          <h1><span> அச்சமென்பதில்லையே " - பாரதி</span></h1>
+          <h1><span class="mukta-malar-regular">" அச்சமில்லை அச்சமில்லை </span></h1>
+          <h1><span class="mukta-malar-regular"> அச்சமென்பதில்லையே " - பாரதி</span></h1>
         </div>
       </div>
     </div>
@@ -78,14 +82,14 @@
 <div class="page-content">
   <div class="container">
     <div class="heading ani">
-      <h2>உலகளாவிய தமிழ்ப் பள்ளி</h2>
-      <h1><span>தரணியெங்கும் தமிழ்த் தலைமுறை</span></h1>
+      <h2 class="mukta-malar-bold">உலகளாவிய தமிழ்ப் பள்ளி</h2>
+      <h1><span class="mukta-malar-regular">தரணியெங்கும் தமிழ்த் தலைமுறை</span></h1>
     </div>
     <div class="welcome-content ani">
-      <p>உலகளாவிய தமிழ்ப் பள்ளி, தமிழ் மொழியினை இணையவழியூடாக உலகமெங்கும் மாணவர்களுக்கு கற்பித்துக்கொண்டிருக்கிறது. சுலபமாகக் கற்கும் வகையிலும், மாணவர்களின் முன்னேற்றத்திற்கு உதவும் வகையிலுமான பாடத்திட்டங்களை தேர்ந்தெடுத்து வழங்கிக்கொடுள்ளோம். மிகவும் தரமான பணித்தாள்கள் மற்றும் மதிப்பீட்டு முறைகள் உபயோகப்படுத்துகிறோம். மிகவும் திருப்திகரமான எங்கள் மாணவர்கள் ஐக்கிய இராச்சியம், அமெரிக்கா, ஐரோப்பா, வளைகுடா நாடுகள், இந்தியா, சிங்கப்பூர், மலேசியா மற்றுமுள்ள உலகநாடுகளில் வசிக்கின்றனர்.</p>
-      <p>தமிழ் மொழி மட்டுமல்லாமல் நாங்கள் பரதநாட்டியம், வயலின், தபேலா, வீணை, கர்நாடக சங்கீதம் போன்ற இந்திய நிகழ்த்தும் கலை வகுப்புகளையும் இணையவழியூடாக நடத்திக்கொண்டிருக்கிறோம்.</p>
+      <p class="mukta-malar-regular">உலகளாவிய தமிழ்ப் பள்ளி, தமிழ் மொழியினை இணையவழியூடாக உலகமெங்கும் மாணவர்களுக்கு கற்பித்துக்கொண்டிருக்கிறது. சுலபமாகக் கற்கும் வகையிலும், மாணவர்களின் முன்னேற்றத்திற்கு உதவும் வகையிலுமான பாடத்திட்டங்களை தேர்ந்தெடுத்து வழங்கிக்கொடுள்ளோம். மிகவும் தரமான பணித்தாள்கள் மற்றும் மதிப்பீட்டு முறைகள் உபயோகப்படுத்துகிறோம். மிகவும் திருப்திகரமான எங்கள் மாணவர்கள் ஐக்கிய இராச்சியம், அமெரிக்கா, ஐரோப்பா, வளைகுடா நாடுகள், இந்தியா, சிங்கப்பூர், மலேசியா மற்றுமுள்ள உலகநாடுகளில் வசிக்கின்றனர்.</p>
+      <p class="mukta-malar-regular">தமிழ் மொழி மட்டுமல்லாமல் நாங்கள் பரதநாட்டியம், வயலின், தபேலா, வீணை, கர்நாடக சங்கீதம் போன்ற இந்திய நிகழ்த்தும் கலை வகுப்புகளையும் இணையவழியூடாக நடத்திக்கொண்டிருக்கிறோம்.</p>
       <div class="read-welcome">
-        <a href="about-us.php">மேலும் படிக்க</a>
+        <a href="about-us.php" class="mukta-malar-regular">மேலும் படிக்க</a>
       </div>
       <div class="heading ani">
         <h2>Global Tamil School</h2>
@@ -167,9 +171,9 @@
   <div class="container">
     <div class="col-md-4 smal-dev-clearfix ani wisewood-cont-abt">
       <div class="news-heading">
-        <h5><span>Academic Year 2022-2023</h5>
+        <h5><span>Academic Year 2023-2024</h5>
       </div>
-      <p>BTEB Examination for the academic year 2022-2023 has been successfully completed.</p>
+      <p>Registrations open for Academic year 24-25. Please contact us for classes.</p>
       <a href="https://bteb.org.uk/award-day" style="text-transform:uppercase; color:#00847a;">Read more</a>
 
       <div class="news-heading">
@@ -188,13 +192,24 @@
       <!--Date start-->
       <div class="date-wise">
         <div class="date-time"> 
+          <p>29</p>
+          <div class="clearfix"></div>
+          <span>Jun</span>
+        </div>
+        <div class="annual-day"></div>
+          <b>BTEB - Exams June 2024</b><br>
+          <p>British Tamil Examination Board online & offline exams</p>
+      </div>
+
+      <div class="date-wise">
+        <div class="date-time"> 
           <p>4</p>
           <div class="clearfix"></div>
           <span>May</span>
         </div>
         <div class="annual-day"></div>
           <b>UK Annual Day 2024</b><br>
-          <p>celebrations at Westy Drayton London at 12pm BST</p>
+          <p>Celebrations at Westy Drayton London at 12pm BST</p>
       </div>
       <div class="date-wise">
         <div class="date-time"> 
@@ -204,18 +219,9 @@
         </div>
         <div class="annual-day"></div>
           <b>BTEB Awarding Ceremony 2024</b><br>
-          <p>awarding for BTEB exam 2023 at Wallington, London at 2pm BST.</p>
+          <p>Awarding for BTEB exam 2023 at Wallington, London at 2pm BST.</p>
       </div>
-      <div class="date-wise">
-        <div class="date-time"> 
-          <p>23</p>
-          <div class="clearfix"></div>
-          <span>Dec</span>
-        </div>
-        <div class="annual-day"></div>
-          <b>கதை கேளீர். கதை கேளீர்.</b><br>
-          <p>Online story telling event starts at 10am BST.</p>
-      </div>
+      
       <!--Date end-->
       <div class="clearfix"></div>
 
@@ -225,10 +231,10 @@
       <div class="clearfix"></div>
 
       <div class="news-heading">
-        <h5><span>UK - Annual Day 2023</h5>
+        <h5><span>UK - Annual Day 2024</h5>
       </div>
       <p>A small glimpse of Annual Day event in the UK</p>
-      <iframe width="100%" height="250" src="https://www.youtube.com/embed/uexsWoEjC6c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="100%" height="250" src="https://www.youtube.com/embed/6JXFDEumZfI?si=zcYRVPfMGs1Ca18i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       <!-- <a href="#" style="text-transform:uppercase; color:#00847a;">Read more</a> -->
 
       <!--Daete start-->

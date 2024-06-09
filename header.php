@@ -12,6 +12,7 @@
       <div class="folow-us">
         <a href="https://www.facebook.com/globaltamilschool" target="_blank"><img src="images/facebook.png" alt="social"/></a>
         <a href="https://www.youtube.com/channel/UC5EIQagW7HUq4i_8zcyOa8Q" target="_blank"><img src="images/you-tube-icon.png" alt="social"/></a>
+        <a href="https://x.com/GlobalTamilSchl" target="_blank"><img src="images/twitter.png" alt="social"/></a>
       </div>
     </div>
     <div class="col-sm-8 col-xs-8 no-pad-menu">
@@ -35,6 +36,7 @@
       Follow us on :
         <a href="https://www.facebook.com/globaltamilschool" target="_blank"><img src="images/facebook.png" alt="social"/></a>
         <a href="https://www.youtube.com/channel/UC5EIQagW7HUq4i_8zcyOa8Q" target="_blank"><img src="images/you-tube-icon.png" alt="social"/></a>
+        <a href="https://x.com/GlobalTamilSchl" target="_blank"><img src="images/twitter.png" alt="social"/></a>      
       </div>
     </div>
     <div class="col-md-9 col-lg-9 no-pad-menu">
@@ -86,7 +88,7 @@
                       <li><a href="about-us.php">About us</a></li>
                       <li><a href="courses.php">Courses & Exams</a></li>
                       <li><a href="affiliations.php">Our Affiliations</a></li>
-                      <li><a href="faculty.php">Branches, Teachers & Committee</a></li>
+                      <li><a href="faculty.php">Teachers & Committee</a></li>
                     </ul>
                   </li>
                   <li class="dropdown dropdown-submenu"><a href="#" class="dropdown-toggle" data-toggle="dropdown">News & Blogs  <b class="caret"></b></a>
