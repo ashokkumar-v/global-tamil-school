@@ -19,20 +19,19 @@
 
 <div class="sel-program">
 
-<h1>தமிழ்மொழி</h1>
-<p><b class="color">தமிழ் மொழிப் பரீட்சைக்காக</b> ஐக்கிய இராச்சியத்திலுள்ள பிரித்தானிய தமிழ்மொழிப் பரீட்சைச் சபையின் (BTEB) பாடத்திட்டங்கள் பின்பற்றப்படுகின்றன.</p>
+<h1 class="mukta-malar-bold">தமிழ்மொழி</h1>
+<p class="color mukta-malar-regular"><b>தமிழ் மொழிப் பரீட்சைக்காக</b> ஐக்கிய இராச்சியத்திலுள்ள பிரித்தானிய தமிழ்மொழிப் பரீட்சைச் சபையின் (BTEB) பாடத்திட்டங்கள் பின்பற்றப்படுகின்றன.</p>
 <h1>Tamil Language</h1>
-<p><b class="color">We</b> follows the British Tamil Examination Board (BTEB), UK syllabus for Tamil Language examinations.</p>
-<h2>BTEB Pathway</h2>
-<img src="https://www.bteb.org.uk/images/pathway.gif" class="img-responsive" style="margin: 0 auto;">
+<p><b class="color">We</b> follow the British Tamil Examination Board (BTEB), UK syllabus for Tamil Language examinations.</p>
+<img src="images/btebBanner.png" class="img-responsive" style="margin: 0 auto; width: 90%;">
 <h3><a href="https://www.bteb.org.uk/programmes-qualifications.html">Detailed Information</a></h3>
-<h3><a href="https://www.bteb.org.uk/examination-schedule-2021.html">Examination Schedule 2021</a></h3>
-<h3><a href="https://www.bteb.org.uk/forms/BTEB-ApplicationForm%202021-v5.pdf">Application Form</a></h3>
+<h3><a href="https://www.bteb.org.uk/exam-schedule.php">Examination Schedule</a></h3>
+<button class="button-standard" href="https://system.bteb.org.uk">Exam Portal</button>
 <br>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 <br>
-<h1>நுண்கலைகள்</h1>
-<p><b class="color">நுண்கலைப் பாடங்களுக்காக</b> நாங்கள் கிரீபின் கல்லூரி லண்டன் (சர்வதேச பரீட்சைச் சபை) பாடத்திட்டங்களைப் பின்பற்றுகிறோம்.</p>
+<h1 class="mukta-malar-bold">நுண்கலைகள்</h1>
+<p><b class="color mukta-malar-regular">நுண்கலைப் பாடங்களுக்காக</b> நாங்கள் கிரீபின் கல்லூரி லண்டன் (சர்வதேச பரீட்சைச் சபை) பாடத்திட்டங்களைப் பின்பற்றுகிறோம்.</p>
 <ul>
   <li>இந்திய பாரம்பரிய நடனம்: பரதநாட்டியம்</li>
   <li>இந்திய கர்நாடக நடத்துகை </li>

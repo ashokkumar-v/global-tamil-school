@@ -1,0 +1,24 @@
+.button-standard {
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: black;
+    background-color: orange;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    width: 100%;
+  }
+  
+  .button-standard:hover {background-color: rgb(255, 106, 0)}
+  
+  .button-standard:active {
+    background-color: rgb(255, 106, 0);
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+  
