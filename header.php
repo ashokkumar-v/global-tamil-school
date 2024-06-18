@@ -8,6 +8,7 @@
     <div class="downloads col-lg-7 col-md-7 col-sm-7 col-xs-7">
     <a href="https://gaitview.com/gvt/login.html" target="_blank">Parents Login</a>
     </div>-->
+    <!-- Mobile views -->
     <div class="col-sm-4 col-xs-4">
       <div class="folow-us">
         <a href="https://www.facebook.com/globaltamilschool" target="_blank"><img src="images/facebook.png" alt="social"/></a>
@@ -25,15 +26,19 @@
         </div>
       </div>
     </div>
+    <div class="col-sm-12">
+      <marquee class="site-stripe-container" behavior="scroll" direction="left">
+        <a class="site-stripe mukta-malar-bold" href="/contact-us">2024 - 2025 கல்வி ஆண்டிற்கான மாணவர் சேர்க்கை நடைபெறுகிறது ! தொடர்பு கொள்ளவும்.</a>
+      </marquee>
+    </div>
   </div>
 </div>
-
-
 <div class="social-header hidden-sm hidden-xs">
   <div class="container">
-    <div class="col-md-3 col-lg-3">
+    <!-- Desktop & Tablet views -->
+    <div class="col-lg-2 col-md-3">
       <div class="folow-us">
-      Follow us on :
+        Follow us on :
         <a href="https://www.facebook.com/globaltamilschool" target="_blank"><img src="images/facebook.png" alt="social"/></a>
         <a href="https://www.youtube.com/channel/UC5EIQagW7HUq4i_8zcyOa8Q" target="_blank"><img src="images/you-tube-icon.png" alt="social"/></a>
         <a href="https://x.com/GlobalTamilSchl" target="_blank"><img src="images/twitter.png" alt="social"/></a>      
@@ -47,7 +52,6 @@
         <div class="downloads">
         <a href="downloads.html">Downloads</a>
         </div>-->
-
         <div class="phone-num">
           <i class="fa fa-phone" aria-hidden="true"></i>
           +44 74597 13276, +60 11 3539 3014
@@ -61,18 +65,24 @@
         </div>-->
       </div>
     </div>
+    <!-- Desktop & Tablet views -->
+    <div class="col-lg-12 col-md-12">
+      <marquee class="site-stripe-container" behavior="scroll" direction="left">
+        <a class="site-stripe mukta-malar-bold" href="/contact-us">2024 - 2025 கல்வி ஆண்டிற்கான மாணவர் சேர்க்கை நடைபெறுகிறது ! தொடர்பு கொள்ளவும்.</a>
+      </marquee>
+    </div>
   </div>
 </div>
 
 <div class="clearfix"></div>
 <div class="menu-part">
   <div class="container">
-    <div class="col-md-3 col-sm-3 col-xs-6 small-dev-logo">
+    <!-- <div class="col-md-3 col-sm-3 col-xs-6 small-dev-logo">
       <div class="logo-gts">
         <a href="/"><img src="img/GTS-logo-name.png" alt="logo" class="img-responsive" style="height:92px;"/></a>
       </div>
-    </div>
-    <div class="col-md-9 col-sm-9 col-xs-12 no-pad-menu">
+    </div> -->
+    <div class="col-xl-12 col-md-9 col-sm-9 col-xs-12 no-pad-menu">
       <div class="menu">
         <div class="main_menu">
           <nav class="navbar navbar-inverse no-pad-sd menu-smal-dev">

@@ -9,11 +9,12 @@
 </head>
 <body>
 <?php include "header.php";?>
+
 <div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v20.0" nonce="uz0KD3pB"></script>
+
 <div class="title-component">
-  <img class="title-image" src="images/gtsTamilTitle.png" alt="உலகளாவிய தமிழ்ப் பள்ளி"\>
-  <img class="title-image english" src="images/gtsEnglishTitle.png" alt="Global Tamil School"\>
+  <img class="title-image" src="images/title.png" alt="Global Tamil School"\>
 </div>
 
 <!-- The Modal -->
@@ -29,7 +30,7 @@
         <div class="container">
           <!--<h3>THE BEST EDUCATION</h3>-->
           <h1><span class="mukta-malar-regular"> இலண்டன் - ஆண்டு விழா 2023 </span></h1>
-          <h1><span class="mukta-malar-regular"> கலந்துகொண்ட மாணவர்கள் </span></h1>
+          <h1><span class="mukta-malar-regular"> இலண்டன் மாணவர்கள் </span></h1>
         </div>
       </div>
     </div>
@@ -90,7 +91,6 @@
         </div>
       </div>
     </div>
-	  
   </div>
 </div>
 
@@ -182,9 +182,11 @@
     </div>
   </div>
 </div> -->
+
 <div class="clearfix"></div>
 <div class="wise-woods-news">
   <div class="container">
+    <!-- *************** COLUMN 1 ***************** -->
     <div class="col-md-4 smal-dev-clearfix ani wisewood-cont-abt">
       <div class="news-heading">
         <h5><span><b>Academic Year 2023-2024</b></h5>
@@ -193,83 +195,72 @@
       <a href="https://bteb.org.uk/award-day" style="text-transform:uppercase; color:#00847a;">Read more</a>
 
       <div class="news-heading">
-        <h5><span><b>Malaysia - Annual Day 2023</b></h5>
-      </div>
-      <p>A grand celebration of the event at Kualalumpur</p>
-      <iframe width="100%" height="250" src="https://www.youtube.com/embed/Jb5wkYcy98k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-    </div>
-    <div class="col-md-4 smal-dev-clearfix ani">
-      <div class="news-heading">
-        <h5><span class="mukta-malar-bold">முக்கிய நாட்கள் </span><br>
-        <b>Important Dates</b></h5>
-      </div>
-
-      <!--Date start-->
-      <div class="date-wise">
-        <div class="date-time"> 
-          <p>29</p>
-          <div class="clearfix"></div>
-          <span>Jun</span>
-        </div>
-        <div class="annual-day"></div>
-          <b>BTEB - Exams June 2024</b><br>
-          <p>British Tamil Examination Board online & offline exams</p>
-      </div>
-
-      <div class="date-wise">
-        <div class="date-time"> 
-          <p>4</p>
-          <div class="clearfix"></div>
-          <span>May</span>
-        </div>
-        <div class="annual-day"></div>
-          <b>UK Annual Day 2024</b><br>
-          <p>Celebrations at Westy Drayton London at 12pm BST</p>
-      </div>
-      <div class="date-wise">
-        <div class="date-time"> 
-          <p>3</p>
-          <div class="clearfix"></div>
-          <span>Mar</span>
-        </div>
-        <div class="annual-day"></div>
-          <b>BTEB Awarding Ceremony 2024</b><br>
-          <p>Awarding for BTEB exam 2023 at Wallington, London at 2pm BST.</p>
-      </div>
-      
-      <!--Date end-->
-      <div class="clearfix"></div>
-
-      <a href="#" style="text-transform:uppercase; color:#00847a; margin:0 95px;" class="text-center">Read more</a>
-
-      <!--Daete	 end-->
-      <div class="clearfix"></div>
-
-      <div class="news-heading">
-        <h5><span><b>UK - Annual Day 2024</b></h5>
-      </div>
-      <p>A small glimpse of Annual Day event in the UK</p>
-      <iframe width="100%" height="250" src="https://www.youtube.com/embed/6JXFDEumZfI?si=zcYRVPfMGs1Ca18i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      <!-- <a href="#" style="text-transform:uppercase; color:#00847a;">Read more</a> -->
-
-      <!--Daete start-->
-    </div>
-      <!--Daete end-->
-
-    <div class="col-md-4 smal-dev-clearfix ani">
-      <div class="news-heading">
         <h5 class="mukta-malar-bold">தமிழ்மொழி வாழ்த்து - எங்கள் மாணவிகள்</h5>
       </div>
       <div class="video-img">
         <iframe src="https://www.youtube.com/embed/7KCGSsdO95c" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
       </div>
     </div>
-  </div>
-  <br>
-  <br>
-  <br>
 
+    <!-- *************** COLUMN 2 - IMPORTANT DATE COMPONENT ***************** -->
+    <div class="col-md-4 smal-dev-clearfix ani">
+      
+      <div class="news-heading">
+        <h5><span class="mukta-malar-bold">முக்கிய நாட்கள் </span><br>
+        <b>Important Dates</b></h5>
+      </div>
+      <!--Date start-->
+      <div class="date-wise">
+        <div class="date-time"> 
+          <p>29</p><span>Jun</span>
+        </div>
+        <div class="annual-day"></div>
+        <b>BTEB - Exams June 2024</b><br>
+        <p>British Tamil Examination Board online & offline exams</p>
+      </div>
+
+      <div class="date-wise">
+        <div class="date-time"> 
+          <p>4</p><span>May</span>
+        </div>
+        <div class="annual-day"></div>
+        <b>UK Annual Day 2024</b><br>
+        <p>Celebrations at Westy Drayton London at 12pm BST</p>
+      </div>
+
+      <div class="date-wise">
+        <div class="date-time"> 
+          <p>3</p><span>Mar</span>
+        </div>
+        <div class="annual-day"></div>
+        <b>BTEB Awarding Ceremony 2024</b><br>
+        <p>Awarding for BTEB exam 2023 at Wallington, London at 2pm BST.</p>
+      </div>
+  
+      <a href="#" style="text-transform:uppercase; color:#00847a; margin:0 95px;" class="text-center">Read more</a>
+      <div class="clearfix"></div>
+    </div>
+
+    <!-- *************** COLUMN 3 - Event Videos ***************** -->
+    <div class="col-md-4 smal-dev-clearfix ani">
+      <div class="news-heading">
+        <h5><span><b>UK - Annual Day 2024</b></h5>
+      </div>
+      <p>A small glimpse of Annual Day event in the UK</p>
+      <iframe width="100%" height="250" src="https://www.youtube.com/embed/6JXFDEumZfI?si=zcYRVPfMGs1Ca18i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+      <div class="news-heading">
+        <h5><span><b>Malaysia - Annual Day 2023</b></h5>
+      </div>
+      <p>A grand celebration of the event at Kualalumpur</p>
+      <iframe width="100%" height="250" src="https://www.youtube.com/embed/Jb5wkYcy98k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+  </div>
+
+  <br>
+  <br>
+  <br>
+  <!-- *************** SOCIAL POSTS / VIDEOS ***************** -->
   <div id="portfolio" class="clearfix">
     <div class="col-md-3 col-sm-3 col-xs-6">
       <iframe width="100%" height="250" src="https://www.youtube.com/embed/Jb5wkYcy98k" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
@@ -309,8 +300,7 @@
     </div>
   </div>
   
-  <div class="clearfix"></div>
-
+  <!-- *************** IMAGE BANNER ***************** -->
   <div id="portfolio" class="clearfix">                  
     <div class="col-md-3 col-sm-3 col-xs-6  no-pad-img-gallery-sli ani">
       <div class="image-wrapper overlay-fade-in gallery-btm">
@@ -356,26 +346,19 @@
   <div class="clearfix"></div>
 </div>
 
+<!-- *************** FOOTER ***************** -->
 <?php include "footer.php";?>
-
 <?php include "js.php";?>
 
-
-<script type="text/javascript">
-   /* $(document).ready(function(){
-        $("#myModal").modal('show');
-    });*/
-	
-	function isNumberKey(evt)
-       {
-          var charCode = (evt.which) ? evt.which : event.keyCode;
-          if (charCode != 46 && charCode > 31 
-            && (charCode < 48 || charCode > 57))
-             return false;
-
-          return true;
-       }
-
+<script type="text/javascript">	
+  function isNumberKey(evt)
+  {
+    var charCode = (evt.which) ? evt.which : event.keyCode;
+    if (charCode != 46 && charCode > 31 
+      && (charCode < 48 || charCode > 57))
+        return false;
+    return true;
+  }
 </script>
 
 </body>

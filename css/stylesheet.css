@@ -15,6 +15,9 @@ body{font-family: 'Dosis', sans-serif;}
   font-style: normal;
 }
 .social-header{font:14px/40px 'Dosis';background:RGB(1,65,111);}
+.site-stripe-container{height: 100%;line-height:20px;}
+.site-stripe{font-size:16px;color:yellow;}
+.site-stripe:hover{color:white}
 .folow-us{color:#FFF;}
 .phone-num{float:left;padding-right:10px;}
 .phone-num:before{/*content:url(../images/mobile-phone.png);*/padding-right:10px;float:left;}
@@ -143,9 +146,10 @@ color:#fff !important;
 .mobile-db-logo{display:none;}
 
 .nav > li > a {
-	margin:31px 0 0 0;
+	margin: 0;
     padding:6px 14px;
 	outline:0;
+    height: 60px;
 }
 /* .navbar-nav > li:last-child {
     background-image:none;
@@ -206,6 +210,10 @@ text-align:center;  margin: 0 auto;  margin-top: 30px; margin-bottom: 50px;  dis
 
 @media screen and (max-width: 768px) {
     .heading h2{width:80%}
+
+    .nav > li > a {
+        height: 30px;
+    }
 }
 
 /*font icon*/

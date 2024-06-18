@@ -11,8 +11,7 @@
 <body>
 <?php include "header.php";?>
 <div class="title-component">
-  <img class="title-image" src="images/gtsTamilTitle.png" alt="உலகளாவிய தமிழ்ப் பள்ளி"\>
-  <img class="title-image english" src="images/gtsEnglishTitle.png" alt="Global Tamil School"\>
+  <img class="title-image" src="images/title.png" alt="Global Tamil School"\>
 </div>
 <div class="clearfix"></div>
 
@@ -242,7 +241,7 @@
             <h2 class="person-name mukta-malar-bold">திருமதி. சுபாஷினி</h2>
             <h2 class="person-name">Mrs. Subhashini</h2>
             <p class="faculty-title">Teacher</p>
-            <p class="description">Trichy, India</p>
+            <p class="description">Tamilnadu, India</p>
           </div>
         </div>
       </div>

@@ -4234,6 +4234,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   .navbar-fixed-top .navbar-collapse,
   .navbar-fixed-bottom .navbar-collapse {
     max-height: 200px;
+    margin-top: 50px
   }
 }
 .container > .navbar-header,
@@ -4252,6 +4253,16 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
     margin-left: 0;
   }
 }
+
+@media (max-width: 768px) {
+  .container > .navbar-header,
+  .container-fluid > .navbar-header,
+  .container > .navbar-collapse,
+  .container-fluid > .navbar-collapse {
+    margin-top: 50px;
+  }
+}
+
 .navbar-static-top {
   z-index: 1000;
   border-width: 0 0 1px;
