@@ -50,6 +50,14 @@
       </div>
 
       <div class="item">
+        <img src="img/homecarousel/gts-students-world.png" alt="Los Angeles" style="width:100%;">
+        <div class="carousel-caption">
+          <h3><span class="mukta-malar-regular"> உலகெங்குமுள்ள எங்கள் மாணவர்கள் </span></h3>
+          <p><span class="mukta-malar-regular"> More than 300 students worldwide </span></p>
+        </div>
+      </div>
+
+      <div class="item">
         <img src="img/homecarousel/4.jpg" alt="Chicago" style="width:100%;">
         <div class="carousel-caption">
           <h3><span class="mukta-malar-regular"> பட்டமளிப்பு விழா - இலண்டன் மாணவர்கள் </span></h3>
