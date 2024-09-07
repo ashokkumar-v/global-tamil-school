@@ -1,11 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Mukta+Malar:wght@200;300;400;500;600;700;800&display=swap" rel="stylesheet">
-<?php include "css.php";?>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Mukta+Malar:wght@200;300;400;500;600;700;800&display=swap" rel="stylesheet">
+  <?php include "css.php";?>
+
+
 </head>
 <body>
 <?php include "header.php";?>
@@ -23,74 +27,85 @@
   <img class="modal-content" src="images/splash.png" alt="Information">
 </div>
 
-<div class="slider-portion">
-  <div div class="slider1">
-    <div class="slide animation-edu-3 fadeInLeft"> <img src="img/homecarousel/2.JPG" alt="banner">
-      <div class="slider-caption animation-edu-5 fadeInLeft">
-        <div class="container">
-          <!--<h3>THE BEST EDUCATION</h3>-->
-          <h1><span class="mukta-malar-regular"> இலண்டன் - ஆண்டு விழா 2023 </span></h1>
-          <h1><span class="mukta-malar-regular"> இலண்டன் மாணவர்கள் </span></h1>
+<div class="container" style="width:100%;">
+  <div id="myCarousel" class="carousel slide" data-ride="carousel">
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+      <li data-target="#myCarousel" data-slide-to="1"></li>
+      <li data-target="#myCarousel" data-slide-to="2"></li>
+    </ol>
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner">
+      <div class="item active">
+        <img src="img/homecarousel/scotland-ad.png" alt="Los Angeles" style="width:100%;">
+      </div>
+
+      <div class="item">
+        <img src="img/homecarousel/2.jpg" alt="Los Angeles" style="width:100%;">
+        <div class="carousel-caption">
+          <h3><span class="mukta-malar-regular"> இலண்டன் - ஆண்டு விழா 2023 </span></h3>
+          <p><span class="mukta-malar-regular"> இலண்டன் மாணவர்கள் </span></p>
+        </div>
+      </div>
+
+      <div class="item">
+        <img src="img/homecarousel/4.jpg" alt="Chicago" style="width:100%;">
+        <div class="carousel-caption">
+          <h3><span class="mukta-malar-regular"> பட்டமளிப்பு விழா - இலண்டன் மாணவர்கள் </span></h3>
+          <p><span class="mukta-malar-regular"> BTEB 2022 exams </span></p>
+        </div>
+      </div>
+    
+      <div class="item">
+        <img src="img/homecarousel/1.jpg" alt="New York" style="width:100%;">
+        <div class="carousel-caption">
+          <h3><span class="mukta-malar-regular"> உலகளாவிய தமிழ்ப் பள்ளி - மலேசியா </span></h3>
+          <p><span class="mukta-malar-regular"> ஆண்டு விழா 2022 </span></p>
+        </div>
+      </div>
+
+      <div class="item">
+        <img src="img/homecarousel/3.jpg" alt="New York" style="width:100%;">
+        <div class="carousel-caption">
+          <h3><span class="mukta-malar-regular"> மலேசியா மாணவர்களின் கலை நிகழ்ச்சிகள் </span></h3>
+          <p><span class="mukta-malar-regular"> ஆண்டு விழா 2022 (மலேசியா) </span></p>
+        </div>
+      </div>
+
+      <div class="item">
+        <img src="img/homecarousel/5.png" alt="New York" style="width:100%;">
+        <div class="carousel-caption">
+          <h3><span class="mukta-malar-regular">" சொல்லில் உயர்வு தமிழ்ச் சொல்லே</span></h3>
+          <h3><span class="mukta-malar-regular"> அதைத் தொழுது படித்திடடி பாப்பா " - பாரதி</span></h3>
+        </div>
+      </div>
+
+      <div class="item">
+        <img src="img/homecarousel/6.png" alt="New York" style="width:100%;">
+        <div class="carousel-caption">
+          <h3><span class="mukta-malar-regular">" அச்சமில்லை அச்சமில்லை </span></h3>
+          <h3><span class="mukta-malar-regular"> அச்சமென்பதில்லையே " - பாரதி</span></h3>
+        </div>
+      </div>
+
+      <div class="item">
+        <img src="img/homecarousel/7.jpg" alt="New York" style="width:100%;">
+        <div class="carousel-caption">
+          <h3><span class="mukta-malar-regular"> ஆண்டு விழா 2023 (மலேசியா) </span></h3>
         </div>
       </div>
     </div>
 
-    <div class="slide animation-edu-3 fadeInLeft"> <img src="img/homecarousel/4.JPG" alt="banner">
-      <div class="slider-caption animation-edu-5 fadeInLeft">
-        <div class="container">
-           <!-- <h3>THE BEST EDUCATION</h3> -->
-          <h1><span class="mukta-malar-regular"> பட்டமளிப்பு விழா - இலண்டன் மாணவர்கள் </span></h1>
-          <h1><span class="mukta-malar-regular"> BTEB 2022 exams </span></h1>
-          <!-- <a href="https://en.wikipedia.org/wiki/Tamil_language" target="_blank">READMORE</a> -->
-        </div>
-      </div>
-    </div>
-
-    <div class="slide animation-edu-3 fadeInLeft"> <img src="img/homecarousel/1.JPG" alt="banner">
-      <div class="slider-caption animation-edu-5 fadeInLeft">
-        <div class="container">
-          <!--<h3>THE BEST EDUCATION</h3>-->
-          <h1><span class="mukta-malar-regular"> உலகளாவிய தமிழ்ப் பள்ளி - மலேசியா </span></h1>
-          <h1><span class="mukta-malar-regular"> ஆண்டு விழா 2022 </span></h1>
-        </div>
-      </div>
-    </div>
-
-    <div class="slide animation-edu-3 fadeInLeft"> <img src="img/homecarousel/3.JPG" alt="banner">
-      <div class="slider-caption animation-edu-5 fadeInLeft">
-        <div class="container">
-          <!--<h3>THE BEST EDUCATION</h3>-->
-          <h1><span class="mukta-malar-regular"> மலேசியா மாணவர்களின் கலை நிகழ்ச்சிகள் </span></h1>
-          <h1><span class="mukta-malar-regular"> ஆண்டு விழா 2022 (மலேசியா) </span></h1>
-        </div>
-      </div>
-    </div>
-
-    <div class="slide animation-edu-3 fadeInLeft"> <img src="img/homecarousel/5.png" alt="banner">
-      <div class="slider-caption animation-edu-5 fadeInLeft">
-        <div class="container">
-          <h1><span class="mukta-malar-regular">" சொல்லில் உயர்வு தமிழ்ச் சொல்லே</span></h1>
-          <h1><span class="mukta-malar-regular"> அதைத் தொழுது படித்திடடி பாப்பா " - பாரதி</span></h1>
-        </div>
-      </div>
-    </div>
-
-    <div class="slide animation-edu-3 fadeInLeft"> <img src="img/homecarousel/6.png" alt="banner">
-      <div class="slider-caption animation-edu-5 fadeInLeft">
-        <div class="container">
-          <h1><span class="mukta-malar-regular">" அச்சமில்லை அச்சமில்லை </span></h1>
-          <h1><span class="mukta-malar-regular"> அச்சமென்பதில்லையே " - பாரதி</span></h1>
-        </div>
-      </div>
-    </div>
-
-    <div class="slide animation-edu-3 fadeInLeft"> <img src="img/homecarousel/7.jpg" alt="banner">
-      <div class="slider-caption animation-edu-5 fadeInLeft">
-        <div class="container">
-          <h1><span class="mukta-malar-regular"> ஆண்டு விழா 2023 (மலேசியா) </span></h1>
-        </div>
-      </div>
-    </div>
+    <!-- Left and right controls -->
+    <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+      <span class="glyphicon glyphicon-chevron-left"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#myCarousel" data-slide="next">
+      <span class="glyphicon glyphicon-chevron-right"></span>
+      <span class="sr-only">Next</span>
+    </a>
   </div>
 </div>
 
@@ -183,6 +198,7 @@
   </div>
 </div> -->
 
+
 <div class="clearfix"></div>
 <div class="wise-woods-news">
   <div class="container">
@@ -210,6 +226,25 @@
         <b>Important Dates</b></h5>
       </div>
       <!--Date start-->
+
+      <div class="date-wise">
+        <div class="date-time"> 
+          <p>7</p><span>Sep</span>
+        </div>
+        <div class="annual-day"></div>
+        <b>Scotland Annual Day 2024</b><br>
+        <p>Annual day is celebrated in Edinurgh for Scotland students</p>
+      </div>
+
+      <div class="date-wise">
+        <div class="date-time"> 
+          <p>2</p><span>Sep</span>
+        </div>
+        <div class="annual-day"></div>
+        <b>AY 2024-2025 starts</b><br>
+        <p>Academic year 2024-2025 is starting from September</p>
+      </div>
+
       <div class="date-wise">
         <div class="date-time"> 
           <p>29</p><span>Jun</span>
@@ -217,24 +252,6 @@
         <div class="annual-day"></div>
         <b>BTEB - Exams June 2024</b><br>
         <p>British Tamil Examination Board online & offline exams</p>
-      </div>
-
-      <div class="date-wise">
-        <div class="date-time"> 
-          <p>4</p><span>May</span>
-        </div>
-        <div class="annual-day"></div>
-        <b>UK Annual Day 2024</b><br>
-        <p>Celebrations at Westy Drayton London at 12pm BST</p>
-      </div>
-
-      <div class="date-wise">
-        <div class="date-time"> 
-          <p>3</p><span>Mar</span>
-        </div>
-        <div class="annual-day"></div>
-        <b>BTEB Awarding Ceremony 2024</b><br>
-        <p>Awarding for BTEB exam 2023 at Wallington, London at 2pm BST.</p>
       </div>
   
       <a href="#" style="text-transform:uppercase; color:#00847a; margin:0 95px;" class="text-center">Read more</a>
