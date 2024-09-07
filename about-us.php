@@ -10,7 +10,7 @@
 <body>
 <?php include "header.php";?>
 <div class="title-component">
-  <img class="title-image" src="images/title.png" alt="Global Tamil School"\>
+  <img class="title-image"  src="images/title.png" alt="Global Tamil School"\>
 </div>
 <div class="clearfix"></div>
 
@@ -20,7 +20,7 @@
     <div class="clearfix"></div>
     <div class="about-photo-img">
       <div class="col-md-12 ani">
-        <img src="img/GTS-logo.png" alt="img-photo" class="img-responsive" style="margin: 0 auto; margin-bottom: 20px;">
+        <img src="img/GTS-logo.png" alt="img-photo" class="img-responsive" style="width: 300px; margin: 0 auto; margin-bottom: 20px;">
       </div>
       <div class="col-md-12 ani">
       <div class="about-content">
@@ -42,9 +42,19 @@
           <br>
           <h2>Reviews & Ratings</h2>
           <section>
+          <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fvanitha.sathishkumar%2Fposts%2Fpfbid02fAnKqXFc6jvbyAsysuwhfCTvQJ39PbCSUm8MeXxXX6UDBamQUpR6j696W3ig8Dg9l&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+          <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fsarammabasheer%2Fposts%2Fpfbid06383UbqRwWcoAec25UPdhYyovXZQ4V77NDauTbvS3oFTPac3ED1MW5TYw5jaX639l&show_text=true&width=500" width="500" height="266" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
           <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ffirthose.anif%2Fposts%2F101824841981003&show_text=true&width=500" width="500" height="225" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-          <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fuma.ashok.52%2Fposts%2F10223004264028123&show_text=true&width=500" width="500" height="158" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
           <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D1379934639031182%26id%3D100010439771753&show_text=true&width=500" width="500" height="158" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+          </section>
+          <h2>Mentions</h2>
+          <section>
+          <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fsigaramtamilschool%2Fposts%2Fpfbid0dwoAV1aG6Bfdu78LRah6u6y9RZ1fRdtbBUthbhfEKuGsRgvBJWnzMdbDDgGYhaNVl&show_text=false&width=500" width="500" height="498" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+          <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fkathir.kr.7%2Fposts%2Fpfbid02n3cmqfYYWJKx3XhVCdimVaZJXQYpFCWVYYpWj5vTRMHaX8J2CwAuiFUR8t6byPsMl&show_text=false&width=500" width="500" height="498" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+          <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fappudhamodaran%2Fposts%2Fpfbid02bVPKqWVz4sNTxGkoYaLQGMUFu5TiJYY5HsExjgKcDy41oCLCMoadhLhfxA1WPWoFl&show_text=true&width=500" width="500" height="723" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+          <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0BMkTHLiXWmSEZut3KWjdqAcpmJpzBicWxq2v6YJbddcsnrvc6NhD1wYkzh4qiLRPl%26id%3D100090360911095&show_text=false&width=500" width="500" height="248" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+          <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02L4dLX3xTwBD3gkhdCjDjDy5h4SbcVqUsqvHLMkU4WqP17yBEEyNGjvd2zm3VZjFZl%26id%3D100080151633049&show_text=false&width=500" width="500" height="498" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+            
           </section>
         </div>
       </div>

@@ -125,7 +125,7 @@
       <h1><span class="mukta-malar-regular">தரணியெங்கும் தமிழ்த் தலைமுறை</span></h1>
     </div>
     <div class="welcome-content ani">
-      <p class="mukta-malar-regular">உலகளாவிய தமிழ்ப் பள்ளி, தமிழ் மொழியினை இணையவழியூடாக உலகமெங்கும் மாணவர்களுக்கு கற்பித்துக்கொண்டிருக்கிறது. சுலபமாகக் கற்கும் வகையிலும், மாணவர்களின் முன்னேற்றத்திற்கு உதவும் வகையிலுமான பாடத்திட்டங்களை தேர்ந்தெடுத்து வழங்கிக்கொடுள்ளோம். மிகவும் தரமான பணித்தாள்கள் மற்றும் மதிப்பீட்டு முறைகள் உபயோகப்படுத்துகிறோம். மிகவும் திருப்திகரமான எங்கள் மாணவர்கள் ஐக்கிய இராச்சியம், அமெரிக்கா, ஐரோப்பா, வளைகுடா நாடுகள், இந்தியா, சிங்கப்பூர், மலேசியா மற்றுமுள்ள உலகநாடுகளில் வசிக்கின்றனர்.</p>
+      <p class="mukta-malar-regular">உலகளாவிய தமிழ்ப் பள்ளி, தமிழ் மொழியினை இணையவழியூடாக உலகமெங்கும் மாணவர்களுக்கு கற்பித்துக்கொண்டிருக்கிறது. சுலபமாகக் கற்கும் வகையிலும், மாணவர்களின் முன்னேற்றத்திற்கு உதவும் வகையிலுமான பாடத்திட்டங்களை தேர்ந்தெடுத்து வழங்கிக்கொடுள்ளோம். மிகவும் தரமான பணித்தாள்கள் மற்றும் மதிப்பீட்டு முறைகள் உபயோகப்படுத்துகிறோம். மிகவும் திருப்திகரமான எங்கள் மாணவர்கள் ஐக்கிய இராச்சியம், அமெரிக்கா, கனடா, ஆஸ்திரேலியா, ஐரோப்பா, வளைகுடா நாடுகள், இந்தியா, சிங்கப்பூர், மலேசியா மற்றுமுள்ள உலகநாடுகளில் வசிக்கின்றனர்.</p>
       <p class="mukta-malar-regular">தமிழ் மொழி மட்டுமல்லாமல் நாங்கள் பரதநாட்டியம், வயலின், தபேலா, வீணை, கர்நாடக சங்கீதம் போன்ற இந்திய நிகழ்த்தும் கலை வகுப்புகளையும் இணையவழியூடாக நடத்திக்கொண்டிருக்கிறோம்.</p>
       <div class="read-welcome">
         <a href="about-us.php" class="mukta-malar-regular">மேலும் படிக்க</a>
@@ -133,7 +133,7 @@
       <div class="heading ani">
         <h2>Global Tamil School</h2>
       </div>
-      <p>We are online Tamil school offering online Tamil language classes for the students from all over the world. We carefully chose the syllabus and teaching methods that helps the students growth. We provide students with high quality textbooks and learning materials, worksheets & assessment. We have happy students all around the world including UK, USA, Europe, UAE, India, Singapore, Malaysia etc.,</p>
+      <p>We are online Tamil school offering online Tamil language classes for the students from all over the world. We carefully chose the syllabus and teaching methods that helps the students growth. We provide students with high quality textbooks and learning materials, worksheets & assessment. We have happy students all around the world including UK, USA, Canada, Australia, Europe, UAE, India, Singapore, Malaysia etc.,</p>
       <p>Apart from Language classes we also provide online classes for the indian performing arts like Bharathanatyam, Violin, Tabla, Veenai, Carnatic vocals, etc., </p>
       <div class="read-welcome">
         <a href="about-us.php">READMORE</a>
